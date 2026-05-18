@@ -1,0 +1,48 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e144]:
+      - link "百度首页" [ref=e145] [cursor=pointer]:
+        - /url: /
+      - link "设置" [ref=e146] [cursor=pointer]:
+        - /url: javascript:;
+      - link "登录" [ref=e147] [cursor=pointer]:
+        - /url: https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5
+    - generic [ref=e23]:
+      - generic [ref=e148]: 请按“回车”键发起检索
+      - generic [ref=e24]:
+        - generic:
+          - link "到百度首页" [ref=e149] [cursor=pointer]:
+            - /url: /
+            - img "到百度首页" [ref=e150]
+          - generic [ref=e35]:
+            - textbox "樊振东0比3不敌勒布伦" [ref=e37]: bilibili
+            - generic [ref=e39]:
+              - generic [ref=e40]:
+                - img [ref=e152] [cursor=pointer]
+                - img [ref=e48] [cursor=pointer]
+                - generic [ref=e51]:
+                  - img [ref=e55] [cursor=pointer]
+                  - img [ref=e60] [cursor=pointer]
+              - button "百度一下" [ref=e64] [cursor=pointer]
+  - generic [ref=e156]:
+    - link [ref=e157] [cursor=pointer]:
+      - /url: https://chat.baidu.com/search?pd=csaitab&setype=csaitab&extParamsJson=%7B%22enter_type%22%3A%22search_a_tab%22%2C%22sa%22%3A%22vs_tab%22%7D
+      - img [ref=e158]
+    - generic [ref=e159]: 网页
+    - link "图片" [ref=e160] [cursor=pointer]:
+      - /url: http://image.baidu.com/i?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8
+    - link "资讯" [ref=e161] [cursor=pointer]:
+      - /url: https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&ie=utf-8
+    - link "视频" [ref=e162] [cursor=pointer]:
+      - /url: http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=25&ie=utf-8
+    - link "笔记" [ref=e163] [cursor=pointer]:
+      - /url: http://www.baidu.com/s?pd=note&rpf=pc
+    - link "地图" [ref=e164] [cursor=pointer]:
+      - /url: https://map.baidu.com/?newmap=1&ie=utf-8&from=pstab&s=s
+    - link "贴吧" [ref=e165] [cursor=pointer]:
+      - /url: http://tieba.baidu.com/f?fr=wwwt&ie=utf-8
+    - link "文库" [ref=e166] [cursor=pointer]:
+      - /url: http://wenku.baidu.com/search?lm=0&od=0&ie=utf-8
+    - link "更多" [ref=e167] [cursor=pointer]:
+      - /url: http://www.baidu.com/more/
+    - generic [ref=e168]: 搜索工具

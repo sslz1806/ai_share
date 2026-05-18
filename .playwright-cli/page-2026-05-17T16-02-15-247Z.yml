@@ -1,0 +1,1237 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link [ref=e10] [cursor=pointer]:
+        - /url: https://www.jd.com/
+      - generic [ref=e12]:
+        - textbox "搜索" [ref=e13]: RTX5060
+        - generic [ref=e14]:
+          - generic [ref=e15]: 搜索
+          - switch [ref=e16] [cursor=pointer]
+        - button "搜索" [ref=e23] [cursor=pointer]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e32] [cursor=pointer]:
+            - generic [ref=e33]: 全部商品
+            - generic [ref=e35]: 新品
+            - generic [ref=e36]: 店铺
+            - generic "企业购精选商品，企业热销、超低折扣、对公支付、开票无忧" [ref=e37]: 企业采购
+            - generic [ref=e38]: 工业品
+          - generic [ref=e39]:
+            - generic [ref=e41] [cursor=pointer]: 配送至
+            - generic [ref=e42]:
+              - generic [ref=e43] [cursor=pointer]: 传统模式
+              - generic [ref=e44] [cursor=pointer]: 简洁模式
+        - generic [ref=e47]:
+          - generic [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]: 品牌
+              - generic [ref=e54]:
+                - generic [ref=e56] [cursor=pointer]: 华硕（ASUS）
+                - generic [ref=e58] [cursor=pointer]: 七彩虹（Colorful）
+                - generic [ref=e60] [cursor=pointer]: 影驰
+                - generic [ref=e62] [cursor=pointer]: 机械革命（MECHREVO）
+                - generic [ref=e64] [cursor=pointer]: 微星（MSI）
+                - generic [ref=e66] [cursor=pointer]: 技嘉（GIGABYTE）
+            - generic [ref=e68] [cursor=pointer]:
+              - generic [ref=e69]: 更多
+              - img [ref=e70]
+          - generic [ref=e75] [cursor=pointer]:
+            - generic [ref=e76]: 展开筛选
+            - img [ref=e78]
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - generic [ref=e82]:
+              - generic [ref=e83]:
+                - generic [ref=e87] [cursor=pointer]:
+                  - generic [ref=e88]: 综合
+                  - img [ref=e89]
+                - generic [ref=e91] [cursor=pointer]:
+                  - generic [ref=e92]: 销量
+                  - img [ref=e93]
+                - generic [ref=e95] [cursor=pointer]:
+                  - generic [ref=e96]: 价格
+                  - img [ref=e97]
+              - generic [ref=e102] [cursor=pointer]:
+                - generic [ref=e103]: 价格区间
+                - img [ref=e104]
+            - generic [ref=e108]:
+              - generic [ref=e111] [cursor=pointer]: 京东物流
+              - img [ref=e115] [cursor=pointer]
+              - img [ref=e119] [cursor=pointer]
+              - generic [ref=e123] [cursor=pointer]:
+                - generic [ref=e125]: 自营/旗舰
+                - img [ref=e127]
+              - generic [ref=e131] [cursor=pointer]:
+                - generic [ref=e133]: 品牌
+                - img [ref=e135]
+              - generic [ref=e138] [cursor=pointer]: 京东国际
+              - img [ref=e142] [cursor=pointer]
+              - generic [ref=e145] [cursor=pointer]: 货到付款
+              - generic [ref=e148] [cursor=pointer]: 仅显示有货
+              - generic [ref=e151] [cursor=pointer]: 可配送全球
+          - generic [ref=e153]:
+            - img [ref=e155] [cursor=pointer]
+            - generic [ref=e156]: "1"
+            - generic [ref=e157]: /
+            - generic [ref=e158]: "100"
+            - img [ref=e160] [cursor=pointer]
+      - generic [ref=e161]:
+        - generic [ref=e163]:
+          - generic [ref=e165] [cursor=pointer]:
+            - generic "七彩虹iGame GeForce RTX 5060 Advanced OC 8GB GDDR7 DLSS 4 电竞光追游戏设计电脑显卡 【5060】 Ultra W OC 8G" [ref=e168]:
+              - generic [ref=e169]: 广告
+            - generic [ref=e171]:
+              - generic "七彩虹iGame GeForce RTX 5060 Advanced OC 8GB GDDR7 DLSS 4 电竞光追游戏设计电脑显卡 【5060】 Ultra W OC 8G" [ref=e173]
+              - generic [ref=e175]:
+                - generic [ref=e176]: 100+人浏览
+                - generic [ref=e177]: "|超2万人关注店铺"
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - generic [ref=e180]: ¥
+                  - generic [ref=e181]: "3199"
+                - generic:
+                  - button [ref=e182]
+                  - img [ref=e183]
+              - generic "70人看过" [ref=e188]
+              - generic [ref=e191]: 七彩虹游戏组装电脑旗舰店
+          - generic [ref=e193] [cursor=pointer]:
+            - generic "铭瑄（MAXSUN）RTX5060 8G台式电脑电竞游戏人工智能算力独立显卡独显DLSS4 RTX5060 瑷珈Classic OC8G" [ref=e196]:
+              - img [ref=e198]
+            - generic [ref=e200]:
+              - generic [ref=e201]: 铭瑄（MAXSUN）RTX5060 8G台式电脑电竞游戏人工智能算力独立显卡独显DLSS4 RTX5060 瑷珈Classic OC8G
+              - generic [ref=e204]:
+                - generic [ref=e205]:
+                  - generic [ref=e206]: “
+                  - generic [ref=e207]: 耗电适中，和主板兼容性也很好
+                  - generic [ref=e208]: ”
+                - generic [ref=e209]:
+                  - generic [ref=e210]: 128bit芯片
+                  - generic [ref=e211]: "|8GB显存"
+                  - generic [ref=e212]: "|PCIe 5.0"
+                  - generic [ref=e213]: "|HDMI输出"
+                  - generic [ref=e214]: "|电竞游戏"
+                  - generic [ref=e215]: "|三风扇散热"
+                - generic [ref=e216]:
+                  - generic [ref=e217]: “
+                  - generic [ref=e218]: 耗电适中，和主板兼容性也很好
+                  - generic [ref=e219]: ”
+              - generic [ref=e220]:
+                - generic [ref=e221]:
+                  - generic [ref=e222]: ¥
+                  - generic [ref=e223]: "2849"
+                - generic [ref=e225]: 到手价
+                - generic [ref=e226]: ¥3149
+                - generic:
+                  - button [ref=e227]
+                  - img [ref=e228]
+              - generic [ref=e230]:
+                - img "京东物流" [ref=e232]
+                - generic [ref=e234]: 满2899减300
+                - generic [ref=e236]: 包邮
+              - generic [ref=e238]:
+                - generic "已售9000+" [ref=e239]
+                - generic "9400+人种草" [ref=e240]
+              - generic [ref=e243]: 铭瑄官方旗舰店
+          - generic [ref=e245] [cursor=pointer]:
+            - generic "影驰GeForce RTX 5060 圣刃V2 OC DLSS 4.5 电竞游戏设计剪辑直播办公娱乐NVIDIA英伟达显卡" [ref=e248]:
+              - img [ref=e250]
+            - generic [ref=e252]:
+              - generic [ref=e253]:
+                - img "自营" [ref=e256]
+                - text: 影驰GeForce RTX 5060 圣刃V2 OC DLSS 4.5 电竞游戏设计剪辑直播办公娱乐NVIDIA英伟达显卡
+              - generic [ref=e258]:
+                - generic [ref=e259]: 三风扇设计
+                - generic [ref=e260]: "|磁吸灯板"
+                - generic [ref=e261]: "|DLSS 4.5"
+                - generic [ref=e262]: "|小机箱适配"
+                - generic [ref=e263]: "|HDMI输出"
+                - generic [ref=e264]: "|AI本地部署"
+                - generic [ref=e265]: "|ARGB灯效"
+                - generic [ref=e266]: "|8GB显存"
+                - generic [ref=e267]: "|金属背板"
+                - generic [ref=e268]: "|设计剪辑专家"
+              - generic [ref=e269]:
+                - generic [ref=e270]:
+                  - generic [ref=e271]: ¥
+                  - generic [ref=e272]: "2872"
+                  - generic [ref=e273]: .
+                  - generic [ref=e274]: "57"
+                - generic [ref=e276]: PLUS到手价
+                - generic [ref=e277]: ¥2887
+                - generic:
+                  - button [ref=e278]
+                  - img [ref=e279]
+              - generic [ref=e281]:
+                - generic [ref=e283]: PLUS立减14.43元
+                - generic [ref=e285]: 满赠
+                - generic [ref=e287]: 满赠
+                - generic [ref=e289]: 正品行货带票
+              - generic [ref=e291]:
+                - generic "已售2万+" [ref=e292]
+                - generic "6万+人种草" [ref=e293]
+              - generic [ref=e296]: 影驰京东自营旗舰店
+          - generic [ref=e298] [cursor=pointer]:
+            - generic "盈通（yeston））GeForce RTX 5060 8GB 大地之神 GA GDDR7 DLSS 4.5 电竞光追游戏AI智能学习电脑独立显卡" [ref=e301]:
+              - img [ref=e303]
+            - generic [ref=e305]:
+              - generic [ref=e306]:
+                - img "自营" [ref=e309]
+                - text: 盈通（yeston））GeForce RTX 5060 8GB 大地之神 GA GDDR7 DLSS 4.5 电竞光追游戏AI智能学习电脑独立显卡
+              - generic [ref=e312]:
+                - generic [ref=e313]:
+                  - generic "3000元以内显卡热卖榜第1名" [ref=e314]:
+                    - img [ref=e315]
+                    - text: 3000元以内显卡热卖榜第1名
+                  - img [ref=e316]
+                - generic [ref=e317]:
+                  - generic [ref=e318]: “
+                  - generic [ref=e319]: 2700就能买到
+                  - generic [ref=e320]: ”
+                - generic [ref=e321]:
+                  - generic [ref=e322]: AI智能
+                  - generic [ref=e323]: "|双风扇散热"
+                  - generic [ref=e324]: "|全景光追"
+                  - generic [ref=e325]: "|614TOPS"
+                - generic [ref=e326]:
+                  - generic "3000元以内显卡热卖榜第1名" [ref=e327]:
+                    - img [ref=e328]
+                    - text: 3000元以内显卡热卖榜第1名
+                  - img [ref=e329]
+              - generic [ref=e330]:
+                - generic [ref=e331]:
+                  - generic [ref=e332]: ¥
+                  - generic [ref=e333]: "2525"
+                  - generic [ref=e334]: .
+                  - generic [ref=e335]: "56"
+                - generic [ref=e336]: 已补91.03元
+                - generic:
+                  - button [ref=e337]
+                  - img [ref=e338]
+              - generic [ref=e340]:
+                - img "百亿补贴" [ref=e342]
+                - generic [ref=e344]: 惊喜红包满2000减150
+                - generic [ref=e346]: 满赠
+                - generic [ref=e348]: 满赠
+                - generic [ref=e350]: 正品行货带票
+                - generic [ref=e352]: 包邮
+              - generic [ref=e354]:
+                - generic "已售6000+" [ref=e355]
+                - generic "30天种草飙升5倍" [ref=e356]
+              - generic [ref=e359]: 盈通京东自营旗舰店
+          - generic [ref=e361] [cursor=pointer]:
+            - generic "七彩虹iGame GeForce RTX 5060 Ti Ultra OC 16GB RTX 5060 Ti Ultra OC 8GB" [ref=e364]:
+              - generic [ref=e365]: 广告
+            - generic [ref=e367]:
+              - generic "七彩虹iGame GeForce RTX 5060 Ti Ultra OC 16GB RTX 5060 Ti Ultra OC 8GB" [ref=e369]
+              - generic [ref=e371]:
+                - generic [ref=e372]: 超2万人关注店铺
+                - generic [ref=e373]: "|1千+人浏览"
+                - generic [ref=e374]: "|500+人加购"
+              - generic [ref=e375]:
+                - generic [ref=e376]:
+                  - generic [ref=e377]: ¥
+                  - generic [ref=e378]: "3599"
+                - generic:
+                  - button [ref=e379]
+                  - img [ref=e380]
+              - generic "700+人看过" [ref=e385]
+              - generic [ref=e388]: 七彩虹游戏组装电脑旗舰店
+          - generic [ref=e390] [cursor=pointer]:
+            - generic "铭瑄RTX5060TI 5060 RTX5070TI 5070电竞之心瑷珈经典款终结者白色二次元显卡DLSS4游戏电竞AI绘图显卡 RTX5060 瑷珈OC Classic 8G" [ref=e393]
+            - generic [ref=e395]:
+              - generic [ref=e396]: 铭瑄RTX5060TI 5060 RTX5070TI 5070电竞之心瑷珈经典款终结者白色二次元显卡DLSS4游戏电竞AI绘图显卡 RTX5060 瑷珈OC Classic 8G
+              - generic [ref=e398]:
+                - generic [ref=e399]: 三风扇散热
+                - generic [ref=e400]: "|终结者款式"
+                - generic [ref=e401]: "|经典白色"
+                - generic [ref=e402]: "|ARGB灯效"
+                - generic [ref=e403]: "|8G大显存"
+                - generic [ref=e404]: "|二次元设计"
+                - generic [ref=e405]: "|HDMI接口"
+              - generic [ref=e406]:
+                - generic [ref=e407]:
+                  - generic [ref=e408]: ¥
+                  - generic [ref=e409]: "2638"
+                - generic [ref=e411]: 到手价
+                - generic [ref=e412]: ¥3138
+                - generic:
+                  - button [ref=e413]
+                  - img [ref=e414]
+              - generic [ref=e416]:
+                - generic [ref=e418]: 满2000减500
+                - generic [ref=e420]: 包邮
+              - generic [ref=e422]:
+                - generic "33人看过" [ref=e423]
+                - generic "100%好评" [ref=e424]
+              - generic [ref=e427]: 游戏国度DIY工作室
+          - generic [ref=e429] [cursor=pointer]:
+            - generic "铭瑄（MAXSUN）RTX5060 8G台式电脑电竞游戏人工智能算力独立显卡独显DLSS4 RTX5060 瑷珈 OC8G" [ref=e432]:
+              - img [ref=e434]
+            - generic [ref=e436]:
+              - generic [ref=e437]: 铭瑄（MAXSUN）RTX5060 8G台式电脑电竞游戏人工智能算力独立显卡独显DLSS4 RTX5060 瑷珈 OC8G
+              - generic [ref=e439]:
+                - generic [ref=e440]: 灯效炫酷
+                - generic [ref=e441]: "|PCIe 5.0"
+                - generic [ref=e442]: "|HDMI接口"
+                - generic [ref=e443]: "|8G大显存"
+                - generic [ref=e444]: "|128bit宽带"
+              - generic [ref=e445]:
+                - generic [ref=e446]:
+                  - generic [ref=e447]: ¥
+                  - generic [ref=e448]: "2849"
+                - generic [ref=e450]: 到手价
+                - generic [ref=e451]: ¥3199
+                - generic:
+                  - button [ref=e452]
+                  - img [ref=e453]
+              - generic [ref=e455]:
+                - img "京东物流" [ref=e457]
+                - generic [ref=e459]: 满3199减350
+                - generic [ref=e461]: 包邮
+              - generic [ref=e463]:
+                - generic "已售9000+" [ref=e464]
+                - generic "3600+人种草" [ref=e465]
+              - generic [ref=e468]: 铭瑄官方旗舰店
+          - generic [ref=e470] [cursor=pointer]:
+            - generic "铭瑄（MAXSUN）Geforce RTX5060 iCraft OC8G AIGA Classic 瑷珈经典版 DLSS 4 电竞光追游戏AI设计电脑显卡" [ref=e473]:
+              - img [ref=e475]
+            - generic [ref=e477]:
+              - generic [ref=e478]:
+                - img "自营" [ref=e481]
+                - text: 铭瑄（MAXSUN）Geforce RTX5060 iCraft OC8G AIGA Classic 瑷珈经典版 DLSS 4 电竞光追游戏AI设计电脑显卡
+              - generic [ref=e483]:
+                - generic [ref=e484]: HDMI接口
+                - generic [ref=e485]: "|三年质保"
+                - generic [ref=e486]: "|高效散热"
+                - generic [ref=e487]: "|畅玩游戏"
+              - generic [ref=e488]:
+                - generic [ref=e489]:
+                  - generic [ref=e490]: ¥
+                  - generic [ref=e491]: "3083"
+                  - generic [ref=e492]: .
+                  - generic [ref=e493]: "51"
+                - generic [ref=e495]: PLUS到手价
+                - generic [ref=e496]: ¥3099
+                - generic:
+                  - button [ref=e497]
+                  - img [ref=e498]
+              - generic [ref=e500]:
+                - generic [ref=e502]: PLUS立减15.49元
+                - generic [ref=e504]: 满赠
+                - generic [ref=e506]: 满赠
+                - generic [ref=e508]: 正品行货带票
+              - generic [ref=e510]:
+                - generic "已售6000+" [ref=e511]
+                - generic "99%好评" [ref=e512]
+              - generic [ref=e515]: 铭瑄京东自营旗舰店
+          - generic [ref=e517] [cursor=pointer]:
+            - generic "七彩虹iGame GeForce RTX 5060 Ultra OC 8GB" [ref=e520]:
+              - generic [ref=e521]: 广告
+            - generic [ref=e523]:
+              - generic "七彩虹iGame GeForce RTX 5060 Ultra OC 8GB" [ref=e525]
+              - generic [ref=e528]: 超2万人关注店铺
+              - generic [ref=e529]:
+                - generic [ref=e530]:
+                  - generic [ref=e531]: ¥
+                  - generic [ref=e532]: "3199"
+                - generic:
+                  - button [ref=e533]
+                  - img [ref=e534]
+              - generic "55人看过" [ref=e539]
+              - generic [ref=e542]: 七彩虹游戏组装电脑旗舰店
+          - generic [ref=e544] [cursor=pointer]:
+            - generic "电竞叛客RTX 5060 显卡 8G/OC 电脑游戏电竞显卡 DLSS4 台式机电脑rtx5060白色游戏独立显卡 RTX 5060 X2W 8G" [ref=e547]:
+              - img [ref=e549]
+            - generic [ref=e551]:
+              - generic [ref=e552]: 电竞叛客RTX 5060 显卡 8G/OC 电脑游戏电竞显卡 DLSS4 台式机电脑rtx5060白色游戏独立显卡 RTX 5060 X2W 8G
+              - generic [ref=e555]:
+                - generic [ref=e556]:
+                  - generic [ref=e557]: “
+                  - generic [ref=e558]: 白色款颜值拉满，视觉效果超赞
+                  - generic [ref=e559]: ”
+                - generic [ref=e560]:
+                  - generic [ref=e561]: DLSS 4
+                  - generic [ref=e562]: "|GDDR7"
+                  - generic [ref=e563]: "|双热管高效散热"
+                  - generic [ref=e564]: "|HDMI接口"
+                  - generic [ref=e565]: "|614T算力"
+                  - generic [ref=e566]: "|AI加速"
+                  - generic [ref=e567]: "|PCIe 4.0"
+                  - generic [ref=e568]: "|白色外观"
+                - generic [ref=e569]:
+                  - generic [ref=e570]: “
+                  - generic [ref=e571]: 白色款颜值拉满，视觉效果超赞
+                  - generic [ref=e572]: ”
+              - generic [ref=e573]:
+                - generic [ref=e574]:
+                  - generic [ref=e575]: ¥
+                  - generic [ref=e576]: "2549"
+                - generic [ref=e578]: 到手价
+                - generic [ref=e579]: ¥2599
+                - generic:
+                  - button [ref=e580]
+                  - img [ref=e581]
+              - generic [ref=e583]:
+                - generic [ref=e585]: 首购礼金50元
+                - generic [ref=e587]: 赠
+                - generic [ref=e589]: 只换不修
+                - generic [ref=e591]: 包邮
+              - generic [ref=e593]:
+                - generic "已售200+" [ref=e594]
+                - generic "100%好评" [ref=e595]
+              - generic [ref=e598]: 扬傲DIY电脑专营店
+          - generic [ref=e600] [cursor=pointer]:
+            - generic "技嘉（GIGABYTE）5060 8G显卡 雪鹰 GeForce RTX 5060 AERO OC 8G DLSS4电竞游戏设计OpenClaw龙虾本地部署显卡" [ref=e603]:
+              - img [ref=e605]
+            - generic [ref=e607]:
+              - generic [ref=e608]:
+                - img "自营" [ref=e611]
+                - text: 技嘉（GIGABYTE）5060 8G显卡 雪鹰 GeForce RTX 5060 AERO OC 8G DLSS4电竞游戏设计OpenClaw龙虾本地部署显卡
+              - generic [ref=e614]:
+                - generic [ref=e615]:
+                  - generic [ref=e616]: “
+                  - generic [ref=e617]: 物超所值，性能稳定
+                  - generic [ref=e618]: ”
+                - generic [ref=e619]:
+                  - generic [ref=e620]: 风之力散热系统
+                  - generic [ref=e621]: "|RGB灯光"
+                  - generic [ref=e622]: "|双BIOS模式"
+                  - generic [ref=e623]: "|614TOPS"
+                - generic "政府补贴 已减￥157.06" [ref=e625]
+                - generic [ref=e626]:
+                  - generic [ref=e627]: “
+                  - generic [ref=e628]: 物超所值，性能稳定
+                  - generic [ref=e629]: ”
+              - generic [ref=e630]:
+                - generic [ref=e631]:
+                  - generic [ref=e632]: ¥
+                  - generic [ref=e633]: "2984"
+                  - generic [ref=e634]: .
+                  - generic [ref=e635]: "16"
+                - generic [ref=e637]: 政府补贴价
+                - generic [ref=e638]: ¥3157
+                - generic:
+                  - button [ref=e639]
+                  - img [ref=e640]
+              - generic [ref=e642]:
+                - img "政府补贴" [ref=e644]
+                - generic [ref=e646]: PLUS立减15.78元
+                - generic [ref=e648]: 满赠
+                - generic [ref=e650]: 正品行货带票
+              - generic [ref=e652]:
+                - generic "已售2万+" [ref=e653]
+                - generic "1万+人种草" [ref=e654]
+              - generic [ref=e657]: 技嘉京东自营旗舰店
+          - generic [ref=e659] [cursor=pointer]:
+            - generic "铭瑄（MAXSUN）RTX5060Ti 8G/16G台式电脑人工智能AI算力设计剪辑视频渲染游戏电竞独立显卡 RTX5060Ti 瑷珈X2 OC8G" [ref=e662]:
+              - img [ref=e664]
+            - generic [ref=e666]:
+              - generic [ref=e667]: 铭瑄（MAXSUN）RTX5060Ti 8G/16G台式电脑人工智能AI算力设计剪辑视频渲染游戏电竞独立显卡 RTX5060Ti 瑷珈X2 OC8G
+              - generic [ref=e669]:
+                - generic [ref=e670]: GDDR7
+                - generic [ref=e671]: "|128bit"
+                - generic [ref=e672]: "|HDMI"
+              - generic [ref=e673]:
+                - generic [ref=e674]:
+                  - generic [ref=e675]: ¥
+                  - generic [ref=e676]: "3049"
+                - generic [ref=e678]: 到手价
+                - generic [ref=e679]: ¥3549
+                - generic:
+                  - button [ref=e680]
+                  - img [ref=e681]
+              - generic [ref=e683]:
+                - img "京东物流" [ref=e685]
+                - generic [ref=e687]: 满3549减500
+                - generic [ref=e689]: 包邮
+              - generic [ref=e691]:
+                - generic "已售9000+" [ref=e692]
+                - generic "96%好评" [ref=e693]
+              - generic [ref=e696]: 铭瑄官方旗舰店
+          - generic [ref=e698] [cursor=pointer]:
+            - generic "七彩虹iGame GeForce RTX 5060 Advanced OC 8GB GDDR7 DLSS 4 电竞光追游戏设计电脑显卡 【5060】战斧DUO 8G" [ref=e701]:
+              - generic [ref=e702]: 广告
+            - generic [ref=e704]:
+              - generic "七彩虹iGame GeForce RTX 5060 Advanced OC 8GB GDDR7 DLSS 4 电竞光追游戏设计电脑显卡 【5060】战斧DUO 8G" [ref=e706]
+              - generic [ref=e708]:
+                - generic [ref=e709]: 200+人浏览
+                - generic [ref=e710]: "|超2万人关注店铺"
+              - generic [ref=e711]:
+                - generic [ref=e712]:
+                  - generic [ref=e713]: ¥
+                  - generic [ref=e714]: "2999"
+                - generic:
+                  - button [ref=e715]
+                  - img [ref=e716]
+              - generic "100+人看过" [ref=e721]
+              - generic [ref=e724]: 七彩虹游戏组装电脑旗舰店
+          - generic [ref=e726] [cursor=pointer]:
+            - generic "七彩虹微星 华硕 RTX5060/5060ti 8G 台式机电脑电竞游戏精品拆机显卡 七彩虹 RTX5060 战斧 双风扇 8G" [ref=e729]:
+              - img [ref=e731]
+            - generic [ref=e733]:
+              - generic [ref=e734]: 七彩虹微星 华硕 RTX5060/5060ti 8G 台式机电脑电竞游戏精品拆机显卡 七彩虹 RTX5060 战斧 双风扇 8G
+              - generic [ref=e736]:
+                - generic [ref=e737]: 双风扇散热
+                - generic [ref=e738]: "|8G大显存"
+                - generic [ref=e739]: "|HDMI接口"
+                - generic [ref=e740]: "|RGB灯效"
+              - generic [ref=e741]:
+                - generic [ref=e742]:
+                  - generic [ref=e743]: ¥
+                  - generic [ref=e744]: "2399"
+                - generic:
+                  - button [ref=e745]
+                  - img [ref=e746]
+              - generic [ref=e750]: 包邮
+              - generic [ref=e752]:
+                - generic "已售1000+" [ref=e753]
+                - generic "30天加购飙升5倍" [ref=e754]
+              - generic [ref=e757]: 3C数码科技小店
+          - generic [ref=e758]:
+            - generic [ref=e759]:
+              - img [ref=e760]
+              - text: 大家都在搜
+            - generic [ref=e762] [cursor=pointer]: rtx5060显卡
+            - generic [ref=e764] [cursor=pointer]: 华硕rtx5060
+            - generic [ref=e766] [cursor=pointer]: 英伟达显卡5060
+            - generic [ref=e768] [cursor=pointer]: titan s2
+            - generic [ref=e770] [cursor=pointer]: 七彩虹5060 16g
+            - generic [ref=e772] [cursor=pointer]: 百亿补贴显卡
+            - generic [ref=e774] [cursor=pointer]: rtx5060笔记本
+          - generic [ref=e776] [cursor=pointer]:
+            - generic "影驰GeForce RTX 5060 8G 显卡 三角洲行动CSGO黑悟空赛博朋克电竞游戏直播独立显卡设计渲染三风扇 RTX5060圣刃 OC V2" [ref=e779]:
+              - img [ref=e781]
+            - generic [ref=e783]:
+              - generic [ref=e784]: 影驰GeForce RTX 5060 8G 显卡 三角洲行动CSGO黑悟空赛博朋克电竞游戏直播独立显卡设计渲染三风扇 RTX5060圣刃 OC V2
+              - generic [ref=e787]:
+                - generic [ref=e788]:
+                  - generic "人气显卡折扣榜第6名" [ref=e789]:
+                    - img [ref=e790]
+                    - text: 人气显卡折扣榜第6名
+                  - img [ref=e791]
+                - generic [ref=e792]:
+                  - generic [ref=e793]: 影驰5060
+                  - generic [ref=e794]: "|8G大显存"
+                  - generic [ref=e795]: "|游戏设计直播"
+                  - generic [ref=e796]: "|三风扇散热"
+                  - generic [ref=e797]: "|ARGB灯效"
+                  - generic [ref=e798]: "|RTX5060芯"
+                  - generic [ref=e799]: "|HDMI接口"
+                - generic [ref=e800]:
+                  - generic "人气显卡折扣榜第6名" [ref=e801]:
+                    - img [ref=e802]
+                    - text: 人气显卡折扣榜第6名
+                  - img [ref=e803]
+              - generic [ref=e804]:
+                - generic [ref=e805]:
+                  - generic [ref=e806]: ¥
+                  - generic [ref=e807]: "2598"
+                - generic [ref=e809]: 到手价
+                - generic [ref=e810]: ¥2899
+                - generic:
+                  - button [ref=e811]
+                  - img [ref=e812]
+              - generic [ref=e814]:
+                - generic [ref=e816]: 首购礼金301元
+                - generic [ref=e818]: 包邮
+              - generic [ref=e820]:
+                - generic "已售500+" [ref=e821]
+                - generic "1万+人种草" [ref=e822]
+              - generic [ref=e825]: 影驰电脑DIY旗舰店
+          - generic [ref=e827] [cursor=pointer]:
+            - generic "七彩虹iGame GeForce RTX 5060 Advanced OC 8GB GDDR7 DLSS 4 电竞光追游戏设计电脑显卡 【5060】 AD OC 8G" [ref=e830]:
+              - generic [ref=e831]: 广告
+            - generic [ref=e833]:
+              - generic "七彩虹iGame GeForce RTX 5060 Advanced OC 8GB GDDR7 DLSS 4 电竞光追游戏设计电脑显卡 【5060】 AD OC 8G" [ref=e835]
+              - generic [ref=e837]:
+                - generic [ref=e838]: 超2万人关注店铺
+                - generic [ref=e839]: "|100+人浏览"
+              - generic [ref=e840]:
+                - generic [ref=e841]:
+                  - generic [ref=e842]: ¥
+                  - generic [ref=e843]: "3249"
+                - generic:
+                  - button [ref=e844]
+                  - img [ref=e845]
+              - generic "45人看过" [ref=e850]
+              - generic [ref=e853]: 七彩虹游戏组装电脑旗舰店
+          - generic [ref=e855] [cursor=pointer]:
+            - generic "七彩虹（Colorful）战斧 GeForce RTX 5060 DUO 8G 电竞光追游戏设计电脑龙虾本地部署养龙虾显卡 RTX5060 8G Ultra DUO W OC" [ref=e858]:
+              - img [ref=e860]
+            - generic [ref=e862]:
+              - generic [ref=e863]: 七彩虹（Colorful）战斧 GeForce RTX 5060 DUO 8G 电竞光追游戏设计电脑龙虾本地部署养龙虾显卡 RTX5060 8G Ultra DUO W OC
+              - generic [ref=e866]:
+                - generic [ref=e867]:
+                  - generic [ref=e868]: “
+                  - generic [ref=e869]: 快递速度非常快
+                  - generic [ref=e870]: ”
+                - generic [ref=e871]:
+                  - generic [ref=e872]: HDMI接口
+                  - generic [ref=e873]: "|光追游戏"
+                  - generic [ref=e874]: "|支持个人送保"
+                  - generic [ref=e875]: "|614 TOP"
+                - generic [ref=e876]:
+                  - generic [ref=e877]: “
+                  - generic [ref=e878]: 快递速度非常快
+                  - generic [ref=e879]: ”
+              - generic [ref=e880]:
+                - generic [ref=e881]:
+                  - generic [ref=e882]: ¥
+                  - generic [ref=e883]: "2749"
+                - generic [ref=e885]: 到手价
+                - generic [ref=e886]: ¥3319
+                - generic:
+                  - button [ref=e887]
+                  - img [ref=e888]
+              - generic [ref=e890]:
+                - img "京东物流" [ref=e892]
+                - generic [ref=e894]: 首购礼金270元
+                - generic [ref=e896]: 满2999减300
+                - generic [ref=e898]: 包邮
+              - generic [ref=e900]:
+                - generic "已售6000+" [ref=e901]
+                - generic "9300+人种草" [ref=e902]
+              - generic [ref=e905]: 七彩虹iGame旗舰店
+          - generic [ref=e907] [cursor=pointer]:
+            - generic "影驰GeForce RTX 5060 8G DLSS 4.5 视频剪辑 AI绘图 主流电竞游戏直播 三角洲行动推荐 电脑显卡 RTX5060圣刃OC V2" [ref=e910]:
+              - img [ref=e912]
+            - generic [ref=e914]:
+              - generic [ref=e915]: 影驰GeForce RTX 5060 8G DLSS 4.5 视频剪辑 AI绘图 主流电竞游戏直播 三角洲行动推荐 电脑显卡 RTX5060圣刃OC V2
+              - generic [ref=e918]:
+                - generic [ref=e919]:
+                  - generic "直播神器显卡折扣榜第5名" [ref=e920]:
+                    - img [ref=e921]
+                    - text: 直播神器显卡折扣榜第5名
+                  - img [ref=e922]
+                - generic [ref=e923]:
+                  - generic [ref=e924]: “
+                  - generic [ref=e925]: 游戏加载飞快，多任务处理毫无压力
+                  - generic [ref=e926]: ”
+                - generic [ref=e927]:
+                  - generic [ref=e928]: 磁吸ARGB灯
+                  - generic [ref=e929]: "|豪华供电"
+                  - generic [ref=e930]: "|三风扇高规"
+                  - generic [ref=e931]: "|镀镍热管"
+                - generic [ref=e932]:
+                  - generic "直播神器显卡折扣榜第5名" [ref=e933]:
+                    - img [ref=e934]
+                    - text: 直播神器显卡折扣榜第5名
+                  - img [ref=e935]
+              - generic [ref=e936]:
+                - generic [ref=e937]:
+                  - generic [ref=e938]: ¥
+                  - generic [ref=e939]: "2598"
+                - generic [ref=e941]: 到手价
+                - generic [ref=e942]: ¥3098
+                - generic:
+                  - button [ref=e943]
+                  - img [ref=e944]
+              - generic [ref=e946]:
+                - img "百亿补贴" [ref=e948]
+                - generic [ref=e950]: 立减500元
+                - generic [ref=e952]: 赠
+                - generic [ref=e954]: 包邮
+              - generic [ref=e956]:
+                - generic "已售1万+" [ref=e957]
+                - generic "30天种草飙升5倍" [ref=e958]
+              - generic [ref=e961]: 影驰官方旗舰店
+          - generic [ref=e963] [cursor=pointer]:
+            - generic "铭瑄（MAXSUN）RTX5060 8G台式电脑电竞游戏人工智能算力独立显卡独显DLSS4 RTX5060 瑷珈X2 OC8G" [ref=e966]:
+              - img [ref=e968]
+            - generic [ref=e970]:
+              - generic [ref=e971]: 铭瑄（MAXSUN）RTX5060 8G台式电脑电竞游戏人工智能算力独立显卡独显DLSS4 RTX5060 瑷珈X2 OC8G
+              - generic [ref=e973]:
+                - generic [ref=e974]: 灯效设计
+                - generic [ref=e975]: "|128bit位宽"
+                - generic [ref=e976]: "|HDMI接口"
+                - generic [ref=e977]: "|PCIe 5.0"
+                - generic [ref=e978]: "|散热风扇"
+              - generic [ref=e979]:
+                - generic [ref=e980]:
+                  - generic [ref=e981]: ¥
+                  - generic [ref=e982]: "2749"
+                - generic [ref=e984]: 到手价
+                - generic [ref=e985]: ¥3099
+                - generic:
+                  - button [ref=e986]
+                  - img [ref=e987]
+              - generic [ref=e989]:
+                - img "京东物流" [ref=e991]
+                - generic [ref=e993]: 满2799减350
+                - generic [ref=e995]: 包邮
+              - generic [ref=e997]:
+                - generic "已售9000+" [ref=e998]
+                - generic "98%好评" [ref=e999]
+              - generic [ref=e1002]: 铭瑄官方旗舰店
+          - generic [ref=e1004] [cursor=pointer]:
+            - generic "七彩虹iGame GeForce RTX 5060 Ti Ultra OC 16GB RTX 5060 Ti Ultra OC 16GB" [ref=e1007]:
+              - generic [ref=e1008]: 广告
+            - generic [ref=e1010]:
+              - generic "七彩虹iGame GeForce RTX 5060 Ti Ultra OC 16GB RTX 5060 Ti Ultra OC 16GB" [ref=e1012]
+              - generic [ref=e1014]:
+                - generic [ref=e1015]: 超2万人关注店铺
+                - generic [ref=e1016]: "|700+人浏览"
+              - generic [ref=e1017]:
+                - generic [ref=e1018]:
+                  - generic [ref=e1019]: ¥
+                  - generic [ref=e1020]: "4699"
+                - generic:
+                  - button [ref=e1021]
+                  - img [ref=e1022]
+              - generic "400+人看过" [ref=e1027]
+              - generic [ref=e1030]: 七彩虹游戏组装电脑旗舰店
+          - generic [ref=e1032] [cursor=pointer]:
+            - generic "影驰GeForce RTX 5060 魔刃V2 OC DLSS 4.5 电竞游戏设计剪辑直播办公娱乐NVIDIA英伟达显卡" [ref=e1035]:
+              - img [ref=e1037]
+            - generic [ref=e1039]:
+              - generic [ref=e1040]:
+                - img "自营" [ref=e1043]
+                - text: 影驰GeForce RTX 5060 魔刃V2 OC DLSS 4.5 电竞游戏设计剪辑直播办公娱乐NVIDIA英伟达显卡
+              - generic [ref=e1046]:
+                - generic [ref=e1047]:
+                  - generic "办公神器显卡热卖榜第1名" [ref=e1048]:
+                    - img [ref=e1049]
+                    - text: 办公神器显卡热卖榜第1名
+                  - img [ref=e1050]
+                - generic [ref=e1051]:
+                  - generic [ref=e1052]: “
+                  - generic [ref=e1053]: 性能比4060提升明显
+                  - generic [ref=e1054]: ”
+                - generic [ref=e1055]:
+                  - generic [ref=e1056]: 金属背板
+                  - generic [ref=e1057]: "|磁吸灯板"
+                  - generic [ref=e1058]: "|三风扇设计"
+                  - generic [ref=e1059]: "|8GB显存"
+                - generic [ref=e1060]:
+                  - generic "办公神器显卡热卖榜第1名" [ref=e1061]:
+                    - img [ref=e1062]
+                    - text: 办公神器显卡热卖榜第1名
+                  - img [ref=e1063]
+              - generic [ref=e1064]:
+                - generic [ref=e1065]:
+                  - generic [ref=e1066]: ¥
+                  - generic [ref=e1067]: "2872"
+                  - generic [ref=e1068]: .
+                  - generic [ref=e1069]: "57"
+                - generic [ref=e1070]: 已补178.7元
+                - generic:
+                  - button [ref=e1071]
+                  - img [ref=e1072]
+              - generic [ref=e1074]:
+                - img "百亿补贴" [ref=e1076]
+                - generic [ref=e1078]: PLUS立减14.43元
+                - generic [ref=e1080]: 满赠
+                - generic [ref=e1082]: 满赠
+                - generic [ref=e1084]: 正品行货带票
+                - generic [ref=e1086]: 包邮
+              - generic [ref=e1088]:
+                - generic "已售2万+" [ref=e1089]
+                - generic "30天加购飙升5倍" [ref=e1090]
+              - generic [ref=e1093]: 影驰京东自营旗舰店
+          - generic [ref=e1095] [cursor=pointer]:
+            - generic "技嘉（GIGABYTE）5060 8G显卡 魔鹰 GeForce RTX 5060 Gaming OC 8G DLSS4电竞游戏设计OpenClaw龙虾本地部署显卡" [ref=e1098]:
+              - img [ref=e1100]
+            - generic [ref=e1102]:
+              - generic [ref=e1103]:
+                - img "自营" [ref=e1106]
+                - text: 技嘉（GIGABYTE）5060 8G显卡 魔鹰 GeForce RTX 5060 Gaming OC 8G DLSS4电竞游戏设计OpenClaw龙虾本地部署显卡
+              - generic [ref=e1109]:
+                - generic [ref=e1110]:
+                  - generic "DP显卡折扣榜第5名" [ref=e1111]:
+                    - img [ref=e1112]
+                    - text: DP显卡折扣榜第5名
+                  - img [ref=e1113]
+                - generic [ref=e1114]:
+                  - generic [ref=e1115]: “
+                  - generic [ref=e1116]: pcie3.0没毛病
+                  - generic [ref=e1117]: ”
+                - generic [ref=e1118]:
+                  - generic [ref=e1119]: RGB灯光
+                  - generic [ref=e1120]: "|双BIOS模式"
+                  - generic [ref=e1121]: "|风之力散热系统"
+                  - generic [ref=e1122]: "|风之力散热"
+                - generic "政府补贴 已减￥151.84" [ref=e1124]
+                - generic [ref=e1125]:
+                  - generic "DP显卡折扣榜第5名" [ref=e1126]:
+                    - img [ref=e1127]
+                    - text: DP显卡折扣榜第5名
+                  - img [ref=e1128]
+              - generic [ref=e1129]:
+                - generic [ref=e1130]:
+                  - generic [ref=e1131]: ¥
+                  - generic [ref=e1132]: "2884"
+                  - generic [ref=e1133]: .
+                  - generic [ref=e1134]: "9"
+                - generic [ref=e1136]: 政府补贴价
+                - generic [ref=e1137]: ¥3052
+                - generic:
+                  - button [ref=e1138]
+                  - img [ref=e1139]
+              - generic [ref=e1141]:
+                - img "政府补贴" [ref=e1143]
+                - generic [ref=e1145]: PLUS立减15.26元
+                - generic [ref=e1147]: 满赠
+                - generic [ref=e1149]: 正品行货带票
+              - generic [ref=e1151]:
+                - generic "已售2万+" [ref=e1152]
+                - generic "300+人好评" [ref=e1153]
+              - generic [ref=e1156]: 技嘉京东自营旗舰店
+          - generic [ref=e1158] [cursor=pointer]:
+            - generic "铭瑄（MAXSUN）Geforce RTX5060 iCraft OC8G AIGAX2 瑷珈X2 DLSS 4 电竞光追游戏AI设计电脑显卡" [ref=e1161]
+            - generic [ref=e1163]:
+              - generic [ref=e1164]:
+                - img "自营" [ref=e1167]
+                - text: 铭瑄（MAXSUN）Geforce RTX5060 iCraft OC8G AIGAX2 瑷珈X2 DLSS 4 电竞光追游戏AI设计电脑显卡
+              - generic [ref=e1170]:
+                - generic [ref=e1171]:
+                  - generic [ref=e1172]: “
+                  - generic [ref=e1173]: 1080p基本没压力
+                  - generic [ref=e1174]: ”
+                - generic [ref=e1175]:
+                  - generic [ref=e1176]: 128bit位宽
+                  - generic [ref=e1177]: "|ARGB流光灯"
+                  - generic [ref=e1178]: "|风扇智能启停"
+                  - generic [ref=e1179]: "|DLSS 4"
+                - generic [ref=e1180]:
+                  - generic [ref=e1181]: “
+                  - generic [ref=e1182]: 1080p基本没压力
+                  - generic [ref=e1183]: ”
+              - generic [ref=e1184]:
+                - generic [ref=e1185]:
+                  - generic [ref=e1186]: ¥
+                  - generic [ref=e1187]: "2984"
+                  - generic [ref=e1188]: .
+                  - generic [ref=e1189]: "01"
+                - generic [ref=e1191]: PLUS到手价
+                - generic [ref=e1192]: ¥2999
+                - generic:
+                  - button [ref=e1193]
+                  - img [ref=e1194]
+              - generic [ref=e1196]:
+                - generic [ref=e1198]: PLUS立减14.99元
+                - generic [ref=e1200]: 满赠
+                - generic [ref=e1202]: 满赠
+                - generic [ref=e1204]: 正品行货带票
+              - generic [ref=e1206]:
+                - generic "已售6000+" [ref=e1207]
+                - generic "1万+人种草" [ref=e1208]
+              - generic [ref=e1211]: 铭瑄京东自营旗舰店
+          - generic [ref=e1213] [cursor=pointer]:
+            - generic "七彩虹iGame GeForce RTX 5060 Ti Advanced OC 16GB GDDR7 DLSS 4 电竞光追游戏设计电脑显卡 【5060Ti】Ultra W DUO OC16G" [ref=e1216]:
+              - generic [ref=e1217]: 广告
+            - generic [ref=e1219]:
+              - generic "七彩虹iGame GeForce RTX 5060 Ti Advanced OC 16GB GDDR7 DLSS 4 电竞光追游戏设计电脑显卡 【5060Ti】Ultra W DUO OC16G" [ref=e1221]
+              - generic [ref=e1223]:
+                - generic [ref=e1224]: 100+人加购
+                - generic [ref=e1225]: "|超2万人关注店铺"
+                - generic [ref=e1226]: "|500+人浏览"
+              - generic [ref=e1227]:
+                - generic [ref=e1228]:
+                  - generic [ref=e1229]: ¥
+                  - generic [ref=e1230]: "4649"
+                - generic:
+                  - button [ref=e1231]
+                  - img [ref=e1232]
+              - generic "200+人看过" [ref=e1237]
+              - generic [ref=e1240]: 七彩虹游戏组装电脑旗舰店
+          - generic [ref=e1242] [cursor=pointer]:
+            - generic "技嘉 RTX5060/5070/5070Ti /5080/5090DV2风魔/雪鹰/魔鹰/猎鹰/超级雕 技嘉雪鹰RTX5060TI-8G" [ref=e1245]
+            - generic [ref=e1247]:
+              - generic [ref=e1248]: 技嘉 RTX5060/5070/5070Ti /5080/5090DV2风魔/雪鹰/魔鹰/猎鹰/超级雕 技嘉雪鹰RTX5060TI-8G
+              - generic [ref=e1250]:
+                - generic [ref=e1251]: GDDR7
+                - generic [ref=e1252]: "|192bit"
+                - generic [ref=e1253]: "|HDMI"
+              - generic [ref=e1254]:
+                - generic [ref=e1255]:
+                  - generic [ref=e1256]: ¥
+                  - generic [ref=e1257]: "2947"
+                - generic:
+                  - button [ref=e1258]
+                  - img [ref=e1259]
+              - generic [ref=e1263]: 包邮
+              - generic [ref=e1265]:
+                - generic "已售1000+" [ref=e1266]
+                - generic "100%好评" [ref=e1267]
+              - generic [ref=e1270]: 云之嘉拼购店
+          - generic [ref=e1272] [cursor=pointer]:
+            - generic "技嘉（GIGABYTE）5060 8G显卡 猎鹰 GeForce RTX 5060 Eagle OC SFF 8G DLSS4 游戏设计OpenClaw龙虾本地部署显卡" [ref=e1275]:
+              - img [ref=e1277]
+            - generic [ref=e1279]:
+              - generic [ref=e1280]:
+                - img "自营" [ref=e1283]
+                - text: 技嘉（GIGABYTE）5060 8G显卡 猎鹰 GeForce RTX 5060 Eagle OC SFF 8G DLSS4 游戏设计OpenClaw龙虾本地部署显卡
+              - generic [ref=e1286]:
+                - generic [ref=e1287]:
+                  - generic [ref=e1288]: 风之力散热系统
+                  - generic [ref=e1289]: "|加固结构"
+                  - generic [ref=e1290]: "|NV SFF-"
+                  - generic [ref=e1291]: "|AI算力强"
+                - generic "政府补贴 已减￥144.47" [ref=e1293]
+                - generic [ref=e1294]:
+                  - generic [ref=e1295]: 风之力散热系统
+                  - generic [ref=e1296]: "|加固结构"
+                  - generic [ref=e1297]: "|NV SFF-"
+                  - generic [ref=e1298]: "|AI算力强"
+              - generic [ref=e1299]:
+                - generic [ref=e1300]:
+                  - generic [ref=e1301]: ¥
+                  - generic [ref=e1302]: "2745"
+                  - generic [ref=e1303]: .
+                  - generic [ref=e1304]: "01"
+                - generic [ref=e1306]: 政府补贴价
+                - generic [ref=e1307]: ¥2904
+                - generic:
+                  - button [ref=e1308]
+                  - img [ref=e1309]
+              - generic [ref=e1311]:
+                - img "政府补贴" [ref=e1313]
+                - generic [ref=e1315]: PLUS立减14.52元
+                - generic [ref=e1317]: 满赠
+                - generic [ref=e1319]: 正品行货带票
+              - generic [ref=e1321]:
+                - generic "已售2万+" [ref=e1322]
+                - generic "7400+人种草" [ref=e1323]
+              - generic [ref=e1326]: 技嘉京东自营旗舰店
+          - generic [ref=e1328] [cursor=pointer]:
+            - generic "盈通（yeston）RTX5060/5060TI 8GB 大地之神/游戏高手/萌宠 deepseek 2k畅玩 CS2/三角洲/电竞直播游戏独立显卡 RTX 5060 8G 大地之神" [ref=e1331]:
+              - img [ref=e1333]
+            - generic [ref=e1335]:
+              - generic [ref=e1336]: 盈通（yeston）RTX5060/5060TI 8GB 大地之神/游戏高手/萌宠 deepseek 2k畅玩 CS2/三角洲/电竞直播游戏独立显卡 RTX 5060 8G 大地之神
+              - generic [ref=e1338]:
+                - generic [ref=e1339]: HDMI高清
+                - generic [ref=e1340]: "|接口丰富"
+                - generic [ref=e1341]: "|显存充足"
+                - generic [ref=e1342]: "|散热高效"
+                - generic [ref=e1343]: "|PCIe 5.0"
+                - generic [ref=e1344]: "|AI算力强"
+                - generic [ref=e1345]: "|DLSS4"
+                - generic [ref=e1346]: "|HDMI接口"
+                - generic [ref=e1347]: "|8GB显存"
+                - generic [ref=e1348]: "|8GB大显存"
+              - generic [ref=e1349]:
+                - generic [ref=e1350]:
+                  - generic [ref=e1351]: ¥
+                  - generic [ref=e1352]: "2399"
+                - generic:
+                  - button [ref=e1353]
+                  - img [ref=e1354]
+              - generic [ref=e1358]: 包邮
+              - generic [ref=e1360]:
+                - generic "2000+人看过" [ref=e1361]
+                - generic "100%好评" [ref=e1362]
+              - generic [ref=e1365]: 华储电脑专营店
+          - generic [ref=e1367] [cursor=pointer]:
+            - generic "技嘉RTX5060Ti 16G/5060 8G显卡电脑游戏台式机独显光追AI绘图2K黑神话悟空 【冰猎鹰】RTX5060 EAGLE 8G" [ref=e1370]:
+              - img [ref=e1372]
+            - generic [ref=e1374]:
+              - generic [ref=e1375]: 技嘉RTX5060Ti 16G/5060 8G显卡电脑游戏台式机独显光追AI绘图2K黑神话悟空 【冰猎鹰】RTX5060 EAGLE 8G
+              - generic [ref=e1377]:
+                - generic [ref=e1378]: 游戏性能强
+                - generic [ref=e1379]: "|多接口设计"
+                - generic [ref=e1380]: "|2K游戏流畅"
+                - generic [ref=e1381]: "|AI绘图"
+                - generic [ref=e1382]: "|光追技术"
+                - generic [ref=e1383]: "|独显性能"
+              - generic [ref=e1384]:
+                - generic [ref=e1385]:
+                  - generic [ref=e1386]: ¥
+                  - generic [ref=e1387]: "2709"
+                - generic [ref=e1389]: 到手价
+                - generic [ref=e1390]: ¥2929
+                - generic:
+                  - button [ref=e1391]
+                  - img [ref=e1392]
+              - generic [ref=e1394]:
+                - generic [ref=e1396]: 满999减100
+                - generic [ref=e1398]: 赠
+                - generic [ref=e1400]: 包邮
+              - generic [ref=e1402]:
+                - generic "已售300+" [ref=e1403]
+                - generic "7800+人种草" [ref=e1404]
+              - generic [ref=e1407]: AORUS旗舰店
+          - generic [ref=e1409] [cursor=pointer]:
+            - generic "技嘉（GIGABYTE）5060 8G显卡冰猎鹰 GeForce RTX 5060 Eagle OC ICE SFF DLSS4游戏设计OpenClaw龙虾本地部署显卡" [ref=e1412]:
+              - img [ref=e1414]
+            - generic [ref=e1416]:
+              - generic [ref=e1417]:
+                - img "自营" [ref=e1420]
+                - text: 技嘉（GIGABYTE）5060 8G显卡冰猎鹰 GeForce RTX 5060 Eagle OC ICE SFF DLSS4游戏设计OpenClaw龙虾本地部署显卡
+              - generic [ref=e1423]:
+                - generic [ref=e1424]:
+                  - generic [ref=e1425]: “
+                  - generic [ref=e1426]: 外观时尚美观，使用非常方便
+                  - generic [ref=e1427]: ”
+                - generic [ref=e1428]:
+                  - generic [ref=e1429]: 加固结构
+                  - generic [ref=e1430]: "|风之力散热系统"
+                  - generic [ref=e1431]: "|NV SFF-"
+                  - generic [ref=e1432]: "|614TOPS"
+                - generic "政府补贴 已减￥146.56" [ref=e1434]
+                - generic [ref=e1435]:
+                  - generic [ref=e1436]: “
+                  - generic [ref=e1437]: 外观时尚美观，使用非常方便
+                  - generic [ref=e1438]: ”
+              - generic [ref=e1439]:
+                - generic [ref=e1440]:
+                  - generic [ref=e1441]: ¥
+                  - generic [ref=e1442]: "2784"
+                  - generic [ref=e1443]: .
+                  - generic [ref=e1444]: "71"
+                - generic [ref=e1446]: 政府补贴价
+                - generic [ref=e1447]: ¥2946
+                - generic:
+                  - button [ref=e1448]
+                  - img [ref=e1449]
+              - generic [ref=e1451]:
+                - img "政府补贴" [ref=e1453]
+                - generic [ref=e1455]: PLUS立减14.73元
+                - generic [ref=e1457]: 满赠
+                - generic [ref=e1459]: 正品行货带票
+              - generic [ref=e1461]:
+                - generic "已售2万+" [ref=e1462]
+                - generic "30天种草飙升5倍" [ref=e1463]
+              - generic [ref=e1466]: 技嘉京东自营旗舰店
+        - generic [ref=e1468]:
+          - generic [ref=e1469]: 上一页
+          - generic [ref=e1470] [cursor=pointer]: "1"
+          - generic [ref=e1471] [cursor=pointer]: "2"
+          - generic [ref=e1472] [cursor=pointer]: "3"
+          - generic [ref=e1473] [cursor=pointer]: "4"
+          - generic [ref=e1474] [cursor=pointer]: "5"
+          - generic [ref=e1475] [cursor=pointer]: "6"
+          - generic [ref=e1476] [cursor=pointer]: "7"
+          - generic [ref=e1478]: ...
+          - generic [ref=e1479] [cursor=pointer]: 下一页
+          - generic [ref=e1480]: 共100页
+          - generic [ref=e1481]:
+            - generic [ref=e1482]: 到第
+            - textbox [ref=e1483]
+            - generic [ref=e1484]: 页
+  - generic [ref=e1486]:
+    - list [ref=e1489]:
+      - listitem [ref=e1490]:
+        - generic [ref=e1491]:
+          - heading "多" [level=5] [ref=e1492]
+          - paragraph [ref=e1493]: 品类齐全，轻松购物
+      - listitem [ref=e1494]:
+        - generic [ref=e1495]:
+          - heading "快" [level=5] [ref=e1496]
+          - paragraph [ref=e1497]: 多仓直发，极速配送
+      - listitem [ref=e1498]:
+        - generic [ref=e1499]:
+          - heading "好" [level=5] [ref=e1500]
+          - paragraph [ref=e1501]: 正品行货，精致服务
+      - listitem [ref=e1502]:
+        - generic [ref=e1503]:
+          - heading "省" [level=5] [ref=e1504]
+          - paragraph [ref=e1505]: 天天低价，畅选无忧
+    - generic [ref=e1508]:
+      - generic [ref=e1509]:
+        - heading "购物指南" [level=5] [ref=e1510]
+        - list [ref=e1511]:
+          - listitem [ref=e1512]:
+            - link "购物流程" [ref=e1513] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-29.html
+          - listitem [ref=e1514]:
+            - link "会员介绍" [ref=e1515] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-151.html
+          - listitem [ref=e1516]:
+            - link "生活旅行" [ref=e1517] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-297.html
+          - listitem [ref=e1518]:
+            - link "常见问题" [ref=e1519] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue.html
+          - listitem [ref=e1520]:
+            - link "大家电" [ref=e1521] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-136.html
+          - listitem [ref=e1522]:
+            - link "联系客服" [ref=e1523] [cursor=pointer]:
+              - /url: //help.jd.com/user/custom.html
+      - generic [ref=e1524]:
+        - heading "配送方式" [level=5] [ref=e1525]
+        - list [ref=e1526]:
+          - listitem [ref=e1527]:
+            - link "上门自提" [ref=e1528] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81-100.html
+          - listitem [ref=e1529]:
+            - link "211限时达" [ref=e1530] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81.html
+          - listitem [ref=e1531]:
+            - link "配送服务查询" [ref=e1532] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-82.html
+          - listitem [ref=e1533]:
+            - link "配送费收取标准" [ref=e1534] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/109-188.html
+      - generic [ref=e1535]:
+        - heading "支付方式" [level=5] [ref=e1536]
+        - list [ref=e1537]:
+          - listitem [ref=e1538]:
+            - link "货到付款" [ref=e1539] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-172.html
+          - listitem [ref=e1540]:
+            - link "在线支付" [ref=e1541] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-173.html
+          - listitem [ref=e1542]:
+            - link "分期付款" [ref=e1543] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-176.html
+          - listitem [ref=e1544]:
+            - link "公司转账" [ref=e1545] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-175.html
+      - generic [ref=e1546]:
+        - heading "售后服务" [level=5] [ref=e1547]
+        - list [ref=e1548]:
+          - listitem [ref=e1549]:
+            - link "售后政策" [ref=e1550] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-112.html
+          - listitem [ref=e1551]:
+            - link "价格保护" [ref=e1552] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-132.html
+          - listitem [ref=e1553]:
+            - link "退款说明" [ref=e1554] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/130-978.html
+          - listitem [ref=e1555]:
+            - link "返修/退换货" [ref=e1556] [cursor=pointer]:
+              - /url: //myjd.jd.com/repair/repairs.action
+          - listitem [ref=e1557]:
+            - link "取消订单" [ref=e1558] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-50.html
+      - generic [ref=e1559]:
+        - heading "特色服务" [level=5] [ref=e1560]
+        - list [ref=e1561]:
+          - listitem [ref=e1562]:
+            - link "夺宝岛" [ref=e1563] [cursor=pointer]:
+              - /url: //paipai.jd.com/auction-list/
+          - listitem [ref=e1564]:
+            - link "DIY装机" [ref=e1565] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-134.html
+          - listitem [ref=e1566]:
+            - link "延保服务" [ref=e1567] [cursor=pointer]:
+              - /url: //fuwu.jd.com/
+          - listitem [ref=e1568]:
+            - link "京东E卡" [ref=e1569] [cursor=pointer]:
+              - /url: //o.jd.com/market/index.action
+          - listitem [ref=e1570]:
+            - link "京东通信" [ref=e1571] [cursor=pointer]:
+              - /url: //mobile.jd.com/
+          - listitem [ref=e1572]:
+            - link "京鱼座智能" [ref=e1573] [cursor=pointer]:
+              - /url: //smart.jd.com/
+    - generic [ref=e1574]:
+      - generic [ref=e1575]:
+        - paragraph [ref=e1576]:
+          - link "关于我们" [ref=e1577] [cursor=pointer]:
+            - /url: //about.jd.com
+          - generic [ref=e1578]: "|"
+          - link "联系我们" [ref=e1579] [cursor=pointer]:
+            - /url: //about.jd.com/contact
+          - generic [ref=e1580]: "|"
+          - link "联系客服" [ref=e1581] [cursor=pointer]:
+            - /url: //help.jd.com/user/custom.html
+          - generic [ref=e1582]: "|"
+          - link "合作招商" [ref=e1583] [cursor=pointer]:
+            - /url: //lai.jd.com
+          - generic [ref=e1584]: "|"
+          - link "商家帮助" [ref=e1585] [cursor=pointer]:
+            - /url: //helpcenter.jd.com/venderportal/index.html
+          - generic [ref=e1586]: "|"
+          - link "营销中心" [ref=e1587] [cursor=pointer]:
+            - /url: //jzt.jd.com
+          - generic [ref=e1588]: "|"
+          - link "手机京东" [ref=e1589] [cursor=pointer]:
+            - /url: //app.jd.com/
+          - generic [ref=e1590]: "|"
+          - link "友情链接" [ref=e1591] [cursor=pointer]:
+            - /url: //club.jd.com/links.aspx
+          - generic [ref=e1592]: "|"
+          - link "销售联盟" [ref=e1593] [cursor=pointer]:
+            - /url: //union.jd.com/index
+          - generic [ref=e1594]: "|"
+          - link "京东社区" [ref=e1595] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html
+          - generic [ref=e1596]: "|"
+          - link "风险监测" [ref=e1597] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/3TF25tMdrnURET8Ez1cW9hzfg3Jt/index.html
+          - generic [ref=e1598]: "|"
+          - link "质量公告" [ref=e1599] [cursor=pointer]:
+            - /url: //pro.jd.com/mall/active/2udA8Qxf3A54dVVseY5CdUMSgQPs/index.html
+          - generic [ref=e1600]: "|"
+          - link "隐私政策" [ref=e1601] [cursor=pointer]:
+            - /url: //about.jd.com/privacy/
+          - generic [ref=e1602]: "|"
+          - link "京东公益" [ref=e1603] [cursor=pointer]:
+            - /url: //gongyi.jd.com
+          - generic [ref=e1604]: "|"
+          - link "Media&IR" [ref=e1605] [cursor=pointer]:
+            - /url: //corporate.jd.com
+        - generic [ref=e1606]:
+          - generic [ref=e1607]:
+            - paragraph [ref=e1608]:
+              - link "京公网安备 11000002000088号" [ref=e1609] [cursor=pointer]:
+                - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088
+              - generic [ref=e1610]: "|"
+              - link "京ICP备11041704号" [ref=e1611] [cursor=pointer]:
+                - /url: http://beian.miit.gov.cn
+              - generic [ref=e1612]: "|"
+              - link "ICP" [ref=e1613] [cursor=pointer]:
+                - /url: //h5.m.jd.com/pc/dev/3T3No18XR8k8rpLGLGhgbJ1StAFq/index.html
+              - generic [ref=e1614]: "|"
+              - link "药品医疗器械网络信息服务备案" [ref=e1615] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/2zRnBcZVhdAcWBMvBnoRcUdi3HBt/index.html
+              - generic [ref=e1616]: "|"
+              - link "自营医疗器械经营资质" [ref=e1617] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/MZXpsnbHS3omkFAk4R4jYwXTb4c/index.html
+              - generic [ref=e1618]: "|"
+              - link "药品网络交易第三方平台备案凭证" [ref=e1619] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/2pwvdCM94gBdWruSu82PkqzKyi3U/index.html
+              - generic [ref=e1620]: "|"
+              - text: 新出发京零 字第大120007号
+            - paragraph [ref=e1621]:
+              - text: 互联网出版许可证编号新出网证(京)字150号
+              - generic [ref=e1622]: "|"
+              - link "出版物经营许可证" [ref=e1623] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/3bVDLXHdwVmdQksGF8TtS7ocq1NY/index.html
+              - generic [ref=e1624]: "|"
+              - text: 违法和不良信息举报电话：4006561155
+              - generic [ref=e1625]: "|"
+              - text: Copyright © 2004 - 2026 京东JINGDONG 版权所有
+            - paragraph [ref=e1626]:
+              - link "经营证照" [ref=e1627] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/38PitHBfR7ZopNHRSHnuuWR5AMDL/index.html
+              - generic [ref=e1628]: "|"
+              - link "医疗器械第三方平台备案凭证（京）网械平台备字（2023）第00013号" [ref=e1629] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/36mqawDTyFwQpodmiJGf6bvPA8hs/index.html
+              - generic [ref=e1630]: "|"
+              - link "营业执照" [ref=e1631] [cursor=pointer]:
+                - /url: //h5.m.jd.com/babelDiy/Zeus/ARcYnJ8coUdUecn6UQAN6TDaVmH/index.html
+              - generic [ref=e1632]: "|"
+              - link "增值电信业务经营许可证" [ref=e1633] [cursor=pointer]:
+                - /url: //pro.jd.com/mall/active/3pNwSArkXgfvVYvejSxj44cRgPvQ/index.html
+          - paragraph [ref=e1635]:
+            - text: 京东旗下网站：
+            - link "京东钱包" [ref=e1636] [cursor=pointer]:
+              - /url: https://www.jdpay.com/
+            - generic [ref=e1637]: "|"
+            - link "京东云" [ref=e1638] [cursor=pointer]:
+              - /url: http://www.jdcloud.com
+            - generic [ref=e1639]: "|"
+            - text: 网络内容从业人员违法违规行为举报电话：4006561155-3
+      - paragraph [ref=e1640]:
+        - link "可信网站信用评估" [ref=e1641] [cursor=pointer]:
+          - /url: https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ampct=df&amppa=294005
+        - link "网络警察提醒你" [ref=e1642] [cursor=pointer]:
+          - /url: http://cyberpolice.mps.gov.cn/
+        - link "诚信网站" [ref=e1643] [cursor=pointer]:
+          - /url: https://search.szfw.org/cert/l/CX20120111001803001836
+        - link "中国互联网举报中心" [ref=e1644] [cursor=pointer]:
+          - /url: http://www.12377.cn/
+        - link "网络举报APP下载" [ref=e1645] [cursor=pointer]:
+          - /url: http://www.12377.cn/node_548446.htm
+        - link "扫黄打非网举报专区" [ref=e1646] [cursor=pointer]:
+          - /url: https://www.shdf.gov.cn/
+        - link "适老化无障碍服务" [ref=e1647] [cursor=pointer]:
+          - /url: "#none"
+        - link "国家知识产权公共服务网" [ref=e1648] [cursor=pointer]:
+          - /url: https://ggfw.cnipa.gov.cn/home

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name="">
+          <a:extLst>
+            <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+              <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{72D345DB-4E15-01C9-B48D-7DBAD41BCED0}"/>
+            </a:ext>
+          </a:extLst>
+        </p:cNvPr>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="2" name="Text 0">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{5D7D50CA-2771-ED91-5967-0D2D94412AA5}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="548640" y="274320"/>
+            <a:ext cx="8046720" cy="640080"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" indent="0">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="2600" b="1" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="1A202C"/>
+                </a:solidFill>
+                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                <a:ea typeface="Arial" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Arial" pitchFamily="34" charset="-120"/>
+              </a:rPr>
+              <a:t>Web 浏览器自动化工具</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="2600" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="3" name="Shape 1">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{C1383010-13B9-820B-80C7-E3677CC4AD79}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="548640" y="914400"/>
+            <a:ext cx="1097280" cy="36576"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="00A3C4"/>
+          </a:solidFill>
+          <a:ln/>
+        </p:spPr>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="6" name="Text 4">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{A31FA333-9CB8-055F-9AB9-0219ED2EB915}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="731520" y="1298448"/>
+            <a:ext cx="3474720" cy="457200"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" indent="0">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1800" b="1" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                <a:ea typeface="Arial" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Arial" pitchFamily="34" charset="-120"/>
+              </a:rPr>
+              <a:t>BrowserUse</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="1800" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="10" name="Text 8">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{6FF05642-82A6-FD7C-0D2F-D45221B57227}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="4937760" y="1298448"/>
+            <a:ext cx="3474720" cy="457200"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" indent="0">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1800" b="1" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="FFFFFF"/>
+                </a:solidFill>
+                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                <a:ea typeface="Arial" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Arial" pitchFamily="34" charset="-120"/>
+              </a:rPr>
+              <a:t>Playwright CLI</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="1800" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="12" name="Shape 10">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{2D69350D-66A7-15DB-84E6-D389DC15D53A}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="548640" y="4206240"/>
+            <a:ext cx="8046720" cy="457200"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:solidFill>
+            <a:srgbClr val="EBF8FF"/>
+          </a:solidFill>
+          <a:ln/>
+        </p:spPr>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="13" name="Text 11">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{D91C98B8-3679-A953-9F8E-BE8566BFD529}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="731520" y="4206240"/>
+            <a:ext cx="7680960" cy="457200"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" indent="0">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="1300" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="2B5A8C"/>
+                </a:solidFill>
+                <a:latin typeface="Calibri" pitchFamily="34" charset="0"/>
+                <a:ea typeface="Calibri" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Calibri" pitchFamily="34" charset="-120"/>
+              </a:rPr>
+              <a:t>💡 建议：BrowserUse 探索 → 蒸馏成 Skill（固化流程）→ Playwright CLI 自动化执行</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="1300" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="14" name="Text 12">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{495B33FD-0A75-1D88-5908-778FC2FB7E37}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="7498080" y="4754880"/>
+            <a:ext cx="1371600" cy="274320"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+          <a:noFill/>
+          <a:ln/>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0" anchor="ctr"/>
+          <a:lstStyle/>
+          <a:p>
+            <a:pPr marL="0" indent="0" algn="r">
+              <a:buNone/>
+            </a:pPr>
+            <a:r>
+              <a:rPr lang="en-US" sz="900" dirty="0">
+                <a:solidFill>
+                  <a:srgbClr val="A0AEC0"/>
+                </a:solidFill>
+                <a:latin typeface="Calibri" pitchFamily="34" charset="0"/>
+                <a:ea typeface="Calibri" pitchFamily="34" charset="-122"/>
+                <a:cs typeface="Calibri" pitchFamily="34" charset="-120"/>
+              </a:rPr>
+              <a:t>15 / 29</a:t>
+            </a:r>
+            <a:endParaRPr lang="en-US" sz="900" dirty="0"/>
+          </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:pic>
+        <p:nvPicPr>
+          <p:cNvPr id="16" name="图片 15">
+            <a:extLst>
+              <a:ext uri="{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}">
+                <a16:creationId xmlns:a16="http://schemas.microsoft.com/office/drawing/2014/main" id="{E510E14A-C3E2-D09B-5F60-A46A1330BA4C}"/>
+              </a:ext>
+            </a:extLst>
+          </p:cNvPr>
+          <p:cNvPicPr>
+            <a:picLocks noChangeAspect="1"/>
+          </p:cNvPicPr>
+          <p:nvPr/>
+        </p:nvPicPr>
+        <p:blipFill>
+          <a:blip r:embed="rId3"/>
+          <a:stretch>
+            <a:fillRect/>
+          </a:stretch>
+        </p:blipFill>
+        <p:spPr>
+          <a:xfrm>
+            <a:off x="1097280" y="1069101"/>
+            <a:ext cx="6071616" cy="3005297"/>
+          </a:xfrm>
+          <a:prstGeom prst="rect">
+            <a:avLst/>
+          </a:prstGeom>
+        </p:spPr>
+      </p:pic>
+    </p:spTree>
+    <p:extLst>
+      <p:ext uri="{BB962C8B-B14F-4D97-AF65-F5344CB8AC3E}">
+        <p14:creationId xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main" val="2017979593"/>
+      </p:ext>
+    </p:extLst>
+  </p:cSld>
+  <p:clrMapOvr>
+    <a:masterClrMapping/>
+  </p:clrMapOvr>
+</p:sld>

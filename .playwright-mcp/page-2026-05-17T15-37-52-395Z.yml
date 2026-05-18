@@ -1,0 +1,716 @@
+- generic [active] [ref=e1]:
+  - link "欢迎进入 百度一下，你就知道，盲人用户进入读屏幕模式请按快捷键Ctrl加Alt加R；阅读详细操作说明请按快捷键Ctrl加Alt加问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e144]:
+        - link "百度首页" [ref=e145] [cursor=pointer]:
+          - /url: /
+        - link "设置" [ref=e146] [cursor=pointer]:
+          - /url: javascript:;
+        - link "登录" [ref=e147] [cursor=pointer]:
+          - /url: https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5
+      - generic [ref=e24]:
+        - generic:
+          - link "到百度首页" [ref=e149] [cursor=pointer]:
+            - /url: /
+            - img "到百度首页" [ref=e150]
+          - generic [ref=e35]:
+            - textbox "北京三里河雨景如画" [ref=e37]: bilibili
+            - generic [ref=e39]:
+              - generic [ref=e40]:
+                - img [ref=e152] [cursor=pointer]
+                - img [ref=e48] [cursor=pointer]
+                - generic [ref=e51]:
+                  - img [ref=e55] [cursor=pointer]
+                  - img [ref=e60] [cursor=pointer]
+              - button "百度一下" [ref=e64] [cursor=pointer]
+    - generic [ref=e171]:
+      - link [ref=e172] [cursor=pointer]:
+        - /url: https://chat.baidu.com/search?word=bilibili&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&pd=csaitab&setype=csaitab&extParamsJson=%7B%22enter_type%22%3A%22search_a_tab%22%2C%22sa%22%3A%22vs_tab%22%2C%22apagelid%22%3A%2213350887564579859328%22%2C%22ori_lid%22%3A%2213350887564579859328%22%7D
+        - img [ref=e173]
+      - generic [ref=e174]: 网页
+      - link "图片" [ref=e175] [cursor=pointer]:
+        - /url: http://image.baidu.com/i?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&lid=b947e18102f66b80&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=bilibili
+      - link "资讯" [ref=e176] [cursor=pointer]:
+        - /url: https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&ie=utf-8&word=bilibili
+      - link "视频" [ref=e177] [cursor=pointer]:
+        - /url: /sf/vsearch?pd=video&tn=vsearch&lid=b947e18102f66b80&ie=utf-8&wd=bilibili&rsv_spt=7&rsv_bp=1&f=8&oq=bilibili&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4
+      - link "笔记" [ref=e178] [cursor=pointer]:
+        - /url: https://www.baidu.com/s?pd=note&rpf=pc&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=bilibili
+      - link "地图" [ref=e179] [cursor=pointer]:
+        - /url: https://map.baidu.com/?newmap=1&ie=utf-8&from=pstab&s=s%26wd%3Dbilibili
+      - link "贴吧" [ref=e180] [cursor=pointer]:
+        - /url: http://tieba.baidu.com/f?fr=wwwt&ie=utf-8&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&kw=bilibili
+      - link "文库" [ref=e181] [cursor=pointer]:
+        - /url: http://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&word=bilibili
+      - link "更多" [ref=e182] [cursor=pointer]:
+        - /url: http://www.baidu.com/more/
+      - generic [ref=e183] [cursor=pointer]: 搜索工具
+    - generic [ref=e184]:
+      - generic [ref=e185]:
+        - table [ref=e187]:
+          - rowgroup [ref=e188]:
+            - row "true bilibili 相关搜索  下载哔哔哔哔app  bilibili官网网页入口  哔哩哔哩 安装  bibibi官网下载  biubiu  www.bilibili.com怎么进    换一换 热搜榜 民生榜 财经榜  从过去探寻未来 1 张雪机车斩获赛季第五冠 沸 2 湖北省委：坚决拥护党中央决定 热 3 从“被太空踢一脚”到“感觉良好” 4 樊振东连输勒布伦兄弟 新 5 27年前捐5000美元植树的美国人找到了 6 张雪机车最后一圈反超夺冠 7 歌手温岚进ICU3天 经纪人：仍未脱险 8 “豆包说你那里卖野猪” 热 9 四个品牌五款产品都自称销量第一 10 七旬老人买菜 被拉去纹眉割眼袋 11 “雁荡山飞拉达着火”系造假引流 12 为何美俄元首一周内接连访华 13 加厚塑料袋不去皮等于32只河虾 14 《给阿嬷的情书》男主：没考虑接住流量 15 王晓东被查 热" [ref=e189]:
+              - cell "true bilibili 相关搜索  下载哔哔哔哔app  bilibili官网网页入口  哔哩哔哩 安装  bibibi官网下载  biubiu  www.bilibili.com怎么进    换一换 热搜榜 民生榜 财经榜  从过去探寻未来 1 张雪机车斩获赛季第五冠 沸 2 湖北省委：坚决拥护党中央决定 热 3 从“被太空踢一脚”到“感觉良好” 4 樊振东连输勒布伦兄弟 新 5 27年前捐5000美元植树的美国人找到了 6 张雪机车最后一圈反超夺冠 7 歌手温岚进ICU3天 经纪人：仍未脱险 8 “豆包说你那里卖野猪” 热 9 四个品牌五款产品都自称销量第一 10 七旬老人买菜 被拉去纹眉割眼袋 11 “雁荡山飞拉达着火”系造假引流 12 为何美俄元首一周内接连访华 13 加厚塑料袋不去皮等于32只河虾 14 《给阿嬷的情书》男主：没考虑接住流量 15 王晓东被查 热" [ref=e190]:
+                - generic [ref=e191]:
+                  - generic [ref=e198] [cursor=pointer]:
+                    - img "true"
+                    - generic [ref=e199]: bilibili
+                  - generic [ref=e205]:
+                    - generic [ref=e207]: 相关搜索
+                    - generic [ref=e208]:
+                      - link " 下载哔哔哔哔app" [ref=e211] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E4%B8%8B%E8%BD%BD%E5%93%94%E5%93%94%E5%93%94%E5%93%94app&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=95d72h7oXJE0G7%2F31IIXHt0Rjpfjrc6iPyV4KZFj6vZq4gvp1%2BeXxT6jLAM&rfqid=b947e18102f66b80&rsv_dl=0_prs_28616_1&rq=bilibili&rsf=101634503
+                        - generic [ref=e212]:
+                          - generic [ref=e213]: 
+                          - generic [ref=e214]: 下载哔哔哔哔app
+                      - link " bilibili官网网页入口" [ref=e217] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=bilibili%E5%AE%98%E7%BD%91%E7%BD%91%E9%A1%B5%E5%85%A5%E5%8F%A3&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=95d72h7oXJE0G7%2F31IIXHt0Rjpfjrc6iPyV4KZFj6vZq4gvp1%2BeXxT6jLAM&rfqid=b947e18102f66b80&rsv_dl=0_prs_28616_2&rq=bilibili&rsf=101631151
+                        - generic [ref=e218]:
+                          - generic [ref=e219]: 
+                          - generic [ref=e220]: bilibili官网网页入口
+                      - link " 哔哩哔哩 安装" [ref=e223] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20%E5%AE%89%E8%A3%85&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=95d72h7oXJE0G7%2F31IIXHt0Rjpfjrc6iPyV4KZFj6vZq4gvp1%2BeXxT6jLAM&rfqid=b947e18102f66b80&rsv_dl=0_prs_28616_3&rq=bilibili&rsf=101631161
+                        - generic [ref=e224]:
+                          - generic [ref=e225]: 
+                          - generic [ref=e226]: 哔哩哔哩 安装
+                      - link " bibibi官网下载" [ref=e229] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=bibibi%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BD&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=95d72h7oXJE0G7%2F31IIXHt0Rjpfjrc6iPyV4KZFj6vZq4gvp1%2BeXxT6jLAM&rfqid=b947e18102f66b80&rsv_dl=0_prs_28616_4&rq=bilibili&rsf=101631101
+                        - generic [ref=e230]:
+                          - generic [ref=e231]: 
+                          - generic [ref=e232]: bibibi官网下载
+                      - link " biubiu" [ref=e235] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=biubiu&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rfqid=b947e18102f66b80&rsv_dl=0_prs_28616_5&rq=bilibili&rsf=101631101
+                        - generic [ref=e236]:
+                          - generic [ref=e237]: 
+                          - generic [ref=e238]: biubiu
+                      - link " www.bilibili.com怎么进" [ref=e241] [cursor=pointer]:
+                        - /url: /s?rsv_idx=1&wd=www.bilibili.com%E6%80%8E%E4%B9%88%E8%BF%9B&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rfqid=b947e18102f66b80&rsv_dl=0_prs_28616_6&rq=bilibili&rsf=101631151
+                        - generic [ref=e242]:
+                          - generic [ref=e243]: 
+                          - generic [ref=e244]: www.bilibili.com怎么进
+                  - generic [ref=e248]:
+                    - generic "百度热搜" [ref=e249]:
+                      - link " " [ref=e250] [cursor=pointer]:
+                        - /url: https://top.baidu.com/board?platform=pc&sa=pcindex_a_right
+                        - generic [ref=e251]: 
+                        - generic [ref=e252]: 
+                      - link " 换一换" [ref=e254] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                        - generic [ref=e255]: 
+                        - text: 换一换
+                    - generic [ref=e256]:
+                      - generic [ref=e257] [cursor=pointer]: 热搜榜
+                      - generic [ref=e258] [cursor=pointer]: 民生榜
+                      - generic [ref=e259] [cursor=pointer]: 财经榜
+                    - generic [ref=e261]:
+                      - generic [ref=e263]:
+                        - generic [ref=e265]: 
+                        - link "从过去探寻未来" [ref=e266] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E4%BB%8E%E8%BF%87%E5%8E%BB%E6%8E%A2%E5%AF%BB%E6%9C%AA%E6%9D%A5&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_1&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e268]:
+                        - generic [ref=e269]: "1"
+                        - link "张雪机车斩获赛季第五冠" [ref=e270] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%96%A9%E8%8E%B7%E8%B5%9B%E5%AD%A3%E7%AC%AC%E4%BA%94%E5%86%A0&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_2&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e271]: 沸
+                      - generic [ref=e273]:
+                        - generic [ref=e274]: "2"
+                        - link "湖北省委：坚决拥护党中央决定" [ref=e275] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%B9%96%E5%8C%97%E7%9C%81%E5%A7%94%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_3&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e276]: 热
+                      - generic [ref=e278]:
+                        - generic [ref=e279]: "3"
+                        - link "从“被太空踢一脚”到“感觉良好”" [ref=e280] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E4%BB%8E%E2%80%9C%E8%A2%AB%E5%A4%AA%E7%A9%BA%E8%B8%A2%E4%B8%80%E8%84%9A%E2%80%9D%E5%88%B0%E2%80%9C%E6%84%9F%E8%A7%89%E8%89%AF%E5%A5%BD%E2%80%9D&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_4&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e282]:
+                        - generic [ref=e283]: "4"
+                        - link "樊振东连输勒布伦兄弟" [ref=e284] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BF%9E%E8%BE%93%E5%8B%92%E5%B8%83%E4%BC%A6%E5%85%84%E5%BC%9F&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_5&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e285]: 新
+                      - generic [ref=e287]:
+                        - generic [ref=e288]: "5"
+                        - link "27年前捐5000美元植树的美国人找到了" [ref=e289] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=27%E5%B9%B4%E5%89%8D%E6%8D%905000%E7%BE%8E%E5%85%83%E6%A4%8D%E6%A0%91%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_6&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e291]:
+                        - generic [ref=e292]: "6"
+                        - link "张雪机车最后一圈反超夺冠" [ref=e293] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%88%E5%8F%8D%E8%B6%85%E5%A4%BA%E5%86%A0&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_7&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e295]:
+                        - generic [ref=e296]: "7"
+                        - link "歌手温岚进ICU3天 经纪人：仍未脱险" [ref=e297] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E6%AD%8C%E6%89%8B%E6%B8%A9%E5%B2%9A%E8%BF%9BICU3%E5%A4%A9%20%E7%BB%8F%E7%BA%AA%E4%BA%BA%EF%BC%9A%E4%BB%8D%E6%9C%AA%E8%84%B1%E9%99%A9&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_8&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e299]:
+                        - generic [ref=e300]: "8"
+                        - link "“豆包说你那里卖野猪”" [ref=e301] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E2%80%9C%E8%B1%86%E5%8C%85%E8%AF%B4%E4%BD%A0%E9%82%A3%E9%87%8C%E5%8D%96%E9%87%8E%E7%8C%AA%E2%80%9D&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_9&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e302]: 热
+                      - generic [ref=e304]:
+                        - generic [ref=e305]: "9"
+                        - link "四个品牌五款产品都自称销量第一" [ref=e306] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%9B%9B%E4%B8%AA%E5%93%81%E7%89%8C%E4%BA%94%E6%AC%BE%E4%BA%A7%E5%93%81%E9%83%BD%E8%87%AA%E7%A7%B0%E9%94%80%E9%87%8F%E7%AC%AC%E4%B8%80&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fdd6SCs5mruDQi9WUkuHpulw3rLTvFWorMtQbDE2xgQflrEgiqiOq0mpXOw&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_10&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e308]:
+                        - generic [ref=e309]: "10"
+                        - link "七旬老人买菜 被拉去纹眉割眼袋" [ref=e310] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E4%B8%83%E6%97%AC%E8%80%81%E4%BA%BA%E4%B9%B0%E8%8F%9C%20%E8%A2%AB%E6%8B%89%E5%8E%BB%E7%BA%B9%E7%9C%89%E5%89%B2%E7%9C%BC%E8%A2%8B&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=b25fL4mVkUSng4XIV%2BidKoUeOhPzwTP8zYjh4vwU2SMslO82EIghlg3OFIo&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_11&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e312]:
+                        - generic [ref=e313]: "11"
+                        - link "“雁荡山飞拉达着火”系造假引流" [ref=e314] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E2%80%9C%E9%9B%81%E8%8D%A1%E5%B1%B1%E9%A3%9E%E6%8B%89%E8%BE%BE%E7%9D%80%E7%81%AB%E2%80%9D%E7%B3%BB%E9%80%A0%E5%81%87%E5%BC%95%E6%B5%81&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=b25fL4mVkUSng4XIV%2BidKoUeOhPzwTP8zYjh4vwU2SMslO82EIghlg3OFIo&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_12&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e316]:
+                        - generic [ref=e317]: "12"
+                        - link "为何美俄元首一周内接连访华" [ref=e318] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E4%B8%BA%E4%BD%95%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E4%B8%80%E5%91%A8%E5%86%85%E6%8E%A5%E8%BF%9E%E8%AE%BF%E5%8D%8E&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=b25fL4mVkUSng4XIV%2BidKoUeOhPzwTP8zYjh4vwU2SMslO82EIghlg3OFIo&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_13&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e320]:
+                        - generic [ref=e321]: "13"
+                        - link "加厚塑料袋不去皮等于32只河虾" [ref=e322] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E5%8A%A0%E5%8E%9A%E5%A1%91%E6%96%99%E8%A2%8B%E4%B8%8D%E5%8E%BB%E7%9A%AE%E7%AD%89%E4%BA%8E32%E5%8F%AA%E6%B2%B3%E8%99%BE&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=b25fL4mVkUSng4XIV%2BidKoUeOhPzwTP8zYjh4vwU2SMslO82EIghlg3OFIo&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_14&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e324]:
+                        - generic [ref=e325]: "14"
+                        - link "《给阿嬷的情书》男主：没考虑接住流量" [ref=e326] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E7%94%B7%E4%B8%BB%EF%BC%9A%E6%B2%A1%E8%80%83%E8%99%91%E6%8E%A5%E4%BD%8F%E6%B5%81%E9%87%8F&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=b25fL4mVkUSng4XIV%2BidKoUeOhPzwTP8zYjh4vwU2SMslO82EIghlg3OFIo&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_1_15_15&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                      - generic [ref=e328]:
+                        - generic [ref=e329]: "15"
+                        - link "王晓东被查" [ref=e330] [cursor=pointer]:
+                          - /url: /s?rsv_idx=1&wd=%E7%8E%8B%E6%99%93%E4%B8%9C%E8%A2%AB%E6%9F%A5&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=b25fL4mVkUSng4XIV%2BidKoUeOhPzwTP8zYjh4vwU2SMslO82EIghlg3OFIo&rqid=b947e18102f66b80&rsf=03797e10206d4d17db7305cd98667760_16_30_16&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+                        - generic [ref=e331]: 热
+        - generic [ref=e332]:
+          - generic [ref=e336]:
+            - generic [ref=e338]:
+              - link "官方" [ref=e340] [cursor=pointer]:
+                - /url: https://aiqicha.baidu.com/feedback/official?from=baidu&type=gw
+                - generic [ref=e341]: 官方
+              - heading "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili" [level=3] [ref=e342]:
+                - link "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili" [ref=e343] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL-LuUAVRMi4itnbG0d10UGenJruzoWQK4ImMlzI_PAO2
+                  - paragraph [ref=e346]:
+                    - generic [ref=e349]:
+                      - text: 哔哩哔哩 (゜-゜)つロ 干杯~-
+                      - emphasis [ref=e350]: bilibili
+            - generic [ref=e356]:
+              - text: 哔哩哔哩（
+              - emphasis [ref=e357]: bilibili
+              - text: .com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
+            - link "哔哩哔哩" [ref=e362] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL-LuUAVRMi4itnbG0d10UGenJruzoWQK4ImMlzI_PAO2
+              - generic [ref=e363]: 哔哩哔哩
+              - generic [ref=e365]: 
+          - generic [ref=e369]:
+            - heading "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili" [level=3] [ref=e372]:
+              - link "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili" [ref=e373] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=5f2Eg6unOdcuoSYxg--v_d33pYcHtO7SfW4kyc8I3CBynxQwMdRQu9NcD5BVHckd
+                - paragraph [ref=e376]:
+                  - generic [ref=e379]:
+                    - text: 哔哩哔哩 (゜-゜)つロ 干杯~-
+                    - emphasis [ref=e380]: bilibili
+            - generic [ref=e386]:
+              - emphasis [ref=e387]: bilibili
+              - text: 是国内知名的视频弹幕网站,这里有及时的动漫新番,活跃的ACG氛围,有创意的Up主。大家可以在这里找到许多欢乐。
+            - generic [ref=e388]:
+              - link [ref=e390] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=5f2Eg6unOdcuoSYxg--v_d33pYcHtO7SfW4kyc8I3CBynxQwMdRQu9NcD5BVHckd
+              - link [ref=e394] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=5f2Eg6unOdcuoSYxg--v_d33pYcHtO7SfW4kyc8I3CBynxQwMdRQu9NcD5BVHckd
+              - link [ref=e398] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=5f2Eg6unOdcuoSYxg--v_d33pYcHtO7SfW4kyc8I3CBynxQwMdRQu9NcD5BVHckd
+              - link "13" [ref=e402] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=5f2Eg6unOdcuoSYxg--v_d33pYcHtO7SfW4kyc8I3CBynxQwMdRQu9NcD5BVHckd
+                - generic [ref=e405]:
+                  - generic [ref=e406]: 
+                  - text: "13"
+            - link "bilibili" [ref=e411] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=5f2Eg6unOdcuoSYxg--v_d33pYcHtO7SfW4kyc8I3CBynxQwMdRQu9NcD5BVHckd
+              - generic [ref=e412]: bilibili
+              - generic [ref=e414]: 
+          - generic [ref=e416]:
+            - heading "bilibili_2026最新版_极极下载站" [level=3] [ref=e417]:
+              - link "bilibili_2026最新版_极极下载站" [ref=e418] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - emphasis [ref=e419]: bilibili
+                - text: _2026最新版_极极下载站
+            - generic [ref=e422]:
+              - list [ref=e423]:
+                - listitem [ref=e424] [cursor=pointer]: Windows
+                - listitem [ref=e425] [cursor=pointer]: Mac
+              - generic [ref=e426]:
+                - generic [ref=e427]:
+                  - generic [ref=e429]:
+                    - img
+                  - generic [ref=e431]:
+                    - generic [ref=e433]: 哔哩哔哩
+                    - generic "评分undefined星" [ref=e435]:
+                      - generic [ref=e436]:
+                        - generic [ref=e438]: 
+                        - generic [ref=e440]: 
+                        - generic [ref=e442]: 
+                        - generic [ref=e444]: 
+                        - generic [ref=e446]: 
+                    - generic [ref=e447]: 版本： 大小：
+                  - generic [ref=e449] [cursor=pointer]: 查看详情
+                - generic [ref=e450]: 类型： 更新： 系统：
+                - generic:
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+            - generic [ref=e452] [cursor=pointer]:
+              - generic [ref=e453]: secure.tianjimedia.com
+              - generic [ref=e455]: 
+          - generic [ref=e457]:
+            - generic [ref=e458]: 大家还在搜
+            - generic [ref=e459]:
+              - link "下载哔哔哔哔app" [ref=e460] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=%E4%B8%8B%E8%BD%BD%E5%93%94%E5%93%94%E5%93%94%E5%93%94app&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=6961zbK9fqg1HXs4F9CdQzosCBvb9FSiLpEuSIF01qMONiSgM7Z8qve9%2BsA&rsf=101634503&rsv_dl=0_prs_28608_1
+                - generic [ref=e462]: 下载哔哔哔哔app
+              - link "bilibili官网网页入口" [ref=e463] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=bilibili%E5%AE%98%E7%BD%91%E7%BD%91%E9%A1%B5%E5%85%A5%E5%8F%A3&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=6961zbK9fqg1HXs4F9CdQzosCBvb9FSiLpEuSIF01qMONiSgM7Z8qve9%2BsA&rsf=101631151&rsv_dl=0_prs_28608_2
+                - generic [ref=e465]: bilibili官网网页入口
+              - link "哔哩哔哩 安装" [ref=e466] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20%E5%AE%89%E8%A3%85&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=6961zbK9fqg1HXs4F9CdQzosCBvb9FSiLpEuSIF01qMONiSgM7Z8qve9%2BsA&rsf=101631161&rsv_dl=0_prs_28608_3
+                - generic [ref=e468]: 哔哩哔哩 安装
+              - link "bibibi官网下载" [ref=e469] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=bibibi%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BD&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=6961zbK9fqg1HXs4F9CdQzosCBvb9FSiLpEuSIF01qMONiSgM7Z8qve9%2BsA&rsf=101631101&rsv_dl=0_prs_28608_4
+                - generic [ref=e471]: bibibi官网下载
+              - link "biubiu" [ref=e472] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=biubiu&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=6961zbK9fqg1HXs4F9CdQzosCBvb9FSiLpEuSIF01qMONiSgM7Z8qve9%2BsA&rsf=101631101&rsv_dl=0_prs_28608_5
+                - generic [ref=e474]: biubiu
+              - link "www.bilibili.com怎么进" [ref=e475] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=www.bilibili.com%E6%80%8E%E4%B9%88%E8%BF%9B&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fba2bwpOKq6zgcog%2BIEC%2B%2BWy74O%2BhonwTwP6TGKggXUqwROIFwstle1U49Y&rsf=101631151&rsv_dl=0_prs_28608_6
+                - generic [ref=e477]: www.bilibili.com怎么进
+              - link "bibibi下载安装" [ref=e478] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=bibibi%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fba2bwpOKq6zgcog%2BIEC%2B%2BWy74O%2BhonwTwP6TGKggXUqwROIFwstle1U49Y&rsf=101636803&rsv_dl=0_prs_28608_7
+                - generic [ref=e480]: bibibi下载安装
+              - link "bilibili漫画免费破解版" [ref=e481] [cursor=pointer]:
+                - /url: /s?rsv_idx=1&wd=bilibili%E6%BC%AB%E7%94%BB%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E7%89%88&fenlei=256&usm=6&ie=utf-8&rsv_pq=b947e18102f66b80&oq=bilibili&rsv_t=fba2bwpOKq6zgcog%2BIEC%2B%2BWy74O%2BhonwTwP6TGKggXUqwROIFwstle1U49Y&rsf=101631101&rsv_dl=0_prs_28608_8
+                - generic [ref=e483]: bilibili漫画免费破解版
+          - generic [ref=e486]:
+            - heading "bilibili，互联网文化社区和视频平台，百度百科" [level=3] [ref=e487]:
+              - link "bilibili，互联网文化社区和视频平台，百度百科" [ref=e488] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=VJQnTeXaGlA6E4m4y-5y2t4M4iVez6Vq-RkLok7Nd6TKCgBIlsi1mG2eEm7IDd4Rmr-FPd2bYOLRb0HUdOazgFq8XoWRBG25FR-s6kqHAfW3SiO5N5nSHAp5gVjKUkQBsSyuSf0gw5yfjOEzzC3TgtfzHNYRPCZj9mDJSVMSyuW
+                - emphasis [ref=e489]: bilibili
+                - text: "- 百度百科"
+            - generic [ref=e490]:
+              - generic "播放视频" [ref=e491] [cursor=pointer]:
+                - generic [ref=e494]: 
+              - generic [ref=e499]:
+                - generic "哔哩哔哩，简称为B站，系中国知名综合性视频社区，2009年由徐逸创立，现由上海宽娱数码科技有限公司运营，法定代表人为黄声声。平台以ACG文化起家，逐步扩展至动画、游戏、影视、科技、生活、知识等20余个分区，形成多元内容生态，2023年月活跃用户超3.36亿。其特色弹幕互动系统及虚拟形象22娘、33娘塑造了独特的社区文化，用户原创内容（PUGV）占比超90%，并通过创作者激励计划及2016年上线的充电计划扶持创作者。2011年猎豹移动联合创始人陈睿作为天使投资人加入，2014年出任董事长兼CEO后加速商业化进程。B站持续深耕垂直领域：国产动画专区出品《三体》《灵笼》等作品，纪录片板块推出《人生一串》《守护解放西》等口碑项目，与Discovery、BBC等国际厂牌深度合作。电竞领域组建BLG职业战队，2018年成立哔哩哔哩电竞公司。平台2018年于纳斯达克上市。商业化布局涵盖大会员、直播、电商" [ref=e501]:
+                  - generic [ref=e502]:
+                    - text: 简介：
+                    - emphasis [ref=e503]: bilibili
+                    - text: 一般指哔哩哔哩。 哔哩哔哩，简称为B站，系中国知名综合性视频社区，2009年由徐逸创立，现由上海宽娱数码科技有限公司运营，法定代表人为黄声声。平台以ACG文化起家，逐步扩展至动画、游戏、影视、科技、生活、知识等20余个分区，形成多元内容...
+                - generic [ref=e505]:
+                  - link "研发背景" [ref=e506] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL9s6MMGsrNdJRGhM-iaO0r4x38On-58UWnK7Row3Rkgs1o03_VcwV9bGwg9HlqLDDo6dWP9Vf0MqCuOLUaP0UIJBXzqSKBpH5JyEFSa1Sni1vJVv7Lu0k8hdox_Pw5ojklKkM9rkcSAnCm6t5buJbROM9eO0MkCH-pYjoRs2t2mB
+                  - link "发展历程" [ref=e507] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL9s6MMGsrNdJRGhM-iaO0r4x38On-58UWnK7Row3Rkgs1o03_VcwV9bGwg9HlqLDDo6dWP9Vf0MqCuOLUaP0UIJBXzqSKBpH5JyEFSa1Sni1vJVv7Lu0k8hdox_Pw5ojklKkM9rkcSAnCm6t5buJbRRqZfXj668XczknsM_MOAVb
+                  - link "内容生态" [ref=e508] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL9s6MMGsrNdJRGhM-iaO0r4x38On-58UWnK7Row3Rkgs1o03_VcwV9bGwg9HlqLDDo6dWP9Vf0MqCuOLUaP0UIJBXzqSKBpH5JyEFSa1Sni1vJVv7Lu0k8hdox_Pw5ojklKkM9rkcSAnCm6t5buJbRPaCoN9ebIUDlfeE34uIGUj
+                  - link "社区文化" [ref=e509] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL9s6MMGsrNdJRGhM-iaO0r4x38On-58UWnK7Row3Rkgs1o03_VcwV9bGwg9HlqLDDo6dWP9Vf0MqCuOLUaP0UIJBXzqSKBpH5JyEFSa1Sni1vJVv7Lu0k8hdox_Pw5ojklKkM9rkcSAnCm6t5buJbRRLJlnjVaot3_JTduzIA5qI
+                  - link "主要业务" [ref=e510] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL9s6MMGsrNdJRGhM-iaO0r4x38On-58UWnK7Row3Rkgs1o03_VcwV9bGwg9HlqLDDo6dWP9Vf0MqCuOLUaP0UIJBXzqSKBpH5JyEFSa1Sni1vJVv7Lu0k8hdox_Pw5ojklKkM9rkcSAnCm6t5buJbRRdyP3761ZKGFCv0qeY6U4p
+                  - link "点击可查看更多内容" [ref=e511] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=VJQnTeXaGlA6E4m4y-5y2t4M4iVez6Vq-RkLok7Nd6TKCgBIlsi1mG2eEm7IDd4Rmr-FPd2bYOLRb0HUdOazgFq8XoWRBG25FR-s6kqHAfW3SiO5N5nSHAp5gVjKUkQBsSyuSf0gw5yfjOEzzC3TgtfzHNYRPCZj9mDJSVMSyuW
+                    - text: 更多 >
+                - generic [ref=e512]:
+                  - link "百度百科" [ref=e513] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=VJQnTeXaGlA6E4m4y-5y2t4M4iVez6Vq-RkLok7Nd6TKCgBIlsi1mG2eEm7IDd4Rmr-FPd2bYOLRb0HUdOazgFq8XoWRBG25FR-s6kqHAfW3SiO5N5nSHAp5gVjKUkQBsSyuSf0gw5yfjOEzzC3TgtfzHNYRPCZj9mDJSVMSyuW
+                    - generic [ref=e516]:
+                      - img
+                    - text: 百度百科
+                  - generic [ref=e519] [cursor=pointer]: 
+          - generic [ref=e521]:
+            - heading "bilibili吧 - 百度贴吧" [level=3] [ref=e522]:
+              - link "bilibili吧 - 百度贴吧" [ref=e523] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsLwpF69idzF4-eC3x7TUdI9GTwzFbXZCJWc_4G5AXepHe9c7W-Prf13LspQ6mBkaznnouB7oCJp6WOjeiqs67Wf__W4eJoD4-EfEiodnBfIwEq1NDryHfZewqAbCyCrESY_
+                - emphasis [ref=e524]: bilibili
+                - text: 吧 - 百度贴吧
+            - generic [ref=e525]:
+              - link [ref=e527] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsLwpF69idzF4-eC3x7TUdI9GTwzFbXZCJWc_4G5AXepHe9c7W-Prf13LspQ6mBkaznnouB7oCJp6WOjeiqs67Wf__W4eJoD4-EfEiodnBfIwEq1NDryHfZewqAbCyCrESY_
+                - generic [ref=e530]:
+                  - img
+              - generic [ref=e532]:
+                - paragraph [ref=e533]: ACG文化及其衍生内容交流平台
+                - paragraph [ref=e534]:
+                  - generic [ref=e535]: 关注用户：473万人
+                - paragraph [ref=e536]:
+                  - generic [ref=e537]: 累计发贴：1亿
+                - paragraph [ref=e538]:
+                  - link "贴吧事务" [ref=e539] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QKHssi2lro490wkotK4OxR1NGQZXZLncyjqXI68osUu5rLsWtZr3P41LTwOu1hX3815UB77cx4LbDA61f0XkNdARUF2PpRjP8N6edVq8YUW
+                  - link "精品主题" [ref=e540] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QKHssi2lro490wkotK4OxR1NGQZXZLncyjqXI68osUu5rLsWtZr3P41LTwOu1hX3815UB77cx4LbDA61f0XkNhp-2nqe6kG8rELw5SQEQvC
+                  - link "教程资源" [ref=e541] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QKHssi2lro490wkotK4OxR1NGQZXZLncyjqXI68osUu5rLsWtZr3P41LTwOu1hX3815UB77cx4LbDA61f0XkNjMa68II6IHWwQvGAJNlX9S
+                  - link "吧友欢乐" [ref=e542] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QKHssi2lro490wkotK4OxR1NGQZXZLncyjqXI68osUu5rLsWtZr3P41LTwOu1hX3815UB77cx4LbDA61f0XkNi6ff8BaPhzKwAQmbHiiUiu
+                  - link "b站广告" [ref=e543] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=QKHssi2lro490wkotK4OxR1NGQZXZLncyjqXI68osUu5rLsWtZr3P41LTwOu1hX3815UB77cx4LbDA61f0XkNauti6AusYPouTlnfA8OjUi
+            - generic [ref=e544]:
+              - generic [ref=e546]:
+                - generic [ref=e547]:
+                  - link "【b吧举报申诉咨询贴】202604启用" [ref=e548] [cursor=pointer]:
+                    - /url: http://www.baidu.com/link?url=jU91zH-UIYXHRY2kYrayulHMZSWo1n1QbWHOWrI5hoOJr02qRVXPorcLAHLIgWijdiGs8d7m_8FJG44E2iE3rYn_vfS5Dm59BXTq8aGM-t8lnyLCApqUCyuMM6ELRQxB
+                  - generic [ref=e549]: 精
+                - generic [ref=e550]:
+                  - generic [ref=e551]:
+                    - text: 回复：
+                    - generic [ref=e552]: "285"
+                  - generic [ref=e553]:
+                    - text: 点击：
+                    - generic [ref=e554]: 2万
+              - generic [ref=e556]:
+                - link "这个是早期幽默白板吗" [ref=e558] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsLwpF69idzF4-eC3x7TUdI9HG8Ixa_xbNC0K83YRIV8GuYXqED-rxDU32PZgyhabBls1uh6Tl87x4-xHdOn-_fHBUjHwcjuCTJdv6cxXbL-OH
+                - generic [ref=e559]:
+                  - generic [ref=e560]:
+                    - text: 回复：
+                    - generic [ref=e561]: "180"
+                  - generic [ref=e562]:
+                    - text: 点击：
+                    - generic [ref=e563]: 4万
+              - generic [ref=e565]:
+                - link "男神在装逼这方面真是浑然天成啊" [ref=e567] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsLwpF69idzF4-eC3x7TUdI9HG8Ixa_xbNC0K83YRIV8Gu9qa37w02kQP-x4YPe1J8bETIDx8kR4LgeYtcowD6motB88oKH3mmJ7TGg9P6V7fn
+                - generic [ref=e568]:
+                  - generic [ref=e569]:
+                    - text: 回复：
+                    - generic [ref=e570]: "223"
+                  - generic [ref=e571]:
+                    - text: 点击：
+                    - generic [ref=e572]: 7万
+            - link "查看更多bilibili吧的内容 >" [ref=e574] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsLwpF69idzF4-eC3x7TUdI9GTwzFbXZCJWc_4G5AXepHe9c7W-Prf13LspQ6mBkaznnouB7oCJp6WOjeiqs67Wf__W4eJoD4-EfEiodnBfIwEq1NDryHfZewqAbCyCrESY_
+              - text: 查看更多
+              - emphasis [ref=e575]: bilibili
+              - text: 吧的内容 >
+            - generic [ref=e576]:
+              - generic [ref=e577]: tieba.baidu.com/
+              - generic [ref=e579] [cursor=pointer]: 
+          - generic [ref=e581]:
+            - generic [ref=e583]:
+              - heading "bilibili介绍 - 百度文库" [level=3] [ref=e584]:
+                - link "bilibili介绍 - 百度文库" [ref=e585] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=eUUzfd6ErIX3KH6AL2oXcUIS9NpJ1mn2bBLyv2UkEjxHAjMxmg0Oz0DFfotBs8kI6XXFYaz9AEEbW_-zq8A2KZm7TJrh5hzGZ34TtCBaeHWiDAk11Hr78E_3aAhkLDczqDBG4pdFCuqytQBHexKIBU35FEaLl23qg94vCwrxGaQvBNYGWvX66xxosly31vjWzXZu0TuLfMttoDui01rf96wAvq_iSjxIN1YtcWSm0w7
+                  - generic [ref=e586]:
+                    - emphasis [ref=e587]: bilibili
+                    - text: 介绍 - 百度文库
+              - generic [ref=e588]:
+                - generic [ref=e589]:
+                  - generic [ref=e592]:
+                    - generic [ref=e594]: 
+                    - generic [ref=e596]: 
+                    - generic [ref=e598]: 
+                    - generic [ref=e600]: 
+                    - generic [ref=e602]: 
+                  - generic [ref=e603]: 8页
+                  - generic [ref=e604]: 109次阅读
+                - paragraph [ref=e607]:
+                  - generic [ref=e608]:
+                    - text: 2021/2/21【哔哩哔哩动画？】哔哩哔哩是国内知名的弹幕视频分享站，常被漫迷们昵称为
+                    - emphasis [ref=e609]: bilibili
+                    - text: ，B站。哔哩哔哩动画是哔哩哔哩（
+                    - emphasis [ref=e610]: bilibili
+                    - text: .com）的官方客 户端，专注于ACG领域视频分享，许多原创作品也在此诞生。目 前有番剧、动画、音乐、舞蹈、游戏、科技、生活、鬼畜、时尚、 娱乐、影视等众多分区
+                - generic [ref=e611]:
+                  - heading "bilibili概念" [level=3] [ref=e614]:
+                    - link "bilibili概念" [ref=e615] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=eUUzfd6ErIX3KH6AL2oXcUIS9NpJ1mn2bBLyv2UkEjucq8a3TBaxUc9jPJksuvprTyHos7dR_YLuds3_CkUtJCVymsrsSqR-KJN5c04zJgcigE3Fz5kPLbmr6K8kAPzMf9zE0WR7kro1RH8vuEYub8I0qySCd05klEDflxmAyqTa2B9Awp3uqcSbM4dssA7ly2156ln5l3Ykp069dIyTPKeCyW0Xpmu4zFCTt-Ulnze
+                      - paragraph [ref=e618]:
+                        - generic [ref=e620]:
+                          - emphasis [ref=e622]: bilibili
+                          - text: 概念
+                  - generic [ref=e623]:
+                    - generic [ref=e626]:
+                      - generic [ref=e628]: 
+                      - generic [ref=e630]: 
+                      - generic [ref=e632]: 
+                      - generic [ref=e633]:
+                        - generic [ref=e634]: 
+                        - generic [ref=e636]: 
+                      - generic [ref=e638]: 
+                    - generic [ref=e639]: 1页
+                    - generic [ref=e640]: 126次阅读
+                  - paragraph [ref=e643]:
+                    - generic [ref=e644]:
+                      - emphasis [ref=e645]: bilibili
+                      - text: 概念
+                      - emphasis [ref=e646]: bilibili
+                      - text: 是一家拥有百万级用户的视频分享平台，总部位于中国上海。
+                      - emphasis [ref=e647]: bilibili
+                      - text: 以其个性化的操作界面和内容丰富的特色动漫、网络游戏、影视、音乐、漫画、动画、电子竞技等内容，吸引了大批年轻群体的关注，也被誉为“中国动漫文化之都”。
+                - generic [ref=e648]:
+                  - heading "2025年bilibili实习面试题及答案" [level=3] [ref=e651]:
+                    - link "2025年bilibili实习面试题及答案" [ref=e652] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=eUUzfd6ErIX3KH6AL2oXcUIS9NpJ1mn2bBLyv2UkEjvqPk06w_dTh18J3ndCjeK2lwoSY55uzkIv0y59ojA3iXGkMacrXUixsbsvCP4NReKHfogq7wVru4cZ5F1nwzYgkMLDSh96wj2Vm9iHnWZyDL5A0GA7YfTcNEoablz0kBXmcDfx6xLh2226WkMQ7uqI4o8lzs_7Q8Ld0FfEvmLaldcGiN8lD6jgCeWewJSfeHi
+                      - paragraph [ref=e655]:
+                        - generic [ref=e657]:
+                          - text: 2025年
+                          - emphasis [ref=e659]: bilibili
+                          - text: 实习面试题及答案
+                  - generic [ref=e660]:
+                    - generic [ref=e663]:
+                      - generic [ref=e665]: 
+                      - generic [ref=e667]: 
+                      - generic [ref=e669]: 
+                      - generic [ref=e671]: 
+                      - generic [ref=e673]: 
+                    - generic [ref=e674]: 13页
+                    - generic [ref=e675]: 3次阅读
+                  - paragraph [ref=e678]:
+                    - generic [ref=e679]:
+                      - text: 2025年
+                      - emphasis [ref=e680]: bilibili
+                      - text: 实习面试题及答案一、单项选择题（每题2分，共10题）1.以下哪个不是
+                      - emphasis [ref=e681]: Bilibili
+                      - text: 的核心价值观？A.用户至上B.创造价值C.追求卓越D.技术至上答案：D2.
+                      - emphasis [ref=e682]: Bilibili
+                      - text: 的用户群体以哪个年龄段为主？
+                - generic [ref=e683]:
+                  - heading "bilibili实习面试题及答案" [level=3] [ref=e686]:
+                    - link "bilibili实习面试题及答案" [ref=e687] [cursor=pointer]:
+                      - /url: http://www.baidu.com/link?url=Bb7gp4I8M3ePyFFkpi8zzxXV7on9tlpLmSW-wlM_-Lfa0VEVZwGWSpW7ngCKZZGaAxWXMEWq_Sd6MTKWJILT60-NQb1kn03DT1XSR_kZ26xlNvWyuSCKnXYtfPXV7_F3_B7BUoVxR6JftfCd06f1pybs6_K8IGyjsyqqeBIqfLEUgrzd9R1PYlo7UaOI2z0syFTxEPgfn29kAc81zOIFyUckIOqg-kfLwm1DqZpTMq4oJAHHugMugRtVxtFarHNUW6L3PuI9Xc3kNWTSylSzCPSN26noqwHtbADhoAYqi8W
+                      - paragraph [ref=e690]:
+                        - generic [ref=e692]:
+                          - emphasis [ref=e694]: bilibili
+                          - text: 实习面试题及答案
+                  - generic [ref=e695]:
+                    - generic [ref=e698]:
+                      - generic [ref=e700]: 
+                      - generic [ref=e702]: 
+                      - generic [ref=e704]: 
+                      - generic [ref=e706]: 
+                      - generic [ref=e707]:
+                        - generic [ref=e708]: 
+                        - generic [ref=e710]: 
+                    - generic [ref=e711]: 12页
+                    - generic [ref=e712]: 0次阅读
+                  - paragraph [ref=e715]:
+                    - generic [ref=e716]:
+                      - text: 一、单选题（每题1分，共10分）1.下列哪个不是
+                      - emphasis [ref=e717]: Bilibili
+                      - text: 的官方APP图标？（）（1分）A.B.C.D.【答案】D【解析】选项D并非
+                      - emphasis [ref=e718]: Bilibili
+                      - text: 官方APP图标。
+              - link "查看更多同站结果 " [ref=e719] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=5f2Eg6unOdcuoSYxg--v_nGzf3Par1dziyR8uDU1jBqczh1GrQMRcpT2mD2R2NpiMFTtbuzTQJzI2q6ZkDUrFetIUVOOBVHIQ_G0yndFCdPzZ6vfT2Tvdn_Rbw2vM62iUWgerH1_jb9YEET4CHPJ-lgpfsZzZNCDsvv4H4Yv0H1Op9CSLUaZmy7rj479XmWb
+                - generic [ref=e720]:
+                  - generic [ref=e721]: 查看更多同站结果
+                  - generic [ref=e722]: 
+            - generic [ref=e723]:
+              - link "百度文库" [ref=e726] [cursor=pointer]:
+                - /url: http://wenku.baidu.com/search?word=bilibili&fr=aladdin664466&ind=0&dyTabStr=MTIsMCwzLDEsMiwxMyw3LDYsNSw5&hitsid=0&aigcsid=0&qtype=0
+                - generic [ref=e729]: 百度文库
+              - img [ref=e734] [cursor=pointer]
+              - link [ref=e736] [cursor=pointer]:
+                - /url: http://open.baidu.com
+          - generic [ref=e742]:
+            - heading "哔哩哔哩-W[09626]港股实时行情 - 百度股市通" [level=3] [ref=e745]:
+              - link "哔哩哔哩-W[09626]港股实时行情 - 百度股市通" [ref=e746] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL9s6MMGsrNdJRGhM-iaO0r3VFObhMGT8LQuAQ169v1Z9kqEKULYugGm62_cjcG9RFq
+                - generic [ref=e747]: 哔哩哔哩-W[09626]港股实时行情 - 百度股市通
+            - generic [ref=e751]:
+              - generic [ref=e752]: 港股
+              - generic [ref=e753]: 美股
+            - generic [ref=e757]:
+              - link "153.500 港元 -13.500 -8.08%" [ref=e758] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL9s6MMGsrNdJRGhM-iaO0r3VFObhMGT8LQuAQ169v1Z9kqEKULYugGm62_cjcG9RFq
+                - generic [ref=e759]: "153.500"
+                - generic [ref=e760]: 港元
+                - generic [ref=e761]: "-13.500"
+                - generic [ref=e762]: "-8.08%"
+              - generic [ref=e764]:
+                - generic [ref=e767]: 
+                - link "已收盘 05-15 16:00:00 北京时间" [ref=e768] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL9s6MMGsrNdJRGhM-iaO0r3VFObhMGT8LQuAQ169v1Z9kqEKULYugGm62_cjcG9RFq
+            - link "今开 160.000 最高 160.000 成交量 1112万股 昨收 167.000 最低 151.500 成交额 17.16亿 换手率 2.67% 市盈(TTM) 48.40 总市值 639.52亿" [ref=e770] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsL9s6MMGsrNdJRGhM-iaO0r3VFObhMGT8LQuAQ169v1Z9kqEKULYugGm62_cjcG9RFq
+              - generic [ref=e772]:
+                - generic [ref=e773]: 今开
+                - generic [ref=e774]: "160.000"
+              - generic [ref=e776]:
+                - generic [ref=e777]: 最高
+                - generic [ref=e778]: "160.000"
+              - generic [ref=e780]:
+                - generic [ref=e781]: 成交量
+                - generic [ref=e782]: 1112万股
+              - generic [ref=e784]:
+                - generic [ref=e785]: 昨收
+                - generic [ref=e786]: "167.000"
+              - generic [ref=e788]:
+                - generic [ref=e789]: 最低
+                - generic [ref=e790]: "151.500"
+              - generic [ref=e792]:
+                - generic [ref=e793]: 成交额
+                - generic [ref=e794]: 17.16亿
+              - generic [ref=e796]:
+                - generic [ref=e797]: 换手率
+                - generic [ref=e798]: 2.67%
+              - generic [ref=e800]:
+                - generic [ref=e801]: 市盈(TTM)
+                - generic [ref=e802]: "48.40"
+              - generic [ref=e804]:
+                - generic [ref=e805]: 总市值
+                - generic [ref=e806]: 639.52亿
+            - generic [ref=e810]:
+              - generic [ref=e811]:
+                - link "ADR换算价(HKD)" [ref=e812] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsLvYKXb1qVCfjinLUzICe4ZnVIp1gMCS8r6mJI87_oP2ZcunuPIlQ7u7sCLfS0ijli_
+                - generic [ref=e814]: 
+                - generic [ref=e815]: "150.078"
+              - generic [ref=e816]:
+                - link "相对港股" [ref=e817] [cursor=pointer]:
+                  - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsLvYKXb1qVCfjinLUzICe4ZnVIp1gMCS8r6mJI87_oP2ZcunuPIlQ7u7sCLfS0ijli_
+                - generic [ref=e818]: "-2.23%"
+            - generic [ref=e820]:
+              - generic [ref=e821]:
+                - generic [ref=e823]: 分时
+                - generic [ref=e825]: 五日
+                - generic [ref=e827]: 日K
+                - generic [ref=e829]: 周K
+                - generic [ref=e831]: 月K
+                - generic [ref=e833]: 季K
+                - generic [ref=e835]: 年K
+                - generic [ref=e838]:
+                  - text: 更多
+                  - generic [ref=e839]: 
+              - generic [ref=e844]: 加载中...
+            - generic [ref=e846]:
+              - link "股票开户" [ref=e848] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=Bb7gp4I8M3ePyFFkpi8zz6I_OwHbCCVV8xJsHX5IDVmn6YMU5yrqZGsXMqUFNr7rDK7Mz8neKowdOWUunX77-K
+              - link "热门股评" [ref=e850] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsLvYKXb1qVCfjinLUzICe4ZnVIp1gMCS8r6mJI87_oP2ZTR7INRk-0sQZaOfvcWH0_41B4nQp7FI4ZRqTEh1eYDa
+              - generic [ref=e852]: 添加自选
+              - link "FinScope AI助手" [ref=e854] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=ubts75966OINF0TqpMUsLvYKXb1qVCfjinLUzICe4ZnVIp1gMCS8r6mJI87_oP2ZTR7INRk-0sQZaOfvcWH0__xCYsFLLIDDlDp5TqynIHq
+          - generic [ref=e858]:
+            - heading "B站精选 - 百家号" [level=3] [ref=e859]:
+              - generic [ref=e861]: B站精选 - 百家号
+            - link "头像 B站精选 1320万粉丝 国内最大的年轻人潮流文化娱乐社区 关注" [ref=e863] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=QKHssi2lro490wkotK4OxRX0exucriEUvK4iBnC0cV3c93G5flUcHMrgy1RKHdKW5uGaRSywPeitYL8VIqhVgq
+              - generic [ref=e864]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "头像"
+                - generic [ref=e865]:
+                  - generic [ref=e866]: B站精选
+                  - generic [ref=e867]: 1320万粉丝 国内最大的年轻人潮流文化娱乐社区
+                - button "关注" [ref=e869]:
+                  - generic [ref=e870]: 关注
+            - generic [ref=e874]:
+              - text: 百家号
+              - generic [ref=e876]: 
+          - generic [ref=e880]:
+            - heading "哔哩哔哩-招聘" [level=3] [ref=e883]:
+              - link "哔哩哔哩-招聘" [ref=e884] [cursor=pointer]:
+                - /url: http://www.baidu.com/link?url=xvzzJz11AWPfv960d_aomlG6j_OwcL_uhfmrrPkkX0Jh-XYLz8mdByejqUDZ5bIc
+                - paragraph [ref=e887]:
+                  - generic [ref=e890]: 哔哩哔哩-招聘
+            - generic [ref=e896]:
+              - text: 实习生招聘
+              - emphasis [ref=e897]: bilibili
+              - text: 星球 关注我们让我们一起生产快乐吧!powered by 哔哩哔哩 2025 哔哩哔哩集团版权所有bilibili招聘 《隐私政策》 如需协助请联系 campusrecruit@bilibili.com
+            - link "哔哩哔哩-招聘" [ref=e902] [cursor=pointer]:
+              - /url: http://www.baidu.com/link?url=xvzzJz11AWPfv960d_aomlG6j_OwcL_uhfmrrPkkX0Jh-XYLz8mdByejqUDZ5bIc
+              - generic [ref=e903]: 哔哩哔哩-招聘
+              - generic [ref=e905]: 
+        - generic [ref=e908]:
+          - generic [ref=e909]: 相关搜索
+          - table [ref=e910]:
+            - rowgroup [ref=e911]:
+              - row "bilibili官网网页入口 下载哔哔哔哔app" [ref=e912]:
+                - cell "bilibili官网网页入口" [ref=e913]:
+                  - link "bilibili官网网页入口" [ref=e914] [cursor=pointer]:
+                    - /url: /s?wd=bilibili%E5%AE%98%E7%BD%91%E7%BD%91%E9%A1%B5%E5%85%A5%E5%8F%A3&rsf=101631151&rsp=0&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_1
+                    - generic [ref=e916]: bilibili官网网页入口
+                - cell "下载哔哔哔哔app" [ref=e917]:
+                  - link "下载哔哔哔哔app" [ref=e918] [cursor=pointer]:
+                    - /url: /s?wd=%E4%B8%8B%E8%BD%BD%E5%93%94%E5%93%94%E5%93%94%E5%93%94app&rsf=101634503&rsp=1&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_2
+                    - generic [ref=e920]: 下载哔哔哔哔app
+              - row "biubiu 哔哩哔哩 安装" [ref=e921]:
+                - cell "biubiu" [ref=e922]:
+                  - link "biubiu" [ref=e923] [cursor=pointer]:
+                    - /url: /s?wd=biubiu&rsf=101631101&rsp=2&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_3
+                    - generic [ref=e925]: biubiu
+                - cell "哔哩哔哩 安装" [ref=e926]:
+                  - link "哔哩哔哩 安装" [ref=e927] [cursor=pointer]:
+                    - /url: /s?wd=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20%E5%AE%89%E8%A3%85&rsf=101631161&rsp=3&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_4
+                    - generic [ref=e929]: 哔哩哔哩 安装
+              - row "bibibi官网下载 www.bilibili.com怎么进" [ref=e930]:
+                - cell "bibibi官网下载" [ref=e931]:
+                  - link "bibibi官网下载" [ref=e932] [cursor=pointer]:
+                    - /url: /s?wd=bibibi%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BD&rsf=101631101&rsp=4&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_5
+                    - generic [ref=e934]: bibibi官网下载
+                - cell "www.bilibili.com怎么进" [ref=e935]:
+                  - link "www.bilibili.com怎么进" [ref=e936] [cursor=pointer]:
+                    - /url: /s?wd=www.bilibili.com%E6%80%8E%E4%B9%88%E8%BF%9B&rsf=101631151&rsp=5&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_6
+                    - generic [ref=e938]: www.bilibili.com怎么进
+              - row "bibibi下载安装 bilibili漫画免费破解版" [ref=e939]:
+                - cell "bibibi下载安装" [ref=e940]:
+                  - link "bibibi下载安装" [ref=e941] [cursor=pointer]:
+                    - /url: /s?wd=bibibi%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85&rsf=101636803&rsp=6&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_7
+                    - generic [ref=e943]: bibibi下载安装
+                - cell "bilibili漫画免费破解版" [ref=e944]:
+                  - link "bilibili漫画免费破解版" [ref=e945] [cursor=pointer]:
+                    - /url: /s?wd=bilibili%E6%BC%AB%E7%94%BB%E5%85%8D%E8%B4%B9%E7%A0%B4%E8%A7%A3%E7%89%88&rsf=101631101&rsp=7&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_8
+                    - generic [ref=e947]: bilibili漫画免费破解版
+              - row "哔哩哔哩官方首页 bibibi 哔哩哔哩" [ref=e948]:
+                - cell "哔哩哔哩官方首页" [ref=e949]:
+                  - link "哔哩哔哩官方首页" [ref=e950] [cursor=pointer]:
+                    - /url: /s?wd=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%AE%98%E6%96%B9%E9%A6%96%E9%A1%B5&rsf=101631161&rsp=8&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_9
+                    - generic [ref=e952]: 哔哩哔哩官方首页
+                - cell "bibibi 哔哩哔哩" [ref=e953]:
+                  - link "bibibi 哔哩哔哩" [ref=e954] [cursor=pointer]:
+                    - /url: /s?wd=bibibi%20%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&rsf=100633403&rsp=9&f=1&rs_src=0&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&rsv_dl=brs_28338_10
+                    - generic [ref=e956]: bibibi 哔哩哔哩
+      - generic [ref=e959]:
+        - link "上一页":
+          - /url: ""
+          - img "上一页"
+        - strong [ref=e960]:
+          - generic [ref=e961]: "1"
+        - link "2" [ref=e962] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=10&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=
+          - generic [ref=e963]: "2"
+        - link "3" [ref=e964] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=20&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=
+          - generic [ref=e965]: "3"
+        - link "4" [ref=e966] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=30&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=
+          - generic [ref=e967]: "4"
+        - link "5" [ref=e968] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=40&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=
+          - generic [ref=e969]: "5"
+        - link "6" [ref=e970] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=50&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=
+          - generic [ref=e971]: "6"
+        - link "7" [ref=e972] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=60&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=
+          - generic [ref=e973]: "7"
+        - link "8" [ref=e974] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=70&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=
+          - generic [ref=e975]: "8"
+        - link "9" [ref=e976] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=80&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=
+          - generic [ref=e977]: "9"
+        - link "10" [ref=e978] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=90&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=
+          - generic [ref=e979]: "10"
+        - link "下一页" [ref=e980] [cursor=pointer]:
+          - /url: /s?wd=bilibili&pn=10&oq=bilibili&ie=utf-8&usm=6&fenlei=256&rsv_idx=1&rsv_pq=b947e18102f66b80&rsv_t=35c1prZyPV%2F1StY5S6UdXqc49H2RPHAhuV6vbyYNFWiMHOJnDLu4sk0RHI4&topic_pn=&rsv_page=1
+          - img "下一页" [ref=e981]
+      - generic [ref=e984]:
+        - link "帮助" [ref=e985] [cursor=pointer]:
+          - /url: https://help.baidu.com/question?prod_id=1
+        - link "举报" [ref=e986] [cursor=pointer]:
+          - /url: https://help.baidu.com/jubao?source=search
+        - link "用户反馈" [ref=e987] [cursor=pointer]:
+          - /url: javascript:;
+        - link "企业推广" [ref=e988] [cursor=pointer]:
+          - /url: https://e.baidu.com/lp/search/?refer=1298

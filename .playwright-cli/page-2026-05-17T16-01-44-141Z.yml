@@ -1,0 +1,1807 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "顶部导航" [ref=e5]:
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - generic [ref=e8]:
+            - button "地区" [ref=e9] [cursor=pointer]: 中国大陆版
+            - generic [ref=e10]: 
+        - listitem [ref=e11]
+        - listitem [ref=e12]:
+          - generic [ref=e13]:
+            - link "jd_4a62c55eeaf8b" [ref=e15] [cursor=pointer]:
+              - /url: //home.jd.com/
+            - generic [ref=e16]: 
+        - listitem [ref=e17]
+        - listitem [ref=e18]:
+          - link "切换企业版" [ref=e20] [cursor=pointer]:
+            - /url: //b.jd.com/?entry=newuser&bjdSourceChannel=cjdqiehuanbjd
+        - generic [ref=e21]:
+          - listitem [ref=e22]
+          - listitem [ref=e23]:
+            - generic [ref=e25] [cursor=pointer]: 同款搜低价
+      - list [ref=e26]:
+        - listitem [ref=e27]:
+          - generic [ref=e28]:
+            - img [ref=e29]
+            - link "购物车 51" [ref=e31] [cursor=pointer]:
+              - /url: //cart.jd.com/cart.action
+        - listitem [ref=e32]
+        - listitem [ref=e33]:
+          - link "我的订单" [ref=e35] [cursor=pointer]:
+            - /url: //order.jd.com/center/list.action
+        - listitem [ref=e36]
+        - listitem [ref=e37]:
+          - generic [ref=e38]:
+            - link "我的京东" [ref=e39] [cursor=pointer]:
+              - /url: "#"
+            - generic [ref=e40]: 
+        - listitem [ref=e41]
+        - listitem [ref=e42]:
+          - generic [ref=e43]:
+            - link "企业采购" [ref=e44] [cursor=pointer]:
+              - /url: //b.jd.com/newuser/?bjdSourceChannel=cjdqiehuanqiyeban
+            - generic [ref=e45]: 
+        - listitem [ref=e46]
+        - listitem [ref=e47]:
+          - button "网站导航" [ref=e48]:
+            - text: 网站导航
+            - generic [ref=e49]: 
+        - listitem [ref=e50]
+        - listitem [ref=e51]:
+          - generic [ref=e52]:
+            - text: 手机京东
+            - generic [ref=e53]: 
+        - listitem [ref=e54]
+        - listitem [ref=e55]:
+          - link "网站无障碍" [ref=e57] [cursor=pointer]:
+            - /url: "#"
+    - generic [ref=e60]:
+      - generic [ref=e62] [cursor=pointer]: 京东购物
+      - generic [ref=e65] [cursor=pointer]: 工业品
+    - link "大促 大促 大促 大促 大促 大促 大促" [ref=e68] [cursor=pointer]:
+      - /url: https://pro.jd.com/mall/active/2nfPGxdinc4Z7YiA8tqnZiDHxtdY/index.html?babelChannel=ttt12
+      - link "大促" [ref=e69]:
+        - /url: https://pro.jd.com/mall/active/3e5MGRDLhEQz4kc4LJi69VunMief/index.html?innerAnchor=10187942836916
+        - img [ref=e70]
+        - generic [ref=e71]: 手机直降
+      - link "大促" [ref=e72]:
+        - /url: https://pro.jd.com/mall/active/2eyiCfeMcYVr4TUmpaiEaBRobH8F/index.html?babelChannel=ttt5&innerAnchor=100064914520
+        - img [ref=e73]
+        - generic [ref=e74]: 爆款5折抢
+      - link "大促" [ref=e75]:
+        - /url: https://pro.jd.com/mall/active/244QojK7cH1xyYR6zpmtkM3vNn4k/index.html?babelChannel=ttt19&innerAnchor=10096432950484_100178375501_100126321493
+        - img [ref=e76]
+        - generic [ref=e77]: 会员专享
+      - link "大促" [ref=e78]:
+        - /url: https://pro.jd.com/mall/active/7BbPMN15mB6BKp4ZYD19NVAxxq7/index.html?innerAnchor=100229519640
+        - img [ref=e79]
+        - generic [ref=e80]: 家具霸王券
+      - link "大促" [ref=e81]:
+        - /url: https://pro.jd.com/mall/active/DxCvUA1UuciJ3AF1D12b1haSphC/index.html?babelChannel=ttt32&innerAnchor=10124130313192
+        - img [ref=e82]
+        - generic [ref=e83]: 9.9元包邮
+      - link "大促" [ref=e84]:
+        - /url: https://pro.jd.com/mall/active/2vMLT4Dg5iQsG4rvFZAnX5tw5xAx/index.html?innerAnchor=100215607501
+        - img [ref=e85]
+        - generic [ref=e86]: 低至85折
+      - link "大促" [ref=e87]:
+        - /url: https://pro.jd.com/mall/active/2nfPGxdinc4Z7YiA8tqnZiDHxtdY/index.html?babelChannel=ttt7&innerAnchor=10217758855385
+        - img [ref=e88]
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - heading "京东" [level=1] [ref=e92]:
+          - link "京东" [ref=e93] [cursor=pointer]:
+            - /url: //www.jd.com
+        - generic "大促LOGO位推广" [ref=e96]:
+          - img [ref=e97]
+      - generic [ref=e98]:
+        - generic [ref=e101] [cursor=pointer]:
+          - img [ref=e102]
+          - text: 京言AI
+        - generic [ref=e106]:
+          - generic [ref=e107]:
+            - generic [ref=e110] [cursor=pointer]: 商品
+            - generic [ref=e112]:
+              - generic [ref=e113]: 水月雨梦回2
+              - generic [ref=e114]: 水月雨aria
+              - generic [ref=e115]: 水月雨太空漫游2ultra
+              - generic [ref=e116]: 水月雨aria2
+              - generic [ref=e117]: 水月雨
+              - generic [ref=e118]: 达音科
+              - generic [ref=e119]: 觅声天鹤座2
+              - generic [ref=e120]: 达音科titans2
+              - generic [ref=e121]: 水月雨太空漫游2
+              - generic [ref=e122]: 水月雨耳机
+            - textbox "搜索" [ref=e123]
+            - generic [ref=e124]:
+              - generic [ref=e125]: 搜索
+              - switch [ref=e126] [cursor=pointer]
+            - button "搜索" [ref=e133] [cursor=pointer]
+          - generic [ref=e134]:
+            - generic [ref=e135] [cursor=pointer]: 兰蔻抢超买1赠1量
+            - generic [ref=e136] [cursor=pointer]: 水月雨梦回2
+            - generic [ref=e137] [cursor=pointer]: 水月雨aria2
+            - generic [ref=e138] [cursor=pointer]: 水月雨aria
+            - generic [ref=e139] [cursor=pointer]: dd r5内存条
+            - generic [ref=e140] [cursor=pointer]: 太空漫游2ultra
+            - generic [ref=e141] [cursor=pointer]: 水月雨x孤独摇滚
+            - generic [ref=e142] [cursor=pointer]: 水月雨竹2
+            - generic [ref=e143] [cursor=pointer]: 达音科titans2
+            - generic [ref=e144] [cursor=pointer]: 觅声天鹤座2
+            - generic [ref=e145] [cursor=pointer]: 弱水静海2
+      - link "推广位" [ref=e148] [cursor=pointer]:
+        - /url: //interact.jd.com/
+    - generic [ref=e149]:
+      - generic [ref=e150]:
+        - list [ref=e153]:
+          - listitem [ref=e155]:
+            - link "冰洗" [ref=e157] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=冰箱%2F洗衣机&enc=utf-8&wq=冰洗&pvid=86906b9466d84cb99b938ce3d1f98eb1
+            - text: /
+            - link "空调" [ref=e158] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=空调&enc=utf-8&wq=空调&pvid=d4838b0188684013823b83834c67fdeb
+            - text: /
+            - link "电视" [ref=e159] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=电视&enc=utf-8&pvid=5cb7fcf3d78045e082eee2cc6d33c054
+            - text: /
+            - link "厨卫大电" [ref=e160] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=厨卫大电&enc=utf-8&pvid=ba95fa066c7f4d868bb290f303af75df
+          - listitem [ref=e162]:
+            - link "电脑" [ref=e164] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=电脑整机&enc=utf-8&pvid=e2444eaf9a9b4e33b9bf031c43e39940
+            - text: /
+            - link "办公" [ref=e165] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E5%8A%9E%E5%85%AC&enc=utf-8&wq=%E5%8A%9E%E5%85%AC&pvid=c8ee4353f33d4eed82f969ce97eba434
+            - text: /
+            - link "文具用品" [ref=e166] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=37462
+          - listitem [ref=e168]:
+            - link "手机" [ref=e170] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=手机&enc=utf-8&pvid=25db2d08e2d04e1b91d79c9a65766521
+            - text: /
+            - link "运营商" [ref=e171] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E8%BF%90%E8%90%A5%E5%95%86&enc=utf-8&wq=%E8%BF%90%E8%90%A5%E5%95%86&pvid=3a4453c7ef49462a8c5b73cc9f56ad97
+            - text: /
+            - link "数码" [ref=e172] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E6%95%B0%E7%A0%81&enc=utf-8&wq=%E6%95%B0%E7%A0%81&pvid=34b0fcf7ed434840a74c057bc97be346
+          - listitem [ref=e174]:
+            - link "生活电器" [ref=e176] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=737%2C738&pvid=2f4bddc5bb364eff8f104ed59ffd6dc2
+            - text: /
+            - link "厨房小电" [ref=e177] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=厨房小电&enc=utf-8&wq=厨房小电&pvid=bce4c4a55a604feab45820e58f17848a
+            - text: /
+            - link "个护健康" [ref=e178] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=737%2C1276&pvid=53516f056c30425bb479be65c839d48a
+          - listitem [ref=e180]:
+            - link "食品" [ref=e182] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E9%A3%9F%E5%93%81&enc=utf-8&wq=%E9%A3%9F%E5%93%81&pvid=b22bb1ad1cb045aa989753d21f73c228
+            - text: /
+            - link "酒类" [ref=e183] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=中外名酒&enc=utf-8&wq=中外名酒&pvid=16e1724bdc294613b5c43df42878baba
+            - text: /
+            - link "生鲜" [ref=e184] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=生鲜&enc=utf-8&wq=生鲜&pvid=da1c472045b0441b96fee205b1d3cb96
+            - text: /
+            - link "特产" [ref=e185] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=特产&enc=utf-8&wq=特产&pvid=6f537ac338c54110b040bde0fc3ee7f6
+          - listitem [ref=e187]:
+            - link "美妆" [ref=e189] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&enc=utf-8&wq=%E7%BE%8E%E5%A6%86&pvid=c8ee6f8f98ba4aeabf534a34348c0d87
+            - text: /
+            - link "个护清洁" [ref=e190] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=个护清洁&enc=utf-8&wq=个护清洁&pvid=261b201c58c643d88b3722d66158dd67
+            - text: /
+            - link "宠物" [ref=e191] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E5%AE%A0%E7%89%A9&enc=utf-8&wq=%E5%AE%A0%E7%89%A9&pvid=1e791e1325ba47048d2722e68da9289a
+          - listitem [ref=e193]:
+            - link "元器件" [ref=e195] [cursor=pointer]:
+              - /url: //ic.jd.com
+            - text: /
+            - link "劳保物资" [ref=e196] [cursor=pointer]:
+              - /url: //i-search.jd.com/Search?enc=utf-8&keyword=%E5%8A%B3%E4%BF%9D%E7%89%A9%E8%B5%84&event_id=1&source=index
+            - text: /
+            - link "五金机电" [ref=e197] [cursor=pointer]:
+              - /url: //mro.jd.com
+          - listitem [ref=e199]:
+            - link "家装" [ref=e201] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E5%AE%B6%E8%A3%85&enc=utf-8&wq=%E5%AE%B6%E8%A3%85jianc&pvid=ab225ed5a88c44e391dc224e03e1950c
+            - text: /
+            - link "建材" [ref=e202] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E5%BB%BA%E6%9D%90&enc=utf-8&wq=%E5%BB%BA%E6%9D%90jianc&pvid=ab225ed5a88c44e391dc224e03e1950c
+            - text: /
+            - link "家具" [ref=e203] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E5%AE%B6%E5%85%B7&enc=utf-8&pvid=1c58265e1904499a9c1d9c7847b7b962
+          - listitem [ref=e205]:
+            - link "家居日用" [ref=e207] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=1620
+            - text: /
+            - link "厨具" [ref=e208] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E5%8E%A8%E5%85%B7&enc=utf-8&wq=%E5%8E%A8%E5%85%B7&pvid=7bdf296458744f4d8d17be5fbdaed59a
+          - listitem [ref=e210]:
+            - link "男鞋" [ref=e212] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=男鞋&enc=utf-8&pvid=66d6dae0cc0f4f7faf6ae3c48f71ca83
+            - text: /
+            - link "运动" [ref=e213] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=运动&enc=utf-8&wq=运动&pvid=88866502b55f445ea1b14dfdbf768812
+            - text: /
+            - link "户外" [ref=e214] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E6%88%B7%E5%A4%96&enc=utf-8&wq=%E6%88%B7%E5%A4%96&pvid=4a62c590cb774f1d853e3da9a2e453a0
+          - listitem [ref=e216]:
+            - link "男装" [ref=e218] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=1315,1342
+            - text: /
+            - link "女装" [ref=e219] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=1315,1343
+            - text: /
+            - link "童装" [ref=e220] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=1319,11842
+            - text: /
+            - link "内衣" [ref=e221] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=1315,1345
+          - listitem [ref=e223]:
+            - link "京东买药" [ref=e225] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF&enc=utf-8&wq=%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF&pvid=d605a440ef96406f9dedbe3e8ddc9dbd
+            - text: /
+            - link "计生情趣" [ref=e226] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E8%AE%A1%E7%94%9F%E6%83%85%E8%B6%A3&enc=utf-8&wq=%E8%AE%A1%E7%94%9F%E6%83%85%E8%B6%A3&pvid=e8284db88df24f919dfc31e5536bbf64
+          - listitem [ref=e228]:
+            - link "房产" [ref=e230] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=房产&enc=utf-8&wq=房产&pvid=ebe58fbf611c414395103b9d55334cb8
+            - text: /
+            - link "汽车" [ref=e231] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=12379
+            - text: /
+            - link "汽车用品" [ref=e232] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=6728
+          - listitem [ref=e234]:
+            - link "图书" [ref=e236] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=图书&enc=utf-8&wq=图书&pvid=ef13c075c94e415a9c1a468f6716ed0e
+            - text: /
+            - link "文娱" [ref=e237] [cursor=pointer]:
+              - /url: //search.jd.com/search?keyword=文娱&wq=文娱&cid2=17338
+            - text: /
+            - link "教育" [ref=e238] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E8%AF%BE%E7%A8%8B&enc=utf-8&wq=%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD%E8%AF%BE%E7%A8%8B&pvid=04dff2bdd3694c96ab68337e9fc4c6b2
+            - text: /
+            - link "电子书" [ref=e239] [cursor=pointer]:
+              - /url: //e.jd.com/
+          - listitem [ref=e241]:
+            - link "女鞋" [ref=e243] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=女鞋&enc=utf-8&pvid=a0ad3cfe0a7743e281ca4d7469d3e91a
+            - text: /
+            - link "箱包" [ref=e244] [cursor=pointer]:
+              - /url: //search.jd.com/search?keyword=箱包&wq=箱包&cid3=9186
+            - text: /
+            - link "钟表" [ref=e245] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=钟表&enc=utf-8&wq=钟表&pvid=68f920a7a65d482a986b9274cbab8951
+            - text: /
+            - link "珠宝" [ref=e246] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=珠宝&enc=utf-8&wq=zhu%27bao&pvid=e026943b581c48718e20ca9645e5d259
+          - listitem [ref=e248]:
+            - link "母婴" [ref=e250] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E6%AF%8D%E5%A9%B4&enc=utf-8&wq=%E6%AF%8D%E5%A9%B4&pvid=3e86f063795740d594b1bb1187e02063
+            - text: /
+            - link "玩具乐器" [ref=e251] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E7%8E%A9%E5%85%B7%E4%B9%90%E5%99%A8&enc=utf-8&wq=%E7%8E%A9%E5%85%B7%E4%B9%90%E5%99%A8&pvid=6acae74f0ea34c6a8db6b5563f1a24d1
+          - listitem [ref=e253]:
+            - link "机票" [ref=e255] [cursor=pointer]:
+              - /url: //jipiao.jd.com/
+            - text: /
+            - link "酒店" [ref=e256] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=酒店预订&enc=utf-8&wq=酒店yud&pvid=bf240e078f6c4b16ba42faf6428f1518&spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmNoX2NvbmZpcm0
+            - text: /
+            - link "旅游" [ref=e257] [cursor=pointer]:
+              - /url: //list.jd.com/list.html?cat=12420
+            - text: /
+            - link "生活" [ref=e258] [cursor=pointer]:
+              - /url: //huoyue.jd.com/forwardToJiaofeiFrame.html
+          - listitem [ref=e260]:
+            - link "艺术" [ref=e262] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=艺术品&enc=utf-8&wq=艺术品&pvid=5928d0db63e24f479330f2922ea1b0d7
+            - text: /
+            - link "礼品鲜花" [ref=e263] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=%E9%B2%9C%E8%8A%B1&enc=utf-8&wq=%E9%B2%9C%E8%8A%B1&pvid=0aad3e1477ad46829f14f3cb19b25b0a
+            - text: /
+            - link "农牧园艺" [ref=e264] [cursor=pointer]:
+              - /url: //prodev.jd.com/mall/active/CYivQ3Q2U5zCcgqGDXeGzzWn5XF/index.html
+          - listitem [ref=e266]:
+            - link "安装" [ref=e268] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=安装&enc=utf-8&wq=安装&pvid=97bb21465c894defaccfc1f197896150
+            - text: /
+            - link "维修" [ref=e269] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=维修&enc=utf-8&wq=维修&pvid=eba9b7454da0494c960f074db37be847
+            - text: /
+            - link "清洗" [ref=e270] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=清洗服务&enc=utf-8&wq=清洗&pvid=5b8c10e5e1d242fa931e2c6bca2e4624
+            - text: /
+            - link "二手" [ref=e271] [cursor=pointer]:
+              - /url: //2.jd.com/
+          - listitem [ref=e273]:
+            - link "支付" [ref=e275] [cursor=pointer]:
+              - /url: //www.jdpay.com/home/
+            - text: /
+            - link "白条" [ref=e276] [cursor=pointer]:
+              - /url: //baitiao.jd.com
+            - text: /
+            - link "保险" [ref=e277] [cursor=pointer]:
+              - /url: //search.jd.com/Search?keyword=保险&enc=utf-8&wq=baoxian&pvid=3062c3f2b60c4b15a4f58fb618029917&spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmNoX2NvbmZpcm0
+            - text: /
+            - link "企业金融" [ref=e278] [cursor=pointer]:
+              - /url: //qyjr.jddglobal.com/
+        - generic [ref=e279]:
+          - navigation [ref=e281]:
+            - generic [ref=e282]:
+              - list [ref=e283]:
+                - listitem [ref=e284]:
+                  - link "国家补贴" [ref=e285] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4Shss3oaLuW1RMisVg4JgpsUsRzN/index.html?babelChannel=ttt1
+                    - img [ref=e286]
+                    - text: 国家补贴
+                - listitem [ref=e287]:
+                  - link "司法拍卖" [ref=e288] [cursor=pointer]:
+                    - /url: https://auction.jd.com/sifa.html
+                    - img [ref=e289]
+                    - text: 司法拍卖
+                - listitem [ref=e290]:
+                  - link "黑色星期五" [ref=e291] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/JAjtcpqK8RDvB8A4k1ZBgViBKAL/index.html?babelChannel=ttt106
+                    - img [ref=e292]
+                    - text: 黑色星期五
+                - listitem [ref=e293]:
+                  - link "企业购" [ref=e294] [cursor=pointer]:
+                    - /url: https://b.jd.com/?&bjdSourceChannel=cjdhengdaohang
+                    - img [ref=e295]
+                    - text: 企业购
+                - listitem [ref=e296]:
+                  - link "家电馆" [ref=e297] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/48v7Xzb3FfKt6mKgMaS9EoHrvieE/index.html?babelChannel=ttt53
+                    - img [ref=e298]
+                    - text: 家电馆
+                - listitem [ref=e299]:
+                  - link "京喜自营" [ref=e300] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2iqSwv1JiDHxAkHAikfU6XAECFmo/index.html?babelChannel=ttt4
+                    - img [ref=e301]
+                    - text: 京喜自营
+                - listitem [ref=e302]:
+                  - link "家装馆" [ref=e303] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/41BQuviAya92UJVSJQ1TGb1LA7wv/index.html?babelChannel=ttt44
+                    - img [ref=e304]
+                    - text: 家装馆
+                - listitem [ref=e305]:
+                  - link "京东新品" [ref=e306] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/3ejBfFZtaQMQ4RYpBxHekmm9vyrs/index.html?is_pc=1&topOfHomePullDown=1
+                    - img [ref=e307]
+                    - text: 京东新品
+                - listitem [ref=e308]:
+                  - link "清洁馆" [ref=e309] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2Tjm6ay1ZbZ3v7UbriTj6kHy9dn6/index.html?babelChannel=ttt111
+                    - img [ref=e310]
+                    - text: 清洁馆
+                - listitem [ref=e311]:
+                  - link "装机大师" [ref=e312] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/ecRJEpGqgdMX1hUYCyBCRTB6yZn/index.html?babelChannel=ttt2
+                    - img [ref=e313]
+                    - text: 装机大师
+                - listitem [ref=e314]:
+                  - link "京东奢品" [ref=e315] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2bkTvuyAtEZS8bq8i3AKzYq54EqT/index.html
+                    - img [ref=e316]
+                    - text: 京东奢品
+                - listitem [ref=e317]:
+                  - link "京东京造" [ref=e318] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/WFJKWrVftPmGdDENfVqJU8BCB5c/index.html?babelChannel=ttt97
+                    - img [ref=e319]
+                    - text: 京东京造
+                - listitem [ref=e320]:
+                  - link "新店特惠" [ref=e321] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/MdfUo5eixn3idv3q5vGztn26q8D/index.html?babelChannel=ttt43
+                    - img [ref=e322]
+                    - text: 新店特惠
+                - listitem [ref=e323]:
+                  - link "家电国补" [ref=e324] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4FVSN9SJqfudsbrKN2cvXEEDmYGy/index.html
+                    - img [ref=e325]
+                    - text: 家电国补
+                - listitem [ref=e326]:
+                  - link "政府消费券" [ref=e327] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/6hBuBXvFLoDtEhGupKesBKqvWh9/index.html?babelChannel=ttt14
+                    - img [ref=e328]
+                    - text: 政府消费券
+                - listitem [ref=e329]:
+                  - link "游戏电竞" [ref=e330] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/bvNYnFjp84WgX5sufkKehdv84zq/index.html
+                    - img [ref=e331]
+                    - text: 游戏电竞
+                - listitem [ref=e332]:
+                  - link "京东特价" [ref=e333] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/49pNiBvgfNMAAELMNNA1Krxyu6TA/index.html
+                    - img [ref=e334]
+                    - text: 京东特价
+                - listitem [ref=e335]:
+                  - link "宠物馆" [ref=e336] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2TY2j1yJ9T2QKiQekTpHgvv68HiD/index.html?babelChannel=ttt47
+                    - img [ref=e337]
+                    - text: 宠物馆
+                - listitem [ref=e338]:
+                  - link "夺宝岛" [ref=e339] [cursor=pointer]:
+                    - /url: https://1paipai.jd.com/auction-list/?spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDYzOTYuNF85
+                    - img [ref=e340]
+                    - text: 夺宝岛
+                - listitem [ref=e341]:
+                  - link "京东图书" [ref=e342] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/3sAaxodHF7kfo3s95cjxo2UZUxu2/index.html
+                    - img [ref=e343]
+                    - text: 京东图书
+                - listitem [ref=e344]:
+                  - link "潮流穿搭" [ref=e345] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4AHAZ5hWwwCRoXnmDoHh1pESRDZc/index.html
+                    - img [ref=e346]
+                    - text: 潮流穿搭
+                - listitem [ref=e347]:
+                  - link "排行榜" [ref=e348] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/3J13cRc4KPMNqXPVuVFY9aDKsBJy/index.html?babelChannel=ttt2
+                    - img [ref=e349]
+                    - text: 排行榜
+                - listitem [ref=e350]:
+                  - link "二手手机" [ref=e351] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2MHSvQCUwbwetiNivpw6QVuKnypb/index.html
+                    - img [ref=e352]
+                    - text: 二手手机
+                - listitem [ref=e353]:
+                  - link "电脑馆" [ref=e354] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4Xs847qJzeqf6ASxnEMWwe4Pz3kC/index.html?babelChannel=ttt5
+                    - img [ref=e355]
+                    - text: 电脑馆
+                - listitem [ref=e356]:
+                  - link "珠宝馆" [ref=e357] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/22DpAdd48C4fU3cBRkeYSM87WhWV/index.html?babelChannel=ttt348
+                    - img [ref=e358]
+                    - text: 珠宝馆
+                - listitem [ref=e359]:
+                  - link "玩具乐器馆" [ref=e360] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4N6RzwtBZdtdcgodvdsK7ZEzkUbZ/index.html?babelChannel=ttt18
+                    - img [ref=e361]
+                    - text: 玩具乐器馆
+                - listitem [ref=e362]:
+                  - link "服饰鞋帽" [ref=e363] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/32EphPL81Mb6FD4qLCTtYmd31YXr/index.html
+                    - img [ref=e364]
+                    - text: 服饰鞋帽
+                - listitem [ref=e365]:
+                  - link "家电家居" [ref=e366] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2H8G6a7JecjqHH3t1ZWSoJjPtziP/index.html?babelChannel=ttt250
+                    - img [ref=e367]
+                    - text: 家电家居
+                - listitem [ref=e368]:
+                  - link "运动馆" [ref=e369] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/oKAAQpTfmbKWmL338JdgxNDeWK2/index.html?babelChannel=ttt151
+                    - img [ref=e370]
+                    - text: 运动馆
+                - listitem [ref=e371]:
+                  - link "五金城" [ref=e372] [cursor=pointer]:
+                    - /url: https://mro.jd.com/
+                    - img [ref=e373]
+                    - text: 五金城
+                - listitem [ref=e374]:
+                  - link "全球购" [ref=e375] [cursor=pointer]:
+                    - /url: https://www.jd.hk/
+                    - img [ref=e376]
+                    - text: 全球购
+                - listitem [ref=e377]:
+                  - link "京东超市" [ref=e378] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/36yPbWm4JqFrmTgABydz6GkWNkca/index.html?babelChannel=ttt3
+                    - img [ref=e379]
+                    - text: 京东超市
+                - listitem [ref=e380]:
+                  - link "元器件" [ref=e381] [cursor=pointer]:
+                    - /url: https://ic.jd.com/
+                    - img [ref=e382]
+                    - text: 元器件
+                - listitem [ref=e383]:
+                  - link "家具馆" [ref=e384] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/UfTGu5CiZAwA1WsxApZK8bf4w3U/index.html
+                    - img [ref=e385]
+                    - text: 家具馆
+                - listitem [ref=e386]:
+                  - link "服饰美妆" [ref=e387] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/BeDtXXVHSmYJns77dUQFW6W9XTS/index.html?babelChannel=ttt6
+                    - img [ref=e388]
+                    - text: 服饰美妆
+                - listitem [ref=e389]:
+                  - link "配件馆" [ref=e390] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2GxAwsimbvmrjpZyjp3XfP3huqKA/index.html
+                    - img [ref=e391]
+                    - text: 配件馆
+                - listitem [ref=e392]:
+                  - link "电子教育" [ref=e393] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/rEi74fjn9hRQztAujuoLzeiBLGw/index.html?babelChannel=ttt2
+                    - img [ref=e394]
+                    - text: 电子教育
+                - listitem [ref=e395]:
+                  - link "大牌奥莱" [ref=e396] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2aRK8YxJGhgc1gEnXLJPhT6KodXd/index.html?babelChannel=ttt150
+                    - img [ref=e397]
+                    - text: 大牌奥莱
+                - listitem [ref=e398]:
+                  - link "拍拍二手" [ref=e399] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2tjFokgS3wE4pJdz1pYsWnHJveeP/index.html
+                    - img [ref=e400]
+                    - text: 拍拍二手
+                - listitem [ref=e401]:
+                  - link "手机数码" [ref=e402] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/8tHNdJLcqwqhkLNA8hqwNRaNu5f/index.html
+                    - img [ref=e403]
+                    - text: 手机数码
+                - listitem [ref=e404]:
+                  - link "公共采购" [ref=e405] [cursor=pointer]:
+                    - /url: https://g.jd.com/
+                    - img [ref=e406]
+                    - text: 公共采购
+                - listitem [ref=e407]:
+                  - link "领券中心" [ref=e408] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/VAjs3vpayA513UwxL5XC4eGBXqY/index.html?babelChannel=ttt117
+                    - img [ref=e409]
+                    - text: 领券中心
+                - listitem [ref=e410]:
+                  - link "企业计划购" [ref=e411] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4U9MaPSeTJc6nbKVZtxvqDm6yroL/index.html?babelChannel=ttt17
+                    - img [ref=e412]
+                    - text: 企业计划购
+                - listitem [ref=e413]:
+                  - link "家庭常备药" [ref=e414] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/sSFiqWRdzGTU9ByynawT1k5mix4/index.html?babelChannel=ttt34
+                    - img [ref=e415]
+                    - text: 家庭常备药
+                - listitem [ref=e416]:
+                  - link "看病买药" [ref=e417] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2Yb48bep8F2N7TR7YFm514J7tsgd/index.html
+                    - img [ref=e418]
+                    - text: 看病买药
+                - listitem [ref=e419]:
+                  - link "礼品卡" [ref=e420] [cursor=pointer]:
+                    - /url: https://o.jd.com
+                    - img [ref=e421]
+                    - text: 礼品卡
+                - listitem [ref=e422]:
+                  - link "京东快递" [ref=e423] [cursor=pointer]:
+                    - /url: https://www.jdl.com/send/sendSingleEntry/?isCnet=1&source=PCsgg
+                    - img [ref=e424]
+                    - text: 京东快递
+                - listitem [ref=e425]:
+                  - link "京东家居馆" [ref=e426] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/FxaS5JGmuJH65DB4HxF7rCRRewb/index.html?babelChannel=ttt474
+                    - img [ref=e427]
+                    - text: 京东家居馆
+                - listitem [ref=e428]:
+                  - link "母婴馆" [ref=e429] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/3BbAVGQPDd6vTyHYjmAutXrKAos6/index.html?babelChannel=ttt267
+                    - img [ref=e430]
+                    - text: 母婴馆
+                - listitem [ref=e431]:
+                  - link "爱回收" [ref=e432] [cursor=pointer]:
+                    - /url: https://huishou.jd.com/?entryid=p004PCshouyeicon
+                    - img [ref=e433]
+                    - text: 爱回收
+                - listitem [ref=e434]:
+                  - link "京东互医" [ref=e435] [cursor=pointer]:
+                    - /url: https://cont.jd.com/?hy_entry=SEO_HypOtherHome&seoRedirectFlag=true&amp;isFromSeo=true
+                    - img [ref=e436]
+                    - text: 京东互医
+                - listitem [ref=e437]:
+                  - link "云建站" [ref=e438] [cursor=pointer]:
+                    - /url: https://www.jdcloud.com/cn/products/jdcloud-site-short
+                    - img [ref=e439]
+                    - text: 云建站
+                - listitem [ref=e440]:
+                  - link "游戏" [ref=e441] [cursor=pointer]:
+                    - /url: https://ylc.m.jd.com?ext=2066
+                    - img [ref=e442]
+                    - text: 游戏
+                - listitem [ref=e443]:
+                  - link "加油卡" [ref=e444] [cursor=pointer]:
+                    - /url: https://jiayouka.jd.com/
+                    - img [ref=e445]
+                    - text: 加油卡
+                - listitem [ref=e446]:
+                  - link "护士到家" [ref=e447] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/5RHCkauZkojcxkmpWiwY1BJ83Ew/index.html?babelChannel=ttt147
+                    - img [ref=e448]
+                    - text: 护士到家
+                - listitem [ref=e449]:
+                  - link "京东联名卡" [ref=e450] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4U4aC6LY2b3wMJKEFfwqqZktpBYH/index.html
+                    - img [ref=e451]
+                    - text: 京东联名卡
+                - listitem [ref=e452]:
+                  - link "跟买指南" [ref=e453] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/6zgLNJMczKNquA2nawChYB8Fs8A/index.html?babelChannel=ttt24
+                    - img [ref=e454]
+                    - text: 跟买指南
+                - listitem [ref=e455]:
+                  - link "手机馆" [ref=e456] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4AP3tAH2TrGite1X6eBDXEFBvox6/index.html?babelChannel=ttt2
+                    - img [ref=e457]
+                    - text: 手机馆
+                - listitem [ref=e458]:
+                  - link "超级18" [ref=e459] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/43pcTL84xvQseMQ7CvVD9bEfk9Vs/index.html?babelChannel=ttt10
+                    - img [ref=e460]
+                    - text: 超级18
+                - listitem [ref=e461]:
+                  - link "医疗器械馆" [ref=e462] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/gTZQx9VStunoXz1WTiBKhWGQeZ6/index.html
+                    - img [ref=e463]
+                    - text: 医疗器械馆
+                - listitem [ref=e464]:
+                  - link "京东生鲜" [ref=e465] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4P9a2T9osR9JvtzHVaYTPvsecRtg/index.html?babelChannel=ttt180
+                    - img [ref=e466]
+                    - text: 京东生鲜
+                - listitem [ref=e467]:
+                  - link "京东拍卖" [ref=e468] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/kv2t7uxJPuFvTHpy17ZKDrLuW51/index.html?babelChannel=ttt9
+                    - img [ref=e469]
+                    - text: 京东拍卖
+                - listitem [ref=e470]:
+                  - link "天天领好礼" [ref=e471] [cursor=pointer]:
+                    - /url: https://interact.jd.com/
+                    - img [ref=e472]
+                    - text: 天天领好礼
+                - listitem [ref=e473]:
+                  - link "充值中心" [ref=e474] [cursor=pointer]:
+                    - /url: https://chongzhi.jd.com/
+                    - img [ref=e475]
+                    - text: 充值中心
+                - listitem [ref=e476]:
+                  - link "美妆馆" [ref=e477] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2kmaPNrGDNYo1LKwYtRoaSmsgbj6/index.html?babelChannel=ttt176
+                    - img [ref=e478]
+                    - text: 美妆馆
+              - generic [ref=e479] [cursor=pointer]:
+                - img [ref=e480]
+                - text: 全部频道
+          - generic [ref=e482]:
+            - generic [ref=e483]:
+              - generic [ref=e484]:
+                - link [ref=e485] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/3GLfeeFSFCvFu6wS67BKvtnQrKXV/index.html?babelChannel=ttt9
+                  - img [ref=e486]
+                  - img [ref=e487]
+                - link "重磅推荐 爆品好价抢 爆款秒杀开抢" [ref=e488] [cursor=pointer]:
+                  - /url: https://item.jd.com/10164280451217.html
+                  - img [ref=e489]
+                  - generic [ref=e490]: 重磅推荐
+                  - generic [ref=e491]: 爆品好价抢
+                  - generic [ref=e492]: 爆款秒杀开抢
+                - link "品质精选 爆品好价抢 手慢无！速抢！" [ref=e493] [cursor=pointer]:
+                  - /url: https://item.jd.com/10157104231861.html
+                  - img [ref=e494]
+                  - generic [ref=e495]: 品质精选
+                  - generic [ref=e496]: 爆品好价抢
+                  - generic [ref=e497]: 手慢无！速抢！
+                - link [ref=e498] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/3ZYfZKGRAhbHzJySpRriJoGWo8v6/index.html?innerAnchor=100024905645&focus=3
+                  - img [ref=e499]
+                  - img [ref=e500]
+                - link "品质精选 声卡级芯片 爆款秒杀开抢" [ref=e501] [cursor=pointer]:
+                  - /url: http://item.jd.com/10162188719512.html
+                  - img [ref=e502]
+                  - generic [ref=e503]: 品质精选
+                  - generic [ref=e504]: 声卡级芯片
+                  - generic [ref=e505]: 爆款秒杀开抢
+                - link [ref=e506] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/3ZYfZKGRAhbHzJySpRriJoGWo8v6/index.html?innerAnchor=100109764852&focus=3
+                  - img [ref=e507]
+                  - img [ref=e508]
+                - list [ref=e509]:
+                  - listitem [ref=e510] [cursor=pointer]
+                  - listitem [ref=e511] [cursor=pointer]
+                  - listitem [ref=e512] [cursor=pointer]
+                  - listitem [ref=e513] [cursor=pointer]
+                  - listitem [ref=e514] [cursor=pointer]
+                  - listitem [ref=e515] [cursor=pointer]
+              - generic [ref=e516]:
+                - generic [ref=e517]:
+                  - link "超市有礼 新客专享权益" [ref=e518] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2agQQTvbYJC3BkYLN53zTMoH3X8h/index.html?babelChannel=ttt1
+                    - generic [ref=e519]: 超市有礼
+                    - generic [ref=e520]: 新客专享权益
+                  - link "¥ 3.1" [ref=e522] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2agQQTvbYJC3BkYLN53zTMoH3X8h/index.html?babelChannel=ttt1&innerAnchor=10125057478722
+                    - generic [ref=e524]:
+                      - img [ref=e525]
+                      - generic [ref=e526]:
+                        - generic [ref=e527]: ¥
+                        - text: "3.1"
+                - generic [ref=e528]:
+                  - link "京东直播 直播享好价" [ref=e529] [cursor=pointer]:
+                    - /url: https://zhibo.jd.com/
+                    - generic [ref=e530]: 京东直播
+                    - generic [ref=e531]: 直播享好价
+                  - generic [ref=e532]:
+                    - link "运营商" [ref=e533] [cursor=pointer]:
+                      - /url: //zhibo.jd.com/?enterlive_origin=1&live_room_id=45973544&bi_bury_point=45973544%23100234728921
+                      - img [ref=e535]
+                      - generic [ref=e537]: 运营商
+                    - link "安安宝贝" [ref=e538] [cursor=pointer]:
+                      - /url: //zhibo.jd.com/?enterlive_origin=1&live_room_id=46106855&bi_bury_point=46106855%231114411
+                      - img [ref=e540]
+                      - generic [ref=e542]: 安安宝贝
+            - generic [ref=e543]:
+              - generic [ref=e545]:
+                - link "国家补贴 × 百亿补贴 限时补贴" [ref=e546] [cursor=pointer]:
+                  - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html
+                  - generic [ref=e547]: 国家补贴 × 百亿补贴
+                  - generic [ref=e548]: 限时补贴
+                - generic [ref=e549]:
+                  - link "¥257.04 补贴减45.36元" [ref=e550] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html?innerAnchor=100275734828
+                    - img [ref=e552]
+                    - generic [ref=e554]: ¥257.04
+                    - generic [ref=e555]: 补贴减45.36元
+                  - link "¥88.66 已补25.34元" [ref=e556] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html?innerAnchor=10128448118894
+                    - img [ref=e558]
+                    - generic [ref=e560]: ¥88.66
+                    - generic [ref=e561]: 已补25.34元
+                  - link "¥29.9 已补8.75元" [ref=e562] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html?innerAnchor=100113323112
+                    - img [ref=e564]
+                    - generic [ref=e566]: ¥29.9
+                    - generic [ref=e567]: 已补8.75元
+                  - link "¥1698.9" [ref=e568] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/2evvPWwD9tbuxiDdBEqF8i4DxWjS/index.html?innerAnchor=100338488858
+                    - img [ref=e570]
+                    - generic [ref=e572]: ¥1698.9
+              - generic [ref=e573]:
+                - generic [ref=e574]:
+                  - link "京东秒杀 0点场限时秒杀" [ref=e575] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/4XDDYmbeD58kfLqwcGAhxF4DVHGY/index.html?babelChannel=ttt1
+                    - generic [ref=e576]: 京东秒杀
+                    - generic [ref=e577]: 0点场限时秒杀
+                  - generic [ref=e578]:
+                    - link "¥5.11 秒杀价" [ref=e579] [cursor=pointer]:
+                      - /url: "https://pro.jd.com/mall/active/4XDDYmbeD58kfLqwcGAhxF4DVHGY/index.html?babelChannel=ttt1&innerLink=[{\"innerAnchor\":\"100063647847\"}]&innerIndex=1"
+                      - img [ref=e581]
+                      - generic [ref=e582]:
+                        - generic [ref=e583]: ¥5.11
+                        - generic [ref=e584]: 秒杀价
+                    - link "¥18.9 秒杀价" [ref=e585] [cursor=pointer]:
+                      - /url: "https://pro.jd.com/mall/active/4XDDYmbeD58kfLqwcGAhxF4DVHGY/index.html?babelChannel=ttt1&innerLink=[{\"innerAnchor\":\"100213304991\"}]&innerIndex=1"
+                      - img [ref=e587]
+                      - generic [ref=e588]:
+                        - generic [ref=e589]: ¥18.9
+                        - generic [ref=e590]: 秒杀价
+                - generic [ref=e591]:
+                  - link "9.9包邮 1元特价" [ref=e592] [cursor=pointer]:
+                    - /url: https://pro.jd.com/mall/active/33we45X3xLK8jrGiEhezaa4EzY32/index.html
+                    - generic [ref=e593]: 9.9包邮
+                    - generic [ref=e594]: 1元特价
+                  - generic [ref=e595]:
+                    - link "¥19.7" [ref=e596] [cursor=pointer]:
+                      - /url: https://pro.jd.com/mall/active/33we45X3xLK8jrGiEhezaa4EzY32/index.html?innerAnchor=10168776075850
+                      - img [ref=e598]
+                      - generic [ref=e600]: ¥19.7
+                    - link "¥29.61" [ref=e601] [cursor=pointer]:
+                      - /url: https://pro.jd.com/mall/active/33we45X3xLK8jrGiEhezaa4EzY32/index.html?innerAnchor=10124184932287
+                      - img [ref=e603]
+                      - generic [ref=e605]: ¥29.61
+        - generic [ref=e606]:
+          - generic [ref=e608]:
+            - link [ref=e609] [cursor=pointer]:
+              - /url: https://plus.jd.com/index?flow_system=appicon&flow_entrance=appicon1&flow_channel=pc
+            - generic [ref=e610]:
+              - link "个人头像" [ref=e611] [cursor=pointer]:
+                - /url: //home.jd.com
+                - img [ref=e614]
+                - img [ref=e617]
+              - generic [ref=e619]:
+                - paragraph [ref=e620]:
+                  - link "托尼slz" [ref=e621] [cursor=pointer]:
+                    - /url: //home.jd.com
+                - paragraph [ref=e622]:
+                  - link "已省￥54.95" [ref=e623] [cursor=pointer]:
+                    - /url: //plus.jd.com/index?flow_system=appicon&flow_entrance=appicon1&flow_channel=pc
+            - list [ref=e626]:
+              - listitem [ref=e627]:
+                - link "26 优惠券" [ref=e628] [cursor=pointer]:
+                  - /url: https://quan.jd.com/user_quan.action
+                  - generic [ref=e629]: "26"
+                  - generic [ref=e630]: 优惠券
+              - listitem [ref=e631]:
+                - link "194 京豆" [ref=e632] [cursor=pointer]:
+                  - /url: https://bean.jd.com/myJingBean/list
+                  - generic [ref=e633]: "194"
+                  - generic [ref=e634]: 京豆
+              - listitem [ref=e635]:
+                - link "抽¥288 红包" [ref=e636] [cursor=pointer]:
+                  - /url: https://interact.jd.com/
+                  - generic [ref=e637]: 抽¥288
+                  - generic [ref=e639]: 红包
+              - listitem [ref=e640]:
+                - link "购卡返 京东E卡" [ref=e641] [cursor=pointer]:
+                  - /url: https://o.jd.com/
+                  - generic [ref=e642]: 购卡返
+                  - generic [ref=e643]: 京东E卡
+            - generic [ref=e645] [cursor=pointer]:
+              - img "图标" [ref=e646]
+              - generic [ref=e648]: 心动好礼 低至5折
+              - link "箭头" [ref=e649]:
+                - /url: javascript:void(0);
+                - img "箭头" [ref=e650]
+            - generic [ref=e653]:
+              - link "我的订单 我的订单" [ref=e654] [cursor=pointer]:
+                - /url: https://order.jd.com/center/list.action
+                - img "我的订单" [ref=e655]
+                - generic [ref=e656]: 我的订单
+              - link "浏览记录 浏览记录" [ref=e657] [cursor=pointer]:
+                - /url: https://home.jd.com/history
+                - img "浏览记录" [ref=e658]
+                - generic [ref=e659]: 浏览记录
+              - link "商品收藏 商品收藏" [ref=e660] [cursor=pointer]:
+                - /url: https://t.jd.com/home/follow
+                - img "商品收藏" [ref=e661]
+                - generic [ref=e662]: 商品收藏
+              - link "店铺关注 店铺关注" [ref=e663] [cursor=pointer]:
+                - /url: https://t.jd.com/vender/followVenderList.action
+                - img "店铺关注" [ref=e664]
+                - generic [ref=e665]: 店铺关注
+          - generic [ref=e667]:
+            - generic [ref=e668] [cursor=pointer]:
+              - generic [ref=e669]: 品牌团
+              - generic [ref=e670]: HOT
+              - generic [ref=e671]: 查看全部
+            - generic [ref=e672]:
+              - generic [ref=e673] [cursor=pointer]:
+                - img "铭瑄" [ref=e676]
+                - generic [ref=e677]: 加购2次
+              - generic [ref=e678] [cursor=pointer]:
+                - img "华硕" [ref=e681]
+                - generic [ref=e682]: 加购2次
+              - generic [ref=e683] [cursor=pointer]:
+                - img "西部数据" [ref=e686]
+                - generic [ref=e687]: 加购2次
+              - generic [ref=e688] [cursor=pointer]:
+                - img "新华书店" [ref=e691]
+                - generic [ref=e692]: 近期加购
+      - generic [ref=e693]:
+        - link [ref=e694] [cursor=pointer]:
+          - /url: https://pro.jd.com/mall/active/3ZT4jkMDEnHwZLjvLCTAvJkP6wtK/index.html?babelChannel=ttt6
+          - img [ref=e695]
+        - generic:
+          - link:
+            - /url: https://pro.jd.com/mall/active/3ZT4jkMDEnHwZLjvLCTAvJkP6wtK/index.html?babelChannel=ttt6
+            - img [ref=e696] [cursor=pointer]
+  - generic "为你推荐" [ref=e699]:
+    - generic [ref=e700]:
+      - list [ref=e705]:
+        - tab "为你推荐 猜你喜欢" [selected] [ref=e706] [cursor=pointer]:
+          - generic [ref=e708]: 为你推荐
+        - tab "超补情报局 国家补贴" [ref=e709] [cursor=pointer]:
+          - generic [ref=e711]: 超补情报局
+        - tab "汽车服务 汽车服务" [ref=e712] [cursor=pointer]:
+          - generic [ref=e714]: 汽车服务
+        - tab "手机通讯 手机通讯" [ref=e715] [cursor=pointer]:
+          - generic [ref=e717]: 手机通讯
+        - tab "母婴亲子 母婴亲子" [ref=e718] [cursor=pointer]:
+          - generic [ref=e720]: 母婴亲子
+        - tab "个护美妆 运动户外" [ref=e721] [cursor=pointer]:
+          - generic [ref=e723]: 个护美妆
+        - tab "教育文娱 教育文娱" [ref=e724] [cursor=pointer]:
+          - generic [ref=e726]: 教育文娱
+        - tab "萌宠护理 宠物生活" [ref=e727] [cursor=pointer]:
+          - generic [ref=e729]: 萌宠护理
+        - tab "五金机电 工业品" [ref=e730] [cursor=pointer]:
+          - generic [ref=e732]: 五金机电
+        - tab "摸鱼顺手秒 秒杀推荐7.3" [ref=e733] [cursor=pointer]:
+          - generic [ref=e735]: 摸鱼顺手秒
+        - tab "家居百货 家电家居" [ref=e736] [cursor=pointer]:
+          - generic [ref=e738]: 家居百货
+        - tab "家用电器 大家电" [ref=e739] [cursor=pointer]:
+          - generic [ref=e741]: 家用电器
+        - tab "文具办公 文具办公" [ref=e742] [cursor=pointer]:
+          - generic [ref=e744]: 文具办公
+        - tab "电脑数码 电脑数码" [ref=e745] [cursor=pointer]:
+          - generic [ref=e747]: 电脑数码
+        - tab "家具建材 家具建材" [ref=e748] [cursor=pointer]:
+          - generic [ref=e750]: 家具建材
+        - tab "小家电 小家电" [ref=e751] [cursor=pointer]:
+          - generic [ref=e753]: 小家电
+        - tab "食品酒饮 休食饮料" [ref=e754] [cursor=pointer]:
+          - generic [ref=e756]: 食品酒饮
+        - tab "粮油调味 粮油调味" [ref=e757] [cursor=pointer]:
+          - generic [ref=e759]: 粮油调味
+        - tab "运动户外 运动户外" [ref=e760] [cursor=pointer]:
+          - generic [ref=e762]: 运动户外
+        - tab "服饰鞋包 服饰鞋包" [ref=e763] [cursor=pointer]:
+          - generic [ref=e765]: 服饰鞋包
+        - tab "农资园艺 农资园艺" [ref=e766] [cursor=pointer]:
+          - generic [ref=e768]: 农资园艺
+        - tab "健康保养 健康保健" [ref=e769] [cursor=pointer]:
+          - generic [ref=e771]: 健康保养
+      - generic [ref=e775]:
+        - tabpanel "为你推荐 猜你喜欢" [ref=e776]:
+          - listitem [ref=e777]:
+            - link "达音科（DUNU）Titan S2音乐有线耳机入耳式HIFI耳塞动圈可换插头系统3.5单端4.4平衡发烧入门高保真有线学生高解 TITAN S2 栗壳棕【3.5MM+4.4MM】" [ref=e779] [cursor=pointer]:
+              - /url: https://item.jd.com/10161973821931.html?pcdk=2aVPl0u0Kgfj9XulJQtmRGZm3bxu4Tx-AufzJElSfqnRNBLIhhvU0_AiGps8hG8x.dqA7.aWhW
+              - img [ref=e781]
+              - generic [ref=e782]:
+                - paragraph [ref=e783]: 达音科（DUNU）Titan S2音乐有线耳机入耳式HIFI耳塞动圈可换插头系统3.5单端4.4平衡发烧入门高保真有线学生高解 TITAN S2 栗壳棕【3.5MM+4.4MM】
+                - img [ref=e786]
+                - generic [ref=e787]:
+                  - generic [ref=e788]:
+                    - generic [ref=e789]: ¥
+                    - generic [ref=e790]: "359.10"
+                  - generic "399.00" [ref=e793]: 销量1万+
+              - generic "不喜欢" [ref=e794]
+          - listitem [ref=e796]:
+            - link "弱水时砂ASTRO X【2026重磅新品】蓝牙耳机耳夹式 阿斯特真无线运动开放式 新款无损音质气骨传导概念耳挂" [ref=e798] [cursor=pointer]:
+              - /url: https://item.jd.com/100334011812.html?pcdk=2aVPl0u0Kgfj9XulJQtmRP8qo-z1SWvfYNCC3BtTgXu9FF_PrjO14_952BVrKmLc.dqA7.aWhW
+              - img [ref=e800]
+              - generic [ref=e801]:
+                - paragraph [ref=e802]:
+                  - img [ref=e804]
+                  - text: 弱水时砂ASTRO X【2026重磅新品】蓝牙耳机耳夹式 阿斯特真无线运动开放式 新款无损音质气骨传导概念耳挂
+                - generic [ref=e807]: 国家补贴 | 已减¥75
+                - generic [ref=e808]:
+                  - generic [ref=e809]:
+                    - generic [ref=e810]: ¥
+                    - generic [ref=e811]: "425.00"
+                  - generic [ref=e813]: 国补到手价
+                  - generic "540.00" [ref=e815]: ￥540.00
+                  - generic "540.00" [ref=e817]: 销量2000+
+              - generic "不喜欢" [ref=e818]
+          - listitem [ref=e820]:
+            - link "弱水时砂【AG无畏契约推荐】静海 II 游戏耳机有线入耳式耳机电竞电脑HiFi高音质3.5mm带麦发烧级520礼物 【电竞版|水银】线控带麦+声卡" [ref=e822] [cursor=pointer]:
+              - /url: https://item.jd.com/10164280451217.html?pcdk=2aVPl0u0Kgfj9XulJQtmRGZm3bxu4Tx-AufzJElSfqk7Sx6uHzGJ82FWo0gBhvDE.dqA7.aWhW
+              - img [ref=e824]
+              - generic [ref=e825]:
+                - paragraph [ref=e826]: 弱水时砂【AG无畏契约推荐】静海 II 游戏耳机有线入耳式耳机电竞电脑HiFi高音质3.5mm带麦发烧级520礼物 【电竞版|水银】线控带麦+声卡
+                - generic [ref=e829]: 官方直降45.0元
+                - generic [ref=e831]:
+                  - generic [ref=e832]:
+                    - generic [ref=e833]: ¥
+                    - generic [ref=e834]: "314.10"
+                  - generic [ref=e836]: 到手价
+                  - generic "399.00" [ref=e838]: ￥399.00
+                  - generic "399.00" [ref=e840]: 销量1万+
+              - generic "不喜欢" [ref=e841]
+          - listitem [ref=e843]:
+            - link "阿斯加特（Asgard）32GB(16GBx2) DDR5 6000 台式机内存条 女武神·瓦尔基里II代 RGB灯条 三星颗粒 CL38 极地白 AI" [ref=e844] [cursor=pointer]:
+              - /url: https://item.jd.com/100198116433.html?pcdk=2aVPl0u0Kgfj9XulJQtmRHxGmOaxMFIkL29s7SCUfraVZGjX7MiD7g4IzM0_qGCN.dqA7.aWhW
+              - img [ref=e846]
+              - generic [ref=e847]:
+                - paragraph [ref=e848]:
+                  - img [ref=e850]
+                  - text: 阿斯加特（Asgard）32GB(16GBx2) DDR5 6000 台式机内存条 女武神·瓦尔基里II代 RGB灯条 三星颗粒 CL38 极地白 AI
+                - generic [ref=e852]:
+                  - img [ref=e853]
+                  - generic [ref=e854]: 正品行货带票
+                - generic [ref=e856]:
+                  - generic [ref=e857]:
+                    - generic [ref=e858]: ¥
+                    - generic [ref=e859]: "2599.00"
+                  - generic "2599.00" [ref=e862]: 销量10万+
+              - generic "不喜欢" [ref=e863]
+          - listitem [ref=e865] [cursor=pointer]:
+            - link [ref=e866]:
+              - /url: https://pro.jd.com/mall/active/3ZT4jkMDEnHwZLjvLCTAvJkP6wtK/index.html?babelChannel=ttt6
+          - listitem [ref=e867]:
+            - link "弱水时砂原神芙宁娜·不休独舞无线蓝牙耳机套装礼盒入耳式HiFi音质降噪超长续航音乐耳机生日礼物学生 【先款先发】预计26年6月到仓发货 【原神授权 正品保证】" [ref=e870] [cursor=pointer]:
+              - /url: https://item.jd.com/10202280244717.html?pcdk=2aVPl0u0Kgfj9XulJQtmRIatH6hCFH213na12Uni39u8IDekf7uvpWHlrmZ0F5sy.dqA7.aWhW
+              - img [ref=e872]
+              - generic [ref=e873]:
+                - paragraph [ref=e874]: 弱水时砂原神芙宁娜·不休独舞无线蓝牙耳机套装礼盒入耳式HiFi音质降噪超长续航音乐耳机生日礼物学生 【先款先发】预计26年6月到仓发货 【原神授权 正品保证】
+                - generic [ref=e876]:
+                  - generic [ref=e877]:
+                    - generic [ref=e878]: ¥
+                    - generic [ref=e879]: "429.00"
+                  - generic "429.00" [ref=e882]: 销量1万+
+              - generic "不喜欢" [ref=e883]
+          - listitem [ref=e885]:
+            - link "达音科（DUNU）TitanX 入耳式耳机动圈单元HIFI发烧级入门音乐耳塞 0.78 2pin插针适用于电脑平板华为苹果手机 TITANX 3.5MM 单端 + DTC 80 解码耳放线" [ref=e888] [cursor=pointer]:
+              - /url: https://item.jd.com/10211071984433.html?pcdk=2aVPl0u0Kgfj9XulJQtmRLYxX1zpXjwmQH74L1P4Lus2uPbxlOni0DctJZ9kc147.dqA7.aWhW
+              - img [ref=e890]
+              - generic [ref=e891]:
+                - paragraph [ref=e892]: 达音科（DUNU）TitanX 入耳式耳机动圈单元HIFI发烧级入门音乐耳塞 0.78 2pin插针适用于电脑平板华为苹果手机 TITANX 3.5MM 单端 + DTC 80 解码耳放线
+                - generic [ref=e894]:
+                  - generic [ref=e895]:
+                    - generic [ref=e896]: ¥
+                    - generic [ref=e897]: "268.00"
+                  - generic "268.00" [ref=e900]: 销量100+
+              - generic "不喜欢" [ref=e901]
+          - listitem [ref=e903]:
+            - link "水月雨 梦回2 Gold ages2真无线蓝牙耳机TWS主动降噪游戏音乐耳麦全频平面磁单元高保真HIFI发烧耳塞 梦回2【京仓速发】" [ref=e906] [cursor=pointer]:
+              - /url: https://item.jd.com/10172890966148.html?pcdk=2aVPl0u0Kgfj9XulJQtmRI82ajPvHvJpC_Ak7V9iqh3WBq-WY-8pGXZ3aHql-Zg6.dqA7.aWhW
+              - img [ref=e908]
+              - generic [ref=e909]:
+                - paragraph [ref=e910]: 水月雨 梦回2 Gold ages2真无线蓝牙耳机TWS主动降噪游戏音乐耳麦全频平面磁单元高保真HIFI发烧耳塞 梦回2【京仓速发】
+                - generic [ref=e912]:
+                  - img [ref=e913]
+                  - generic [ref=e914]: 只换不修
+                - generic [ref=e916]:
+                  - generic [ref=e917]:
+                    - generic [ref=e918]: ¥
+                    - generic [ref=e919]: "439.00"
+                  - generic "499.00" [ref=e922]: 销量2000+
+              - generic "不喜欢" [ref=e923]
+          - listitem [ref=e925]:
+            - link "莫代尔跑步袜子男款夏季薄款短袜网眼透气浅口袜防臭夏天篮球运动防滑袜 黑色5 均码 【收藏加购免费试穿一双】" [ref=e927] [cursor=pointer]:
+              - /url: https://item.jd.com/10147806425489.html?pcdk=2aVPl0u0Kgfj9XulJQtmRD_UV0Dzemg8Lf_DvKTJI2Vum57jefEVSJjenH4e0rR5.dqA7.aWhW
+              - img [ref=e929]
+              - generic [ref=e930]:
+                - paragraph [ref=e931]: 莫代尔跑步袜子男款夏季薄款短袜网眼透气浅口袜防臭夏天篮球运动防滑袜 黑色5 均码 【收藏加购免费试穿一双】
+                - generic [ref=e933]:
+                  - img [ref=e934]
+                  - img [ref=e935]
+                - generic [ref=e936]:
+                  - generic [ref=e937]:
+                    - generic [ref=e938]: ¥
+                    - generic [ref=e939]: "19.90"
+                  - generic [ref=e941]: 已补贴8.51元
+                  - generic "19.90" [ref=e943]: 销量3000+
+              - generic "不喜欢" [ref=e944]
+          - listitem [ref=e946]:
+            - link "威刚(ADATA) 32GB(16GB*2)套装 DDR4 3600频率 台式机内存条 XPG龙耀D35G 釉白电竞RGB内存条" [ref=e949] [cursor=pointer]:
+              - /url: https://item.jd.com/100070417863.html?pcdk=2aVPl0u0Kgfj9XulJQtmRL9tm-WU0No8V2jq7vG9QZgHlutpTMunPiCBpNSKbi-_.dqA7.aWhW
+              - img [ref=e951]
+              - generic [ref=e952]:
+                - paragraph [ref=e953]:
+                  - img [ref=e955]
+                  - text: 威刚(ADATA) 32GB(16GB*2)套装 DDR4 3600频率 台式机内存条 XPG龙耀D35G 釉白电竞RGB内存条
+                - generic [ref=e957]:
+                  - img [ref=e958]
+                  - generic [ref=e959]: 正品行货带票
+                - generic [ref=e961]:
+                  - generic [ref=e962]:
+                    - generic [ref=e963]: ¥
+                    - generic [ref=e964]: "1889.00"
+                  - generic "1939.00" [ref=e967]: 销量5000+
+              - generic "不喜欢" [ref=e968]
+          - listitem [ref=e970]:
+            - link "西部数据（WD）SSD固态硬盘M.2接口 SN7100 PCIe4.0 笔记本台式机固态硬盘 AI电脑配件 SN7100 1TB" [ref=e973] [cursor=pointer]:
+              - /url: https://item.jd.com/10129484446597.html?pcdk=2aVPl0u0Kgfj9XulJQtmRPEOfMABRlYJWJ4Hc96BWWx4Y3JxrPgbO_tnEaXOmBZK.dqA7.aWhW
+              - img [ref=e975]
+              - generic [ref=e976]:
+                - paragraph [ref=e977]: 西部数据（WD）SSD固态硬盘M.2接口 SN7100 PCIe4.0 笔记本台式机固态硬盘 AI电脑配件 SN7100 1TB
+                - generic [ref=e979]:
+                  - img [ref=e980]
+                  - img [ref=e981]
+                  - img [ref=e982]
+                - generic [ref=e983]:
+                  - generic [ref=e984]:
+                    - generic [ref=e985]: ¥
+                    - generic [ref=e986]: "1197.00"
+                  - generic [ref=e988]: 已补贴266.07元
+                  - generic "1397.00" [ref=e990]: 销量10万+
+              - generic "不喜欢" [ref=e991]
+          - listitem [ref=e993]:
+            - link "西部数据（WD）SSD固态硬盘M.2接口 SN850X PCIe4.0 游戏电竞电脑扩展硬盘 AI电脑配件 SN850X | 8TB" [ref=e996] [cursor=pointer]:
+              - /url: https://item.jd.com/10120076932439.html?pcdk=2aVPl0u0Kgfj9XulJQtmRPEOfMABRlYJWJ4Hc96BWWzNsnayukVb6cr6a1af_ilN.dqA7.aWhW
+              - img [ref=e998]
+              - generic [ref=e999]:
+                - paragraph [ref=e1000]: 西部数据（WD）SSD固态硬盘M.2接口 SN850X PCIe4.0 游戏电竞电脑扩展硬盘 AI电脑配件 SN850X | 8TB
+                - generic [ref=e1002]:
+                  - generic [ref=e1003]:
+                    - generic [ref=e1004]: ¥
+                    - generic [ref=e1005]: "12999.00"
+                  - generic "12999.00" [ref=e1008]: 销量5万+
+              - generic "不喜欢" [ref=e1009]
+          - listitem [ref=e1011]:
+            - link "树浩电脑椅办公椅子舒适久坐靠背椅宿舍卧室学习座椅弓形电竞椅写字椅 【弓形款】海绵垫-黑框黑网" [ref=e1013] [cursor=pointer]:
+              - /url: https://item.jd.com/10157796721183.html?pcdk=2aVPl0u0Kgfj9XulJQtmRA1recUGmd-dUnVs19j8wUSLS4ukMA9nFStKThU8ONs4.dqA7.aWhW
+              - img [ref=e1015]
+              - generic [ref=e1016]:
+                - paragraph [ref=e1017]: 树浩电脑椅办公椅子舒适久坐靠背椅宿舍卧室学习座椅弓形电竞椅写字椅 【弓形款】海绵垫-黑框黑网
+                - generic [ref=e1019]:
+                  - img [ref=e1020]
+                  - img [ref=e1021]
+                  - generic [ref=e1022]: 只换不修
+                - generic [ref=e1024]:
+                  - generic [ref=e1025]:
+                    - generic [ref=e1026]: ¥
+                    - generic [ref=e1027]: "40.90"
+                  - generic [ref=e1029]: 已补贴13.1元
+                  - generic "40.90" [ref=e1031]: 销量5万+
+              - generic "不喜欢" [ref=e1032]
+          - listitem [ref=e1034]:
+            - link "宏碁掠夺者DDR5台式机电脑内存条32G套装 凌霜炫光冰刃影锋 电竞马甲RGB灯条 炫光星舰 6000 银色C32 M代 32GB 2条 【16×2套条】" [ref=e1037] [cursor=pointer]:
+              - /url: https://item.jd.com/10163213272464.html?pcdk=2aVPl0u0Kgfj9XulJQtmRGZm3bxu4Tx-AufzJElSfqmLvP3rPZeHkz0RgWV2lhJ1.dqA7.aWhW
+              - img [ref=e1039]
+              - generic [ref=e1040]:
+                - paragraph [ref=e1041]: 宏碁掠夺者DDR5台式机电脑内存条32G套装 凌霜炫光冰刃影锋 电竞马甲RGB灯条 炫光星舰 6000 银色C32 M代 32GB 2条 【16×2套条】
+                - generic [ref=e1043]:
+                  - generic [ref=e1044]:
+                    - generic [ref=e1045]: ¥
+                    - generic [ref=e1046]: "2909.00"
+                  - generic "2909.00" [ref=e1049]: 销量100+
+              - generic "不喜欢" [ref=e1050]
+          - listitem [ref=e1052]:
+            - link "达音科（DUNU）KIMA2 有线HIFI耳机 全新动圈单元高音质高解析发烧级初烧男生女生款耳塞 可换插头系统 KIMA2鸦青色" [ref=e1055] [cursor=pointer]:
+              - /url: https://item.jd.com/10205827879027.html?pcdk=2aVPl0u0Kgfj9XulJQtmRIatH6hCFH213na12Uni39vQT1f-wFwFhJMnoqiwAiGB.dqA7.aWhW
+              - img [ref=e1057]
+              - generic [ref=e1058]:
+                - paragraph [ref=e1059]: 达音科（DUNU）KIMA2 有线HIFI耳机 全新动圈单元高音质高解析发烧级初烧男生女生款耳塞 可换插头系统 KIMA2鸦青色
+                - img [ref=e1062]
+                - generic [ref=e1063]:
+                  - generic [ref=e1064]:
+                    - generic [ref=e1065]: ¥
+                    - generic [ref=e1066]: "593.10"
+                  - generic "659.00" [ref=e1069]: 销量500+
+              - generic "不喜欢" [ref=e1070]
+          - listitem [ref=e1072]:
+            - link "弱水时砂SpeakFeel开放式蓝牙耳机 耳挂式HiFi智能耳边音响 气骨传导概念2.4G无线低延迟音乐跑步运动健身" [ref=e1075] [cursor=pointer]:
+              - /url: https://item.jd.com/100316571932.html?pcdk=2aVPl0u0Kgfj9XulJQtmRP8qo-z1SWvfYNCC3BtTgXuaeMw7LWmk5LQyLqIzR97O.dqA7.aWhW
+              - img [ref=e1077]
+              - generic [ref=e1078]:
+                - paragraph [ref=e1079]:
+                  - img [ref=e1081]
+                  - text: 弱水时砂SpeakFeel开放式蓝牙耳机 耳挂式HiFi智能耳边音响 气骨传导概念2.4G无线低延迟音乐跑步运动健身
+                - generic [ref=e1084]: 国家补贴 | 已减¥135.43
+                - generic [ref=e1085]:
+                  - generic [ref=e1086]:
+                    - generic [ref=e1087]: ¥
+                    - generic [ref=e1088]: "1218.87"
+                  - generic "1414.30" [ref=e1091]: 销量1000+
+              - generic "不喜欢" [ref=e1092]
+          - listitem [ref=e1094]:
+            - link "达音科（DUNU） TitanS音乐耳机入耳式HIFI耳塞动圈可换线发烧入门高保真有线流行学生高解析 TITANS 镜面款 + DTC 80 耳放线" [ref=e1096] [cursor=pointer]:
+              - /url: https://item.jd.com/10129688991948.html?pcdk=2aVPl0u0Kgfj9XulJQtmRPEOfMABRlYJWJ4Hc96BWWxxwKxth159UdgKp9kEgyd8.dqA7.aWhW
+              - img [ref=e1098]
+              - generic [ref=e1099]:
+                - paragraph [ref=e1100]: 达音科（DUNU） TitanS音乐耳机入耳式HIFI耳塞动圈可换线发烧入门高保真有线流行学生高解析 TITANS 镜面款 + DTC 80 耳放线
+                - img [ref=e1103]
+                - generic [ref=e1104]:
+                  - generic [ref=e1105]:
+                    - generic [ref=e1106]: ¥
+                    - generic [ref=e1107]: "304.20"
+                  - generic "338.00" [ref=e1110]: 销量2万+
+              - generic "不喜欢" [ref=e1111]
+          - listitem [ref=e1113]:
+            - link "弱水时砂【周传雄推荐】锆势蓝牙耳机真无线入耳式高音质通话降噪游戏音乐耳机适配苹果华为小米520礼物 云灰丨深海降噪+超高音质+35H续航" [ref=e1116] [cursor=pointer]:
+              - /url: https://item.jd.com/10186537058013.html?pcdk=2aVPl0u0Kgfj9XulJQtmRNHzvk_IQLIWK2iRx8kSHJWIiz5vLeg7D5lg-Z7BsWBu.dqA7.aWhW
+              - img [ref=e1118]
+              - generic [ref=e1119]:
+                - paragraph [ref=e1120]: 弱水时砂【周传雄推荐】锆势蓝牙耳机真无线入耳式高音质通话降噪游戏音乐耳机适配苹果华为小米520礼物 云灰丨深海降噪+超高音质+35H续航
+                - generic [ref=e1122]:
+                  - img [ref=e1123]
+                  - generic [ref=e1124]: 官方直降63.0元
+                - generic [ref=e1126]:
+                  - generic [ref=e1127]:
+                    - generic [ref=e1128]: ¥
+                    - generic [ref=e1129]: "312.84"
+                  - generic [ref=e1131]: 到手价
+                  - generic "432.00" [ref=e1133]: ￥432.00
+                  - generic "432.00" [ref=e1135]: 销量1万+
+              - generic "不喜欢" [ref=e1136]
+          - listitem [ref=e1138]:
+            - link "迈从（MCHOSE）V9 Turbo游戏耳机头戴式四模三角洲行动电竞电脑耳机fps吃鸡磁吸无线充底座7.1声道 V9 Turbo+黑金色【磁吸无线充】" [ref=e1141] [cursor=pointer]:
+              - /url: https://item.jd.com/10207321416035.html?pcdk=2aVPl0u0Kgfj9XulJQtmRIatH6hCFH213na12Uni39vPT8yvMr9Dny9xDwquYxjc.dqA7.aWhW
+              - img [ref=e1143]
+              - generic [ref=e1144]:
+                - paragraph [ref=e1145]: 迈从（MCHOSE）V9 Turbo游戏耳机头戴式四模三角洲行动电竞电脑耳机fps吃鸡磁吸无线充底座7.1声道 V9 Turbo+黑金色【磁吸无线充】
+                - generic [ref=e1148]: 官方直降100.0元
+                - generic [ref=e1150]:
+                  - generic [ref=e1151]:
+                    - generic [ref=e1152]: ¥
+                    - generic [ref=e1153]: "359.00"
+                  - generic [ref=e1155]: 到手价
+                  - generic "499.00" [ref=e1157]: ￥499.00
+                  - generic "499.00" [ref=e1159]: 销量3万+
+              - generic "不喜欢" [ref=e1160]
+          - listitem [ref=e1162]:
+            - link "雷克沙（Lexar）ARES PRO 战神系列 2TB SSD固态硬盘 M.2接口(NVMe协议) PCIe 5.0x4 高速14000MB/s传输" [ref=e1165] [cursor=pointer]:
+              - /url: https://item.jd.com/100231092532.html?pcdk=2aVPl0u0Kgfj9XulJQtmRDtz2AAtMeEq-cjVJ8sxngslnxY4uef-Ock4bftfGmaQ.dqA7.aWhW
+              - img [ref=e1167]
+              - generic [ref=e1168]:
+                - paragraph [ref=e1169]:
+                  - img [ref=e1171]
+                  - text: 雷克沙（Lexar）ARES PRO 战神系列 2TB SSD固态硬盘 M.2接口(NVMe协议) PCIe 5.0x4 高速14000MB/s传输
+                - generic [ref=e1173]:
+                  - img [ref=e1174]
+                  - img [ref=e1175]
+                  - generic [ref=e1176]: 正品行货带票
+                - generic [ref=e1178]:
+                  - generic [ref=e1179]:
+                    - generic [ref=e1180]: ¥
+                    - generic [ref=e1181]: "1899.00"
+                  - generic [ref=e1183]: 省150元
+                  - generic "1899.00" [ref=e1185]: 销量20万+
+              - generic "不喜欢" [ref=e1186]
+          - listitem [ref=e1188] [cursor=pointer]:
+            - link [ref=e1189]:
+              - /url: https://pro.jd.com/mall/active/stWSWrd7sCRSE3qpgvXHf1QeLC/index.html
+          - listitem [ref=e1190] [cursor=pointer]:
+            - generic [ref=e1191]:
+              - paragraph [ref=e1192]: 精选热点
+              - list [ref=e1193]:
+                - listitem [ref=e1194]:
+                  - link "水月雨梦回2" [ref=e1196]:
+                    - /url: //search.jd.com/Search?keyword=%E6%B0%B4%E6%9C%88%E9%9B%A8%E6%A2%A6%E5%9B%9E2&enc=utf-8
+                - listitem [ref=e1197]:
+                  - link "水月雨aria2" [ref=e1199]:
+                    - /url: //search.jd.com/Search?keyword=%E6%B0%B4%E6%9C%88%E9%9B%A8aria2&enc=utf-8
+                - listitem [ref=e1200]:
+                  - link "水月雨aria" [ref=e1202]:
+                    - /url: //search.jd.com/Search?keyword=%E6%B0%B4%E6%9C%88%E9%9B%A8aria&enc=utf-8
+                - listitem [ref=e1203]:
+                  - link "dd r5内存条" [ref=e1205]:
+                    - /url: //search.jd.com/Search?keyword=dd%20r5%E5%86%85%E5%AD%98%E6%9D%A1&enc=utf-8
+                - listitem [ref=e1206]:
+                  - link "太空漫游2ultra" [ref=e1208]:
+                    - /url: //search.jd.com/Search?keyword=%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B82ultra&enc=utf-8
+                - listitem [ref=e1209]:
+                  - link "水月雨x孤独摇滚" [ref=e1211]:
+                    - /url: //search.jd.com/Search?keyword=%E6%B0%B4%E6%9C%88%E9%9B%A8x%E5%AD%A4%E7%8B%AC%E6%91%87%E6%BB%9A&enc=utf-8
+                - listitem [ref=e1212]:
+                  - link "水月雨竹2" [ref=e1214]:
+                    - /url: //search.jd.com/Search?keyword=%E6%B0%B4%E6%9C%88%E9%9B%A8%E7%AB%B92&enc=utf-8
+                - listitem [ref=e1215]:
+                  - link "cherry樱桃键盘" [ref=e1217]:
+                    - /url: //search.jd.com/Search?keyword=cherry%E6%A8%B1%E6%A1%83%E9%94%AE%E7%9B%98&enc=utf-8
+                - listitem [ref=e1218]:
+                  - link "达音科titans2" [ref=e1220]:
+                    - /url: //search.jd.com/Search?keyword=%E8%BE%BE%E9%9F%B3%E7%A7%91titans2&enc=utf-8
+                - listitem [ref=e1221]:
+                  - link "弱水静海2" [ref=e1223]:
+                    - /url: //search.jd.com/Search?keyword=%E5%BC%B1%E6%B0%B4%E9%9D%99%E6%B5%B72&enc=utf-8
+                - listitem [ref=e1224]:
+                  - link "觅声天鹤座2" [ref=e1226]:
+                    - /url: //search.jd.com/Search?keyword=%E8%A7%85%E5%A3%B0%E5%A4%A9%E9%B9%A4%E5%BA%A72&enc=utf-8
+                - listitem [ref=e1227]:
+                  - link "水月雨梦回1979" [ref=e1229]:
+                    - /url: //search.jd.com/Search?keyword=%E6%B0%B4%E6%9C%88%E9%9B%A8%E6%A2%A6%E5%9B%9E1979&enc=utf-8
+                - listitem [ref=e1230]:
+                  - link "达音科" [ref=e1232]:
+                    - /url: //search.jd.com/Search?keyword=%E8%BE%BE%E9%9F%B3%E7%A7%91&enc=utf-8
+                - listitem [ref=e1233]:
+                  - link "ddr5内存条64g" [ref=e1235]:
+                    - /url: //search.jd.com/Search?keyword=ddr5%E5%86%85%E5%AD%98%E6%9D%A164g&enc=utf-8
+                - listitem [ref=e1236]:
+                  - link "水月雨太空漫游2" [ref=e1238]:
+                    - /url: //search.jd.com/Search?keyword=%E6%B0%B4%E6%9C%88%E9%9B%A8%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B82&enc=utf-8
+          - listitem [ref=e1239]:
+            - link "西部数据（WD） SN850X NVMe固态硬盘 8TB PCIe Gen4 M.2游戏SSD 7200MB/s读取 WDS800T2X0E" [ref=e1242] [cursor=pointer]:
+              - /url: https://item.jd.com/10147206337115.html?pcdk=2aVPl0u0Kgfj9XulJQtmRD_UV0Dzemg8Lf_DvKTJI2UI2x3zR97BlRnyPN-2Rhhm.dqA7.aWhW
+              - img [ref=e1244]
+              - generic [ref=e1245]:
+                - paragraph [ref=e1246]:
+                  - img [ref=e1248]
+                  - text: 西部数据（WD） SN850X NVMe固态硬盘 8TB PCIe Gen4 M.2游戏SSD 7200MB/s读取 WDS800T2X0E
+                - generic [ref=e1250]:
+                  - generic [ref=e1251]:
+                    - generic [ref=e1252]: ¥
+                    - generic [ref=e1253]: "11304.44"
+                  - generic "11454.44" [ref=e1256]: 销量600+
+              - generic "不喜欢" [ref=e1257]
+          - listitem [ref=e1259]:
+            - link "达音科（DUNU）VULKAN 2 曜 HIFI耳机有线入耳式八单元圈铁高端耳塞高保真发烧级音乐高解析mmcx金属腔体四分频 VULKAN 2 (曜）标配" [ref=e1262] [cursor=pointer]:
+              - /url: https://item.jd.com/10157104231861.html?pcdk=2aVPl0u0Kgfj9XulJQtmRA1recUGmd-dUnVs19j8wUTVp34JO8xSB-LEFw6p4wCl.dqA7.aWhW
+              - img [ref=e1264]
+              - generic [ref=e1265]:
+                - paragraph [ref=e1266]: 达音科（DUNU）VULKAN 2 曜 HIFI耳机有线入耳式八单元圈铁高端耳塞高保真发烧级音乐高解析mmcx金属腔体四分频 VULKAN 2 (曜）标配
+                - img [ref=e1269]
+                - generic [ref=e1270]:
+                  - generic [ref=e1271]:
+                    - generic [ref=e1272]: ¥
+                    - generic [ref=e1273]: "2052.00"
+                  - generic "2280.00" [ref=e1276]: 销量1000+
+              - generic "不喜欢" [ref=e1277]
+          - listitem [ref=e1279]:
+            - link "桌下收纳架笔记本电脑支架创意简约金属托架笔记本隐形置物架跨境 黑色" [ref=e1281] [cursor=pointer]:
+              - /url: https://item.jd.com/10157571448210.html?pcdk=2aVPl0u0Kgfj9XulJQtmRA1recUGmd-dUnVs19j8wUToRKTfuIJ9_6uWHkdaOLtC.dqA7.aWhW
+              - img [ref=e1283]
+              - generic [ref=e1284]:
+                - paragraph [ref=e1285]:
+                  - img [ref=e1287]
+                  - text: 桌下收纳架笔记本电脑支架创意简约金属托架笔记本隐形置物架跨境 黑色
+                - img [ref=e1290]
+                - generic [ref=e1291]:
+                  - generic [ref=e1292]:
+                    - generic [ref=e1293]: ¥
+                    - generic [ref=e1294]: "22.40"
+                  - generic "22.40" [ref=e1297]: 销量1000+
+              - generic "不喜欢" [ref=e1298]
+        - generic [ref=e1300]:
+          - emphasis [ref=e1301]
+          - emphasis [ref=e1302]
+          - emphasis [ref=e1303]
+  - generic [ref=e1305]:
+    - list [ref=e1308]:
+      - listitem [ref=e1309]:
+        - generic [ref=e1310]:
+          - heading "多" [level=5] [ref=e1311]
+          - paragraph [ref=e1312]: 品类齐全，轻松购物
+      - listitem [ref=e1313]:
+        - generic [ref=e1314]:
+          - heading "快" [level=5] [ref=e1315]
+          - paragraph [ref=e1316]: 多仓直发，极速配送
+      - listitem [ref=e1317]:
+        - generic [ref=e1318]:
+          - heading "好" [level=5] [ref=e1319]
+          - paragraph [ref=e1320]: 正品行货，精致服务
+      - listitem [ref=e1321]:
+        - generic [ref=e1322]:
+          - heading "省" [level=5] [ref=e1323]
+          - paragraph [ref=e1324]: 天天低价，畅选无忧
+    - generic [ref=e1327]:
+      - generic [ref=e1328]:
+        - heading "购物指南" [level=5] [ref=e1329]
+        - list [ref=e1330]:
+          - listitem [ref=e1331]:
+            - link "购物流程" [ref=e1332] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-29.html
+          - listitem [ref=e1333]:
+            - link "会员介绍" [ref=e1334] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-151.html
+          - listitem [ref=e1335]:
+            - link "生活旅行" [ref=e1336] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-297.html
+          - listitem [ref=e1337]:
+            - link "常见问题" [ref=e1338] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue.html
+          - listitem [ref=e1339]:
+            - link "大家电" [ref=e1340] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-136.html
+          - listitem [ref=e1341]:
+            - link "联系客服" [ref=e1342] [cursor=pointer]:
+              - /url: //help.jd.com/user/custom.html
+      - generic [ref=e1343]:
+        - heading "配送方式" [level=5] [ref=e1344]
+        - list [ref=e1345]:
+          - listitem [ref=e1346]:
+            - link "上门自提" [ref=e1347] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81-100.html
+          - listitem [ref=e1348]:
+            - link "211限时达" [ref=e1349] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-81.html
+          - listitem [ref=e1350]:
+            - link "配送服务查询" [ref=e1351] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-82.html
+          - listitem [ref=e1352]:
+            - link "配送费收取标准" [ref=e1353] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/109-188.html
+      - generic [ref=e1354]:
+        - heading "支付方式" [level=5] [ref=e1355]
+        - list [ref=e1356]:
+          - listitem [ref=e1357]:
+            - link "货到付款" [ref=e1358] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-172.html
+          - listitem [ref=e1359]:
+            - link "在线支付" [ref=e1360] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-173.html
+          - listitem [ref=e1361]:
+            - link "分期付款" [ref=e1362] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-176.html
+          - listitem [ref=e1363]:
+            - link "公司转账" [ref=e1364] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-175.html
+      - generic [ref=e1365]:
+        - heading "售后服务" [level=5] [ref=e1366]
+        - list [ref=e1367]:
+          - listitem [ref=e1368]:
+            - link "售后政策" [ref=e1369] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-112.html
+          - listitem [ref=e1370]:
+            - link "价格保护" [ref=e1371] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-132.html
+          - listitem [ref=e1372]:
+            - link "退款说明" [ref=e1373] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/130-978.html
+          - listitem [ref=e1374]:
+            - link "返修/退换货" [ref=e1375] [cursor=pointer]:
+              - /url: //myjd.jd.com/repair/repairs.action
+          - listitem [ref=e1376]:
+            - link "取消订单" [ref=e1377] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-50.html
+      - generic [ref=e1378]:
+        - heading "特色服务" [level=5] [ref=e1379]
+        - list [ref=e1380]:
+          - listitem [ref=e1381]:
+            - link "夺宝岛" [ref=e1382] [cursor=pointer]:
+              - /url: //paipai.jd.com/auction-list/
+          - listitem [ref=e1383]:
+            - link "DIY装机" [ref=e1384] [cursor=pointer]:
+              - /url: //help.jd.com/user/issue/list-134.html
+          - listitem [ref=e1385]:
+            - link "延保服务" [ref=e1386] [cursor=pointer]:
+              - /url: //fuwu.jd.com/
+          - listitem [ref=e1387]:
+            - link "京东E卡" [ref=e1388] [cursor=pointer]:
+              - /url: //o.jd.com/market/index.action
+          - listitem [ref=e1389]:
+            - link "京东通信" [ref=e1390] [cursor=pointer]:
+              - /url: //mobile.jd.com/
+          - listitem [ref=e1391]:
+            - link "京鱼座智能" [ref=e1392] [cursor=pointer]:
+              - /url: //smart.jd.com/
+    - generic [ref=e1394]:
+      - paragraph [ref=e1395]:
+        - link "关于我们" [ref=e1396] [cursor=pointer]:
+          - /url: //about.jd.com
+        - text: "|"
+        - link "联系我们" [ref=e1397] [cursor=pointer]:
+          - /url: //about.jd.com/contact
+        - text: "|"
+        - link "联系客服" [ref=e1398] [cursor=pointer]:
+          - /url: //help.jd.com/user/custom.html
+        - text: "|"
+        - link "合作招商" [ref=e1399] [cursor=pointer]:
+          - /url: //lai.jd.com
+        - text: "|"
+        - link "商家帮助" [ref=e1400] [cursor=pointer]:
+          - /url: //helpcenter.jd.com/venderportal/index.html
+        - text: "|"
+        - link "营销中心" [ref=e1401] [cursor=pointer]:
+          - /url: //jzt.jd.com
+        - text: "|"
+        - link "手机京东" [ref=e1402] [cursor=pointer]:
+          - /url: //app.jd.com/
+        - text: "|"
+        - link "友情链接" [ref=e1403] [cursor=pointer]:
+          - /url: //club.jd.com/links.aspx
+        - text: "|"
+        - link "销售联盟" [ref=e1404] [cursor=pointer]:
+          - /url: //union.jd.com/index
+        - text: "|"
+        - link "京东社区" [ref=e1405] [cursor=pointer]:
+          - /url: //pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html
+        - text: "|"
+        - link "风险监测" [ref=e1406] [cursor=pointer]:
+          - /url: //pro.jd.com/mall/active/3TF25tMdrnURET8Ez1cW9hzfg3Jt/index.html
+        - text: "|"
+        - link "质量公告" [ref=e1407] [cursor=pointer]:
+          - /url: //pro.jd.com/mall/active/2udA8Qxf3A54dVVseY5CdUMSgQPs/index.html
+        - text: "|"
+        - link "隐私政策" [ref=e1408] [cursor=pointer]:
+          - /url: //about.jd.com/privacy/
+        - text: "|"
+        - link "京东公益" [ref=e1409] [cursor=pointer]:
+          - /url: //gongyi.jd.com
+        - text: "|"
+        - link "Media & IR" [ref=e1410] [cursor=pointer]:
+          - /url: //corporate.jd.com
+      - generic [ref=e1411]:
+        - generic [ref=e1412]:
+          - paragraph [ref=e1413]:
+            - link "京公网安备 11000002000088号" [ref=e1414] [cursor=pointer]:
+              - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088
+            - text: "|"
+            - link "京ICP备11041704号" [ref=e1415] [cursor=pointer]:
+              - /url: http://beian.miit.gov.cn
+            - text: "|"
+            - link "ICP" [ref=e1416] [cursor=pointer]:
+              - /url: //h5.m.jd.com/pc/dev/3T3No18XR8k8rpLGLGhgbJ1StAFq/index.html
+            - text: "|"
+            - link "药品医疗器械网络信息服务备案" [ref=e1417] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/2zRnBcZVhdAcWBMvBnoRcUdi3HBt/index.html
+            - text: "|"
+            - link "自营医疗器械经营资质" [ref=e1418] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/MZXpsnbHS3omkFAk4R4jYwXTb4c/index.html
+            - text: "|"
+            - link "药品网络交易第三方平台备案凭证" [ref=e1419] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/2pwvdCM94gBdWruSu82PkqzKyi3U/index.html
+            - text: "| 新出发京零 字第大120007号"
+          - paragraph [ref=e1420]:
+            - text: 互联网出版许可证编号新出网证(京)字150号 |
+            - link "出版物经营许可证" [ref=e1421] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/3bVDLXHdwVmdQksGF8TtS7ocq1NY/index.html
+            - text: "| 违法和不良信息举报电话：4006561155"
+          - paragraph [ref=e1422]:
+            - text: Copyright © 2004 - 2026 京东JINGDONG 版权所有 | 消费者维权热线：4006067733 |
+            - link "经营证照" [ref=e1423] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/38PitHBfR7ZopNHRSHnuuWR5AMDL/index.html
+            - text: "|"
+            - link "医疗器械第三方平台备案凭证（京）网械平台备字（2023）第00013号" [ref=e1424] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/36mqawDTyFwQpodmiJGf6bvPA8hs/index.html
+            - text: "|"
+            - link "营业执照" [ref=e1425] [cursor=pointer]:
+              - /url: //pro.jd.com/mall/active/5oanqbW74QJ5NLaKPx5QaWpFonw/index.html
+            - text: "|"
+            - link "增值电信业务经营许可证" [ref=e1426] [cursor=pointer]:
+              - /url: https://pro.jd.com/mall/active/3pNwSArkXgfvVYvejSxj44cRgPvQ/index.html
+        - paragraph [ref=e1428]:
+          - text: 京东旗下网站：
+          - link "京东钱包" [ref=e1429] [cursor=pointer]:
+            - /url: https://www.jdpay.com/
+          - text: "|"
+          - link "京东云" [ref=e1430] [cursor=pointer]:
+            - /url: http://www.jdcloud.com
+          - text: "| 网络内容从业人员违法违规行为举报电话：4006561155-3"
+      - paragraph [ref=e1431]:
+        - link "可信网站信用评估" [ref=e1432] [cursor=pointer]:
+          - /url: https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ampct=df&amppa=294005
+        - link "网络警察提醒你" [ref=e1433] [cursor=pointer]:
+          - /url: http://cyberpolice.mps.gov.cn/
+        - link "诚信网站" [ref=e1434] [cursor=pointer]:
+          - /url: https://search.szfw.org/cert/l/CX20120111001803001836
+        - link "中国互联网举报中心" [ref=e1435] [cursor=pointer]:
+          - /url: http://www.12377.cn/
+        - link "网络举报APP下载" [ref=e1436] [cursor=pointer]:
+          - /url: http://www.12377.cn/node_548446.htm
+        - link "扫黄打非网举报专区" [ref=e1437] [cursor=pointer]:
+          - /url: https://www.shdf.gov.cn/
+        - link "适老化无障碍服务" [ref=e1438] [cursor=pointer]:
+          - /url: javascript:;
+        - link "国家知识产权公共服务网" [ref=e1439] [cursor=pointer]:
+          - /url: https://ggfw.cnipa.gov.cn/home
+  - generic [ref=e1440]:
+    - generic [ref=e1441]:
+      - generic [ref=e1442]: 全部频道
+      - img [ref=e1443]
+    - generic [ref=e1444]:
+      - generic [ref=e1445] [cursor=pointer]: 优惠权益
+      - generic [ref=e1447] [cursor=pointer]: 互动游戏
+      - generic [ref=e1448] [cursor=pointer]: 发现好物
+      - generic [ref=e1449] [cursor=pointer]: 生活服务
+    - generic [ref=e1450]:
+      - generic [ref=e1451]:
+        - generic [ref=e1452]: 优惠权益
+        - generic [ref=e1454]:
+          - generic [ref=e1455] [cursor=pointer]:
+            - img [ref=e1456]
+            - generic [ref=e1457]: 国家补贴
+          - generic [ref=e1458] [cursor=pointer]:
+            - img [ref=e1459]
+            - generic [ref=e1460]: 司法拍卖
+          - generic [ref=e1461] [cursor=pointer]:
+            - img [ref=e1462]
+            - generic [ref=e1463]: 企业购
+          - generic [ref=e1464] [cursor=pointer]:
+            - img [ref=e1465]
+            - generic [ref=e1466]: 政府消费券
+          - generic [ref=e1467] [cursor=pointer]:
+            - img [ref=e1468]
+            - generic [ref=e1469]: 夺宝岛
+          - generic [ref=e1470] [cursor=pointer]:
+            - img [ref=e1471]
+            - generic [ref=e1472]: 家电国补
+          - generic [ref=e1473] [cursor=pointer]:
+            - img [ref=e1474]
+            - generic [ref=e1475]: 领券中心
+          - generic [ref=e1476] [cursor=pointer]:
+            - img [ref=e1477]
+            - generic [ref=e1478]: 黑色星期五
+          - generic [ref=e1479] [cursor=pointer]:
+            - img [ref=e1480]
+            - generic [ref=e1481]: 大牌奥莱
+          - generic [ref=e1482] [cursor=pointer]:
+            - img [ref=e1483]
+            - generic [ref=e1484]: 公共采购
+          - generic [ref=e1485] [cursor=pointer]:
+            - img [ref=e1486]
+            - generic [ref=e1487]: 企业计划购
+          - generic [ref=e1488] [cursor=pointer]:
+            - img [ref=e1489]
+            - generic [ref=e1490]: 跟买指南
+          - generic [ref=e1491] [cursor=pointer]:
+            - img [ref=e1492]
+            - generic [ref=e1493]: 超级18
+          - generic [ref=e1494] [cursor=pointer]:
+            - img [ref=e1495]
+            - generic [ref=e1496]: 京东拍卖
+      - generic [ref=e1497]:
+        - generic [ref=e1498]: 互动游戏
+        - generic [ref=e1500]:
+          - generic [ref=e1501] [cursor=pointer]:
+            - img [ref=e1502]
+            - generic [ref=e1503]: 游戏
+          - generic [ref=e1504] [cursor=pointer]:
+            - img [ref=e1505]
+            - generic [ref=e1506]: 天天领好礼
+      - generic [ref=e1507]:
+        - generic [ref=e1508]: 发现好物
+        - generic [ref=e1509]:
+          - generic [ref=e1510]: 发现
+          - generic [ref=e1511]:
+            - generic [ref=e1512] [cursor=pointer]:
+              - img [ref=e1513]
+              - generic [ref=e1514]: 京喜自营
+            - generic [ref=e1515] [cursor=pointer]:
+              - img [ref=e1516]
+              - generic [ref=e1517]: 京东新品
+            - generic [ref=e1518] [cursor=pointer]:
+              - img [ref=e1519]
+              - generic [ref=e1520]: 新店特惠
+            - generic [ref=e1521] [cursor=pointer]:
+              - img [ref=e1522]
+              - generic [ref=e1523]: 全球购
+            - generic [ref=e1524] [cursor=pointer]:
+              - img [ref=e1525]
+              - generic [ref=e1526]: 京东京造
+            - generic [ref=e1527] [cursor=pointer]:
+              - img [ref=e1528]
+              - generic [ref=e1529]: 京东特价
+            - generic [ref=e1530] [cursor=pointer]:
+              - img [ref=e1531]
+              - generic [ref=e1532]: 排行榜
+            - generic [ref=e1533] [cursor=pointer]:
+              - img [ref=e1534]
+              - generic [ref=e1535]: 礼品卡
+        - generic [ref=e1536]:
+          - generic [ref=e1537]: 3C数码
+          - generic [ref=e1538]:
+            - generic [ref=e1539] [cursor=pointer]:
+              - img [ref=e1540]
+              - generic [ref=e1541]: 电脑馆
+            - generic [ref=e1542] [cursor=pointer]:
+              - img [ref=e1543]
+              - generic [ref=e1544]: 配件馆
+            - generic [ref=e1545] [cursor=pointer]:
+              - img [ref=e1546]
+              - generic [ref=e1547]: 手机数码
+            - generic [ref=e1548] [cursor=pointer]:
+              - img [ref=e1549]
+              - generic [ref=e1550]: 游戏电竞
+            - generic [ref=e1551] [cursor=pointer]:
+              - img [ref=e1552]
+              - generic [ref=e1553]: 装机大师
+            - generic [ref=e1554] [cursor=pointer]:
+              - img [ref=e1555]
+              - generic [ref=e1556]: 电子教育
+            - generic [ref=e1557] [cursor=pointer]:
+              - img [ref=e1558]
+              - generic [ref=e1559]: 手机馆
+            - generic [ref=e1560] [cursor=pointer]:
+              - img [ref=e1561]
+              - generic [ref=e1562]: 京东图书
+        - generic [ref=e1563]:
+          - generic [ref=e1564]: 家电家居
+          - generic [ref=e1565]:
+            - generic [ref=e1566] [cursor=pointer]:
+              - img [ref=e1567]
+              - generic [ref=e1568]: 家装馆
+            - generic [ref=e1569] [cursor=pointer]:
+              - img [ref=e1570]
+              - generic [ref=e1571]: 家电家居
+            - generic [ref=e1572] [cursor=pointer]:
+              - img [ref=e1573]
+              - generic [ref=e1574]: 家电馆
+            - generic [ref=e1575] [cursor=pointer]:
+              - img [ref=e1576]
+              - generic [ref=e1577]: 家具馆
+            - generic [ref=e1578] [cursor=pointer]:
+              - img [ref=e1579]
+              - generic [ref=e1580]: 京东家居馆
+        - generic [ref=e1581]:
+          - generic [ref=e1582]: 超市
+          - generic [ref=e1583]:
+            - generic [ref=e1584] [cursor=pointer]:
+              - img [ref=e1585]
+              - generic [ref=e1586]: 宠物馆
+            - generic [ref=e1587] [cursor=pointer]:
+              - img [ref=e1588]
+              - generic [ref=e1589]: 京东超市
+            - generic [ref=e1590] [cursor=pointer]:
+              - img [ref=e1591]
+              - generic [ref=e1592]: 清洁馆
+            - generic [ref=e1593] [cursor=pointer]:
+              - img [ref=e1594]
+              - generic [ref=e1595]: 母婴馆
+            - generic [ref=e1596] [cursor=pointer]:
+              - img [ref=e1597]
+              - generic [ref=e1598]: 玩具乐器馆
+            - generic [ref=e1599] [cursor=pointer]:
+              - img [ref=e1600]
+              - generic [ref=e1601]: 京东生鲜
+        - generic [ref=e1602]:
+          - generic [ref=e1603]: 二手
+          - generic [ref=e1604]:
+            - generic [ref=e1605] [cursor=pointer]:
+              - img [ref=e1606]
+              - generic [ref=e1607]: 二手手机
+            - generic [ref=e1608] [cursor=pointer]:
+              - img [ref=e1609]
+              - generic [ref=e1610]: 拍拍二手
+        - generic [ref=e1611]:
+          - generic [ref=e1612]: 服饰美妆
+          - generic [ref=e1613]:
+            - generic [ref=e1614] [cursor=pointer]:
+              - img [ref=e1615]
+              - generic [ref=e1616]: 服饰美妆
+            - generic [ref=e1617] [cursor=pointer]:
+              - img [ref=e1618]
+              - generic [ref=e1619]: 服饰鞋帽
+            - generic [ref=e1620] [cursor=pointer]:
+              - img [ref=e1621]
+              - generic [ref=e1622]: 珠宝馆
+            - generic [ref=e1623] [cursor=pointer]:
+              - img [ref=e1624]
+              - generic [ref=e1625]: 潮流穿搭
+            - generic [ref=e1626] [cursor=pointer]:
+              - img [ref=e1627]
+              - generic [ref=e1628]: 京东奢品
+            - generic [ref=e1629] [cursor=pointer]:
+              - img [ref=e1630]
+              - generic [ref=e1631]: 运动馆
+            - generic [ref=e1632] [cursor=pointer]:
+              - img [ref=e1633]
+              - generic [ref=e1634]: 美妆馆
+        - generic [ref=e1635]:
+          - generic [ref=e1636]: 工业五金
+          - generic [ref=e1637]:
+            - generic [ref=e1638] [cursor=pointer]:
+              - img [ref=e1639]
+              - generic [ref=e1640]: 元器件
+            - generic [ref=e1641] [cursor=pointer]:
+              - img [ref=e1642]
+              - generic [ref=e1643]: 五金城
+        - generic [ref=e1644]:
+          - generic [ref=e1645]: 医疗保健
+          - generic [ref=e1646]:
+            - generic [ref=e1647] [cursor=pointer]:
+              - img [ref=e1648]
+              - generic [ref=e1649]: 家庭常备药
+            - generic [ref=e1650] [cursor=pointer]:
+              - img [ref=e1651]
+              - generic [ref=e1652]: 看病买药
+            - generic [ref=e1653] [cursor=pointer]:
+              - img [ref=e1654]
+              - generic [ref=e1655]: 医疗器械馆
+      - generic [ref=e1656]:
+        - generic [ref=e1657]: 生活服务
+        - generic [ref=e1659]:
+          - generic [ref=e1660] [cursor=pointer]:
+            - img [ref=e1661]
+            - generic [ref=e1662]: 京东快递
+          - generic [ref=e1663] [cursor=pointer]:
+            - img [ref=e1664]
+            - generic [ref=e1665]: 爱回收
+          - generic [ref=e1666] [cursor=pointer]:
+            - img [ref=e1667]
+            - generic [ref=e1668]: 京东互医
+          - generic [ref=e1669] [cursor=pointer]:
+            - img [ref=e1670]
+            - generic [ref=e1671]: 云建站
+          - generic [ref=e1672] [cursor=pointer]:
+            - img [ref=e1673]
+            - generic [ref=e1674]: 加油卡
+          - generic [ref=e1675] [cursor=pointer]:
+            - img [ref=e1676]
+            - generic [ref=e1677]: 护士到家
+          - generic [ref=e1678] [cursor=pointer]:
+            - img [ref=e1679]
+            - generic [ref=e1680]: 京东联名卡
+          - generic [ref=e1681] [cursor=pointer]:
+            - img [ref=e1682]
+            - generic [ref=e1683]: 充值中心
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - link:
+            - /url: "#"
+  - list [ref=e1685]:
+    - listitem [ref=e1686]:
+      - link "51 购物车" [ref=e1687] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e1688]: "51"
+        - img [ref=e1690]
+        - generic [ref=e1691]: 购物车
+    - listitem [ref=e1692]:
+      - link "我的" [ref=e1693] [cursor=pointer]:
+        - /url: //home.jd.com/
+        - img [ref=e1695]
+        - generic [ref=e1697]: 我的
+    - listitem [ref=e1698]:
+      - link "客服" [ref=e1699] [cursor=pointer]:
+        - /url: //jdcs.jd.com/chat/index.action?venderId=1&entry=jd_web_jimi_jdhome
+        - img [ref=e1701]
+        - generic [ref=e1703]: 客服
+    - listitem [ref=e1704]:
+      - link "插件版" [ref=e1706] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e1708]
+        - generic [ref=e1709]: 插件版
+    - listitem [ref=e1710]:
+      - link "反馈" [ref=e1711] [cursor=pointer]:
+        - /url: //wj-dongjian.jd.com/q/61961a0a457e4000a3085f78
+        - img [ref=e1713]
+        - generic [ref=e1715]: 反馈
+    - listitem [ref=e1716]:
+      - link "AI调研" [ref=e1717] [cursor=pointer]:
+        - /url: https://wj-dongjian.jd.com/q/69804a02a57f7300392ca3d6
+        - img [ref=e1719]
+        - generic [ref=e1720]: AI调研

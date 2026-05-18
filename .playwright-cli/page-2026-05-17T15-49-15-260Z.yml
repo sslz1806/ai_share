@@ -1,0 +1,45 @@
+- generic [ref=e94]:
+  - generic [ref=e97]:
+    - link [ref=e99] [cursor=pointer]:
+      - /url: https://www.jd.com/
+    - generic [ref=e100]:
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - generic [ref=e103]: 水月雨梦回2
+          - generic [ref=e104]: 水月雨aria
+          - generic [ref=e105]: 水月雨太空漫游2ultra
+          - generic [ref=e106]: 水月雨aria2
+          - generic [ref=e107]: 水月雨
+          - generic [ref=e108]: 达音科titans2
+          - generic [ref=e109]: 觅声天鹤座2
+          - generic [ref=e110]: 达音科
+          - generic [ref=e111]: 水月雨耳机
+          - generic [ref=e112]: 水月雨太空漫游2
+        - textbox "搜索" [ref=e113]
+        - generic [ref=e114]:
+          - generic [ref=e115]: 搜索
+          - switch [ref=e116] [cursor=pointer]
+        - button "搜索" [ref=e123] [cursor=pointer]
+      - generic [ref=e124]:
+        - generic [ref=e125] [cursor=pointer]: 水月雨梦回2
+        - generic [ref=e126] [cursor=pointer]: 水月雨aria2
+        - generic [ref=e127] [cursor=pointer]: 水月雨aria
+        - generic [ref=e128] [cursor=pointer]: dd r5内存条
+        - generic [ref=e129] [cursor=pointer]: 太空漫游2ultra
+        - generic [ref=e130] [cursor=pointer]: 水月雨x孤独摇滚
+        - generic [ref=e131] [cursor=pointer]: 水月雨竹2
+        - generic [ref=e132] [cursor=pointer]: 达音科titans2
+        - generic [ref=e133] [cursor=pointer]: 弱水静海2
+        - generic [ref=e134] [cursor=pointer]: 觅声天鹤座2
+  - generic [ref=e140]:
+    - generic [ref=e142] [cursor=pointer]:
+      - generic [ref=e143]: 全部商品
+      - generic [ref=e145]: 新品
+      - generic [ref=e146]: 店铺
+      - generic "企业购精选商品，企业热销、超低折扣、对公支付、开票无忧" [ref=e147]: 企业采购
+      - generic [ref=e148]: 工业品
+    - generic [ref=e149]:
+      - generic [ref=e151] [cursor=pointer]: 配送至
+      - generic [ref=e152]:
+        - generic [ref=e153] [cursor=pointer]: 传统模式
+        - generic [ref=e154] [cursor=pointer]: 简洁模式
